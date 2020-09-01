@@ -45,9 +45,9 @@ de mes recherches sur le numérique responsable, de façon organisée.
 # Acteurs
 
  - [GreenIT.fr](https://www.greenit.fr/)
-    - [Alliance GreenIT](https://alliancegreenit.org/)
-    - [Club GreenIT](https://club.greenit.fr/)
-    - [Collectif greenIT](https://collectif.greenit.fr/)
+    - [Alliance Green IT](https://alliancegreenit.org/)
+    - [Club Green IT](https://club.greenit.fr/)
+    - [Collectif Green IT](https://collectif.greenit.fr/)
  - [EcoInfo - CNRS](https://ecoinfo.cnrs.fr/)
  - [Shift Project](https://theshiftproject.org/) - [page wikipédia](https://fr.wikipedia.org/wiki/The_Shift_Project)
  - [INR - Institut du Numérique Responsable](https://institutnr.org/)
@@ -63,7 +63,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Google ne mettra plus ses algorithmes d&#39;intelligence artificielle au service des énergies fossiles](https://www.clubic.com/pro/entreprises/amazon/actualite-1631-google-ne-mettra-plus-ses-algorithmes-d-intelligence-artificielle-au-service-de-l-industrie-fossile.html)
  - [Cloud computing is not the energy hog that had been feared - The New York Times](https://www.nytimes.com/2020/02/27/technology/cloud-computing-energy-usage.html)
  - [La sobriété numérique, oui mais pour quoi faire ?](https://signal.eu.org/blog/2020/07/15/la-sobriete-numerique-oui-mais-pour-quoi-faire/)
- - [24x7-carbon-free-energy-data-centers.pdf](https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/24x7-carbon-free-energy-data-centers.pdf)
+ - [Papier de google sur les émissions de leurs DC](https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/24x7-carbon-free-energy-data-centers.pdf)
  - [La voracité en eau des data centers Google](https://siecledigital.fr/2020/04/04/la-voracite-en-eau-des-data-centers-google/)
  - [Amazon, Google, Microsoft: Here&#39;s Who Has the Greenest Cloud | WIRED](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
  - [Avis d&#39;Expert - Le cloud est-il green ?](https://www.actu-environnement.com/ae/news/cloud-est-il-green-32691.php4)
