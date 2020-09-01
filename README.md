@@ -13,6 +13,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - ➡️ [Lean ICT : « Pour une sobriété numérique »](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/) [2018] Rapport généraliste du shift project sur l'empreinte du numérique.
  - [« Climat : l'insoutenable usage de la vidéo en ligne »](https://theshiftproject.org/article/climat-insoutenable-usage-video/) [2019] Suite du rapport précédent avec un focus sur la vidéo.
     - [Comment réduire en 5 minutes le poids d&#39;une vidéo tout en gardant une bonne qualité ?](https://theshiftproject.org/guide-reduire-poids-video-5-minutes/)
+    - [« Carbonalyser » : l’extension de navigateur qui révèle combien surfer sur le web coûte au climat](https://theshiftproject.org/carbonalyser-extension-navigateur/)
     - [Factcheck: What is the carbon footprint of streaming video on Netflix? | Carbon Brief](https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix)
     - [Le Shift Project a-t-il vraiment surestimé l’empreinte carbone de la vidéo ?](https://theshiftproject.org/article/shift-project-vraiment-surestime-empreinte-carbone-video-analyse/)
  - [Publication du rapport intermédiaire « Déployer la sobriété numérique »](https://theshiftproject.org/article/rapport-intermediaire-deployer-sobriete-numerique/)
@@ -183,7 +184,8 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [40 000 enfants travaillent toujours dans les mines pour les batteries des véhicules électriques.](https://institutnr.org/40-000-enfants-travaillent-toujours-dans-les-mines-pour-nos-batteries)
 
 # Misc
-
+ - [Techologie - podcast](https://techologie.net/)
+ - [Mise en perspective](http://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/)
  - [Après la « honte de l’avion », la « honte du numérique » ? - Le monde](https://www.lemonde.fr/idees/article/2019/09/27/apres-la-honte-de-l-avion-la-honte-du-numerique_6013339_3232.html?fbclid=IwAR0Lo74igcROg9tGhj83Uqzr07Q4aG4PJMwQJOZlXh8dCWdLTlJCNghdCZA)
 
 # Espoir / Futur
