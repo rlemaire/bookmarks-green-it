@@ -79,8 +79,9 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Apollo Guidance Computer — Wikipédia](https://fr.wikipedia.org/wiki/Apollo_Guidance_Computer)
  - [La vente de smartphones dans le monde est en chute libre](https://www.blogdumoderateur.com/vente-smartphones-baisse/)
  - [Ampoule centenaire](https://fr.wikipedia.org/wiki/Ampoule_centenaire)
-
-
+# Epuisement des ressources
+ - [Définition de MIPS](https://en.wikipedia.org/wiki/Material_input_per_service_unit)
+ - [Durée de vie des réserves rentables](https://www.usinenouvelle.com/article/infographie-de-surprenantes-matieres-critiques.N563822)
 # Obésité logicielle
 ## Constat
 
@@ -136,7 +137,8 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 # DEEE
  - [Page wikipédia sur les DEEE](https://fr.wikipedia.org/wiki/D%C3%A9chets_d%27%C3%A9quipements_%C3%A9lectriques_et_%C3%A9lectroniques)
  - [Le volume de déchets électroniques explose et leur taux de recyclage reste ridicule](https://theconversation.com/le-volume-de-dechets-electroniques-explose-et-leur-taux-de-recyclage-reste-ridicule-143701)
-
+ - [Les déchets électroniques intoxiquent le Ghana - Le Monde](https://www.lemonde.fr/planete/article/2013/12/27/les-dechets-electroniques-intoxiquent-le-ghana_4340635_3244.html)
+ - [Au Ghana, avec les damnés du «Sodome et Ghomorre» électronique - libération](https://www.liberation.fr/planete/2019/01/09/au-ghana-avec-les-damnes-du-sodome-et-ghomorre-electronique_1701925)
 # Mutualisation
  - [BYOD : quelles sont les bonnes pratiques ? | CNIL](https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques)
  - [Règle des 5R](https://fr.wikipedia.org/wiki/R%C3%A8gle_des_5_R)
@@ -182,7 +184,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [L&#39;exploitation des enfants dans les mines du Congo | Le Club de Mediapart](https://blogs.mediapart.fr/rachid-barbouch/blog/060317/lexploitation-des-enfants-dans-les-mines-du-congo)
  - [Destructions | Les dessous de la HighTech](http://dessousdelahightech.org/production/destructions/)
  - [40 000 enfants travaillent toujours dans les mines pour les batteries des véhicules électriques.](https://institutnr.org/40-000-enfants-travaillent-toujours-dans-les-mines-pour-nos-batteries)
-
+ - [Filets anti suicide chez Foxconn](https://www.lesnumeriques.com/vie-du-net/enquete-vitriol-envoye-special-sur-geant-chinois-foxconn-n27404.html) - [idem](https://www.liberation.fr/futurs/2010/06/03/suicides-a-la-chaine-chez-le-geant-foxconn_656243)
 # Misc
  - [Techologie - podcast](https://techologie.net/)
  - [Mise en perspective](http://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/)
