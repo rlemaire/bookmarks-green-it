@@ -109,6 +109,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Adblock Plus - % trafic by ads](http://www.sfu.ca/content/dam/sfu/snfchs/pdfs/Adblock.Plus.Study.pdf) - Etude d'ad block plus qui indique que la publicité représente 25% du trafic.
  - [Google chrome va bloquer les publicités qui consomment trop de batterie](https://www.pcmag.com/news/googles-chrome-browser-to-block-battery-draining-data-guzzling-ads)
 ### Misc
+ - [Loi de Wirth](https://fr.wikipedia.org/wiki/Loi_de_Wirth)
  - [La voiture autonome ? Une catastrophe écologique - Reporterre](https://reporterre.net/La-voiture-autonome-Une-catastrophe-ecologique?fbclid=IwAR3H2keDtQa5MlEwUUrE4Ks797HTE31SPrZNwG3j5hW1X0DDs3iS_80A9C0)
  - [Le train pollue inutilement à cause de la pub des e-billets](https://medium.com/@matti_sg_fr/bilan-carbone-billet-electronique-train-fba4f215d471) - Un blogueur calcule l'empreinte écologique de la publicité sur son billet de train, qui peut être supérieure à celle du trajet.
  - [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/)
@@ -187,6 +188,8 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [40 000 enfants travaillent toujours dans les mines pour les batteries des véhicules électriques.](https://institutnr.org/40-000-enfants-travaillent-toujours-dans-les-mines-pour-nos-batteries)
  - [Filets anti suicide chez Foxconn](https://www.lesnumeriques.com/vie-du-net/enquete-vitriol-envoye-special-sur-geant-chinois-foxconn-n27404.html) - [idem](https://www.liberation.fr/futurs/2010/06/03/suicides-a-la-chaine-chez-le-geant-foxconn_656243)
 # Misc
+ - [Loi de Moore](https://fr.wikipedia.org/wiki/Loi_de_Moore)
+ - [Loi de Koomey](https://fr.wikipedia.org/wiki/Loi_de_Koomey)
  - [Techologie - podcast](https://techologie.net/)
  - [Mise en perspective](http://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/)
  - [Après la « honte de l’avion », la « honte du numérique » ? - Le monde](https://www.lemonde.fr/idees/article/2019/09/27/apres-la-honte-de-l-avion-la-honte-du-numerique_6013339_3232.html?fbclid=IwAR0Lo74igcROg9tGhj83Uqzr07Q4aG4PJMwQJOZlXh8dCWdLTlJCNghdCZA)
