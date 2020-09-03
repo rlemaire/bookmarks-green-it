@@ -70,6 +70,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Centre de données sur wikipédia](https://fr.wikipedia.org/wiki/Centre_de_donn%C3%A9es)
  - [Cloud computing sur wikipédia](https://fr.wikipedia.org/wiki/Cloud_computing)
  - [PUE](https://fr.wikipedia.org/wiki/Indicateur_d%27efficacit%C3%A9_%C3%A9nerg%C3%A9tique)
+ - [30% of servers are comatose](https://www.anthesisgroup.com/wp-content/uploads/2019/11/Case-Study_DataSupports30PercentComatoseEstimate-FINAL_06032015.pdf)
 # Obsolescence
  - ➡️ [Livre Blanc HOP](https://www.halteobsolescence.org/wp-content/uploads/2019/02/Livre-Blanc.pdf)
  - [Pour 3 centimes un téléviseur Samsung réparé, un cas d’école?](https://www.halteobsolescence.org/une-tv-samsung-victime-dobsolescence-programmee/)
