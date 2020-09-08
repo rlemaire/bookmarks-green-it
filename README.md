@@ -81,6 +81,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Apollo Guidance Computer — Wikipédia](https://fr.wikipedia.org/wiki/Apollo_Guidance_Computer)
  - [La vente de smartphones dans le monde est en chute libre](https://www.blogdumoderateur.com/vente-smartphones-baisse/)
  - [Ampoule centenaire](https://fr.wikipedia.org/wiki/Ampoule_centenaire)
+ - [Fin de la loi de Moore](https://pbs.twimg.com/media/Ead5LCIUcAQvEpI?format=jpg&name=large)
 # Epuisement des ressources
  - [Définition de MIPS](https://en.wikipedia.org/wiki/Material_input_per_service_unit)
  - [Durée de vie des réserves rentables](https://www.usinenouvelle.com/article/infographie-de-surprenantes-matieres-critiques.N563822)
