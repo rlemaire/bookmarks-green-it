@@ -174,7 +174,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [gtmetrix](https://gtmetrix.com/)
  - [ Addy Osmani's 18-Point Web Performance Checklist ](https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1)
  
- 11Autres
+## Autres
  - [Matomo : Analytics](https://fr.matomo.org/)
  - [You don't need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
  - [Démo e-commerce avec générateur de site ](http://demo.themefisher.com/hargo-hugo/)
