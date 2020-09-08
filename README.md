@@ -157,20 +157,24 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - ➡️ [Les 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
  - [Outils du collectif GreenIT](https://collectif.greenit.fr/outils.html)
  
+ ## Outils "green"
  - [Ecoindex](http://www.ecoindex.fr)
  - [Ecometer](http://ecometer.org/)
  - ➡️ GreenIT analysis [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr), [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/)
-
  - [The Green Web Foundation](https://www.thegreenwebfoundation.org/directory/) évaluation de l'hébergement
  - [Surfgreen](https://www.surfgreen.dev/) Analyse de métriques front-end d’un site à partir de son URL : speed index, cpu, … donne des conseils de bonnes pratiques.
  - [web site carbon](https://www.websitecarbon.com/) Donne une évaluation de l'impact de GES d'une URL, et in classement relatif
  - [Ecograder](https://www.ecograder.com/) Agrégateur. Donne plusieurs métriques front à partir d'une URL, sans détailler. uriise des données d'autres calcultateurs.
  - [ML CO2 Impact](https://mlco2.github.io/impact/) Calcul de l’impact carbone uniquement, pour le cas d’utilisation particulier du machine learning.
  
+ ## Outils de perfs web
  - [sitespeed.io](https://www.sitespeed.io/)
  - [PowerAPI](https://powerapi-ng.github.io/) 
  - ➡️ [Google page insight](https://developers.google.com/speed/pagespeed/insights/)
+ - [gtmetrix](https://gtmetrix.com/)
+ - [ Addy Osmani's 18-Point Web Performance Checklist ](https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1)
  
+ 11Autres
  - [Matomo : Analytics](https://fr.matomo.org/)
  - [You don't need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
  - [Démo e-commerce avec générateur de site ](http://demo.themefisher.com/hargo-hugo/)
