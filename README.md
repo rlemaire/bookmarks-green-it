@@ -93,6 +93,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 ### Web
  - ➡️ [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
+ - Parts de marché des navigateurs [Récap sur wikipédia](https://fr.wikipedia.org/wiki/Parts_de_march%C3%A9_des_navigateurs_web), [statista](https://www.statista.com/statistics/544400/market-share-of-internet-browsers-desktop/), [w3 counter](https://www.w3counter.com/globalstats.php), [stat counter world](https://gs.statcounter.com/browser-market-share), [stat counter France](https://gs.statcounter.com/browser-market-share/all/france)
  - [The Website Obesity Crisis – HTeuMeuLeu](https://www.hteumeuleu.fr/the-website-obesity-crisis/)
  - [Things That Turbo Pascal is Smaller Than](https://prog21.dadgum.com/116.html?0) - Tout turbo pascal (compilateur, éditeur, etc...) était plus léger que jquery.
  - [The Weight of JS | Open blog](https://deploy-preview-40--open-blog.netlify.app/posts/swiip/the-weight-of-js/)
