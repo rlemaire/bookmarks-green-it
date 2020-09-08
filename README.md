@@ -71,11 +71,12 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Cloud computing sur wikipédia](https://fr.wikipedia.org/wiki/Cloud_computing)
  - [PUE](https://fr.wikipedia.org/wiki/Indicateur_d%27efficacit%C3%A9_%C3%A9nerg%C3%A9tique)
  - [30% of servers are comatose](https://www.anthesisgroup.com/wp-content/uploads/2019/11/Case-Study_DataSupports30PercentComatoseEstimate-FINAL_06032015.pdf)
-# Obsolescence
+# Obsolescence 
  - ➡️ [Livre Blanc HOP](https://www.halteobsolescence.org/wp-content/uploads/2019/02/Livre-Blanc.pdf)
  - [Pour 3 centimes un téléviseur Samsung réparé, un cas d’école?](https://www.halteobsolescence.org/une-tv-samsung-victime-dobsolescence-programmee/)
  - [ICE/ISEE-3 to return to an Earth no longer capable of speaking to it](http://www.planetary.org/blogs/emily-lakdawalla/2014/02070836-isee-3.html) - On ne peut plus parler à cette sonde spatiale faute de matériel adéquat.
  - [Apollo 11 vs USB-C Chargers](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html) - Les ports USB sont plus puissants que l'ordinateur d'Apollo 11.
+ - [Les tests de grossesse électroniques sont plus puissant que les premiers IBM PC](https://twitter.com/foone/status/1301707401024827392)
  - [The Mother of All Demos, presented by Douglas Engelbart (1968) - YouTube](https://www.youtube.com/watch?v=yJDv-zdhzMY) - Démonstration faite en 1968 de la première souris informatique, de la visioconférence, de la téléconférence, du courrier électronique et du système hypertexte, et tout est rapide.
  - [Apollo Guidance Computer — Wikipédia](https://fr.wikipedia.org/wiki/Apollo_Guidance_Computer)
  - [La vente de smartphones dans le monde est en chute libre](https://www.blogdumoderateur.com/vente-smartphones-baisse/)
@@ -114,6 +115,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Le train pollue inutilement à cause de la pub des e-billets](https://medium.com/@matti_sg_fr/bilan-carbone-billet-electronique-train-fba4f215d471) - Un blogueur calcule l'empreinte écologique de la publicité sur son billet de train, qui peut être supérieure à celle du trajet.
  - [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/)
  - [Web We Can Afford Community Group](https://www.w3.org/community/wwca/)
+ - [Poids du jeu démineur sur windows au fil du temps](https://pbs.twimg.com/media/EfJQlYOUEAMjUGG?format=png&name=small)
 
 ## Versions light de site connus
 
