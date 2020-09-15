@@ -80,6 +80,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [The Mother of All Demos, presented by Douglas Engelbart (1968) - YouTube](https://www.youtube.com/watch?v=yJDv-zdhzMY) - Démonstration faite en 1968 de la première souris informatique, de la visioconférence, de la téléconférence, du courrier électronique et du système hypertexte, et tout est rapide.
  - [Apollo Guidance Computer — Wikipédia](https://fr.wikipedia.org/wiki/Apollo_Guidance_Computer)
  - [La vente de smartphones dans le monde est en chute libre](https://www.blogdumoderateur.com/vente-smartphones-baisse/)
+ - [ Number of smartphones sold to end users worldwide from 2007 to 2021](https://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/-
  - [Ampoule centenaire](https://fr.wikipedia.org/wiki/Ampoule_centenaire)
  - [Fin de la loi de Moore](https://pbs.twimg.com/media/Ead5LCIUcAQvEpI?format=jpg&name=large)
 # Epuisement des ressources
