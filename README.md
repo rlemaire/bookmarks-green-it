@@ -35,6 +35,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [The Hidden Water in Everyday Products - Water Footprint Calculator](https://www.watercalculator.org/water-use/the-hidden-water-in-everyday-products/)
  - [Livret La Guerre des métaux rares](https://fr.calameo.com/read/002094473c9f01879e45b) : Annexe du livre de Guillaume Pitron.
  - [Energy Efficiency across Programming Languages](http://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
+ - ➡️ [Article de Greenspetor - Faut-il limiter les données qui transitent sur internet pour réduire l’impact du numérique ?](https://greenspector.com/fr/limiter-les-donnees-internet-pour-reduire-impact-numerique/)
 
 # Sur wikipédia
 
@@ -99,13 +100,14 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [The Website Obesity Crisis – HTeuMeuLeu](https://www.hteumeuleu.fr/the-website-obesity-crisis/)
  - [Things That Turbo Pascal is Smaller Than](https://prog21.dadgum.com/116.html?0) - Tout turbo pascal (compilateur, éditeur, etc...) était plus léger que jquery.
  - [The Weight of JS | Open blog](https://deploy-preview-40--open-blog.netlify.app/posts/swiip/the-weight-of-js/)
- - [The cost of JavaScript in 2018 - Addy Osmani](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+ - ➡️ [The cost of JavaScript in 2018 - Addy Osmani](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
  - [The cost of JavaScript in 2019 - Addy Osmani](https://v8.dev/blog/cost-of-javascript-2019)
  - [Your web app is bloated](https://github.com/dominictarr/your-web-app-is-bloated) - Mesure de l'empreinte mémoire de nombreuses applications web.
  - [TheProject.html | CommitStrip](https://www.commitstrip.com/fr/2019/03/22/theproject-html/)
  - [The Ethics of Web Performance](https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/)
  - [The web is Doom](https://mobiforge.com/research-analysis/the-web-is-doom) - Les pages web sont en moyenne plus grosses que le jeu Doom depuis 2016.
  - [Unreal Engine 5 is meant to ridicule web developers](https://www.theolognion.com/unreal-engine-5-is-meant-to-ridicule-web-developers/)
+ - ➡️ [httparchive - Page Weight](https://httparchive.org/reports/page-weight#bytesTotal)
 ### Blockchain / bitcoin
  - [Consommation énergétique des technologies blockchain – EcoInfo](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
  - [Le bitcoin, gouffre énergétique et péril climatique - Le Monde](https://www.lemonde.fr/planete/article/2018/11/08/le-bitcoin-pourrait-accelerer-le-changement-climatique_5380452_3244.html)
@@ -119,6 +121,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/)
  - [Web We Can Afford Community Group](https://www.w3.org/community/wwca/)
  - [Poids du jeu démineur sur windows au fil du temps](https://pbs.twimg.com/media/EfJQlYOUEAMjUGG?format=png&name=small)
+ - [Progressive CSS](https://ichimnetz.com/)
 
 ## Versions light de site connus
 
@@ -153,6 +156,9 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 # 5G
  - ➡️ [Gauthier Roussilhe | La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
  - [Hugues Ferreboeuf et Jean-Marc Jancovici : « La 5G est-elle vraiment utile ? »](https://www.lemonde.fr/idees/article/2020/01/09/5g-ne-sommes-nous-pas-en-train-de-confondre-ce-qui-est-nouveau-avec-ce-qui-est-utile-ce-qui-semble-urgent-avec-ce-qui-est-important_6025291_3232.html)
+ - [Blog du parti pirate](https://partipirate.org/5g-elevons-le-debat/)
+ - [Blog de GreenIT](https://www.greenit.fr/2020/09/30/5g-recentrons-le-debat/)
+ - [Gauthier Roussilhe - Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
 
 # Outils, tutoriels, référentiels
  - ➡️ [Les 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
