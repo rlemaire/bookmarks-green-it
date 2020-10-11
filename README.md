@@ -165,8 +165,10 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [Gauthier Roussilhe - Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
 
 # Outils, tutoriels, référentiels
- - ➡️ [Les 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
+ - [Les 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
  - [Outils du collectif GreenIT](https://collectif.greenit.fr/outils.html)
+ - [Référentiel des 65 bonnes pratiques de l’INR](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf)
+ - [Mooc numérique responsable de l’INR](https://www.academie-nr.org/#mooc-nr)
  
  ## Outils "green"
  - [Ecoindex](http://www.ecoindex.fr)
