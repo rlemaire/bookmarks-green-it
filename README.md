@@ -6,6 +6,10 @@ de mes recherches sur le numérique responsable, de façon organisée.
  
 # Rapports et études
 
+## Eco Info CNRS
+
+- ➡️ [Référentiel de connaissances pour un numérique éco responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) collection de liens organisée et complète !
+
 ## GreenIT
  - ➡️ [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) [2019] Le rapport récent de GreenIT.fr sur l'empreinte écologique du numérique au niveau mondial. Basé sur une méthodologie d'ACV.
  - [Quels sont les impacts environnementaux du numérique en France ?](https://www.greenit.fr/2020/06/23/quels-sont-les-impacts-environnementaux-du-numerique-en-france/) [Juin 2020] Suite du rapport précédent, focalisé sur la France.
