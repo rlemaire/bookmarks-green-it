@@ -169,6 +169,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [Outils du collectif GreenIT](https://collectif.greenit.fr/outils.html)
  - [Référentiel des 65 bonnes pratiques de l’INR](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf)
  - [Mooc numérique responsable de l’INR](https://www.academie-nr.org/#mooc-nr)
+ - [GR - Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
  
  ## Outils "green"
  - [Ecoindex](http://www.ecoindex.fr)
