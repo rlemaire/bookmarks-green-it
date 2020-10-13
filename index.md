@@ -18,7 +18,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [« Climat : l'insoutenable usage de la vidéo en ligne »](https://theshiftproject.org/article/climat-insoutenable-usage-video/) [2019] Suite du rapport précédent avec un focus sur la vidéo.
     - [Comment réduire en 5 minutes le poids d&#39;une vidéo tout en gardant une bonne qualité ?](https://theshiftproject.org/guide-reduire-poids-video-5-minutes/)
     - [« Carbonalyser » : l’extension de navigateur qui révèle combien surfer sur le web coûte au climat](https://theshiftproject.org/carbonalyser-extension-navigateur/)
-    - [Factcheck: What is the carbon footprint of streaming video on Netflix? | Carbon Brief](https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix)
+    - [Factcheck: What is the carbon footprint of streaming video on Netflix? - Carbon Brief](https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix)
     - [Le Shift Project a-t-il vraiment surestimé l’empreinte carbone de la vidéo ?](https://theshiftproject.org/article/shift-project-vraiment-surestime-empreinte-carbone-video-analyse/)
  - [Publication du rapport intermédiaire « Déployer la sobriété numérique »](https://theshiftproject.org/article/rapport-intermediaire-deployer-sobriete-numerique/)
 
@@ -70,7 +70,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [La sobriété numérique, oui mais pour quoi faire ?](https://signal.eu.org/blog/2020/07/15/la-sobriete-numerique-oui-mais-pour-quoi-faire/)
  - [Papier de google sur les émissions de leurs DC](https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/24x7-carbon-free-energy-data-centers.pdf)
  - [La voracité en eau des data centers Google](https://siecledigital.fr/2020/04/04/la-voracite-en-eau-des-data-centers-google/)
- - [Amazon, Google, Microsoft: Here&#39;s Who Has the Greenest Cloud | WIRED](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
+ - [Amazon, Google, Microsoft: Here&#39;s Who Has the Greenest Cloud - WIRED](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
  - [Avis d&#39;Expert - Le cloud est-il green ?](https://www.actu-environnement.com/ae/news/cloud-est-il-green-32691.php4)
  - [Centre de données sur wikipédia](https://fr.wikipedia.org/wiki/Centre_de_donn%C3%A9es)
  - [Cloud computing sur wikipédia](https://fr.wikipedia.org/wiki/Cloud_computing)
@@ -85,7 +85,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [The Mother of All Demos, presented by Douglas Engelbart (1968) - YouTube](https://www.youtube.com/watch?v=yJDv-zdhzMY) - Démonstration faite en 1968 de la première souris informatique, de la visioconférence, de la téléconférence, du courrier électronique et du système hypertexte, et tout est rapide.
  - [Apollo Guidance Computer — Wikipédia](https://fr.wikipedia.org/wiki/Apollo_Guidance_Computer)
  - [La vente de smartphones dans le monde est en chute libre](https://www.blogdumoderateur.com/vente-smartphones-baisse/)
- - [ Number of smartphones sold to end users worldwide from 2007 to 2021](https://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/-
+ - [Number of smartphones sold to end users worldwide from 2007 to 2021](https://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/)
  - [Ampoule centenaire](https://fr.wikipedia.org/wiki/Ampoule_centenaire)
  - [Fin de la loi de Moore](https://pbs.twimg.com/media/Ead5LCIUcAQvEpI?format=jpg&name=large)
 # Epuisement des ressources
@@ -103,11 +103,11 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - Parts de marché des navigateurs [Récap sur wikipédia](https://fr.wikipedia.org/wiki/Parts_de_march%C3%A9_des_navigateurs_web), [statista](https://www.statista.com/statistics/544400/market-share-of-internet-browsers-desktop/), [w3 counter](https://www.w3counter.com/globalstats.php), [stat counter world](https://gs.statcounter.com/browser-market-share), [stat counter France](https://gs.statcounter.com/browser-market-share/all/france)
  - [The Website Obesity Crisis – HTeuMeuLeu](https://www.hteumeuleu.fr/the-website-obesity-crisis/)
  - [Things That Turbo Pascal is Smaller Than](https://prog21.dadgum.com/116.html?0) - Tout turbo pascal (compilateur, éditeur, etc...) était plus léger que jquery.
- - [The Weight of JS | Open blog](https://deploy-preview-40--open-blog.netlify.app/posts/swiip/the-weight-of-js/)
+ - [The Weight of JS - Open blog](https://deploy-preview-40--open-blog.netlify.app/posts/swiip/the-weight-of-js/)
  - ➡️ [The cost of JavaScript in 2018 - Addy Osmani](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
  - [The cost of JavaScript in 2019 - Addy Osmani](https://v8.dev/blog/cost-of-javascript-2019)
  - [Your web app is bloated](https://github.com/dominictarr/your-web-app-is-bloated) - Mesure de l'empreinte mémoire de nombreuses applications web.
- - [TheProject.html | CommitStrip](https://www.commitstrip.com/fr/2019/03/22/theproject-html/)
+ - [TheProject.html - CommitStrip](https://www.commitstrip.com/fr/2019/03/22/theproject-html/)
  - [The Ethics of Web Performance](https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/)
  - [The web is Doom](https://mobiforge.com/research-analysis/the-web-is-doom) - Les pages web sont en moyenne plus grosses que le jeu Doom depuis 2016.
  - [Unreal Engine 5 is meant to ridicule web developers](https://www.theolognion.com/unreal-engine-5-is-meant-to-ridicule-web-developers/)
@@ -154,11 +154,11 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [Les déchets électroniques intoxiquent le Ghana - Le Monde](https://www.lemonde.fr/planete/article/2013/12/27/les-dechets-electroniques-intoxiquent-le-ghana_4340635_3244.html)
  - [Au Ghana, avec les damnés du «Sodome et Ghomorre» électronique - libération](https://www.liberation.fr/planete/2019/01/09/au-ghana-avec-les-damnes-du-sodome-et-ghomorre-electronique_1701925)
 # Mutualisation
- - [BYOD : quelles sont les bonnes pratiques ? | CNIL](https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques)
+ - [BYOD : quelles sont les bonnes pratiques ? - CNIL](https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques)
  - [Règle des 5R](https://fr.wikipedia.org/wiki/R%C3%A8gle_des_5_R)
 
 # 5G
- - ➡️ [Gauthier Roussilhe | La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
+ - ➡️ [Gauthier Roussilhe - La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
  - [Hugues Ferreboeuf et Jean-Marc Jancovici : « La 5G est-elle vraiment utile ? »](https://www.lemonde.fr/idees/article/2020/01/09/5g-ne-sommes-nous-pas-en-train-de-confondre-ce-qui-est-nouveau-avec-ce-qui-est-utile-ce-qui-semble-urgent-avec-ce-qui-est-important_6025291_3232.html)
  - [Blog du parti pirate](https://partipirate.org/5g-elevons-le-debat/)
  - [Blog de GreenIT](https://www.greenit.fr/2020/09/30/5g-recentrons-le-debat/)
@@ -216,9 +216,9 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 
 # Aspects sociaux
  - [Madagascar : plus de 10 000 enfants employés dans les mines pour extraire le mica](https://mobile.francetvinfo.fr/monde/afrique/societe-africaine/madagascar-plus-de-10000-enfants-employes-dans-les-mines-pour-extraire-le-mica_3718113.html?fbclid=IwAR28VmpQ3QoxaasWlFBrdfsZYE9hAr_8j9xIdEaQ_HAlL-e9jIAuW-9didA#xtref=https://m.facebook.com/)
- - [Le travail des enfants derrière la production de smartphones et de voitures électriques | Amnesty International](https://www.amnesty.org/fr/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/)
- - [L&#39;exploitation des enfants dans les mines du Congo | Le Club de Mediapart](https://blogs.mediapart.fr/rachid-barbouch/blog/060317/lexploitation-des-enfants-dans-les-mines-du-congo)
- - [Destructions | Les dessous de la HighTech](http://dessousdelahightech.org/production/destructions/)
+ - [Le travail des enfants derrière la production de smartphones et de voitures électriques - Amnesty International](https://www.amnesty.org/fr/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/)
+ - [L&#39;exploitation des enfants dans les mines du Congo - Le Club de Mediapart](https://blogs.mediapart.fr/rachid-barbouch/blog/060317/lexploitation-des-enfants-dans-les-mines-du-congo)
+ - [Destructions - Les dessous de la HighTech](http://dessousdelahightech.org/production/destructions/)
  - [40 000 enfants travaillent toujours dans les mines pour les batteries des véhicules électriques.](https://institutnr.org/40-000-enfants-travaillent-toujours-dans-les-mines-pour-nos-batteries)
  - [Filets anti suicide chez Foxconn](https://www.lesnumeriques.com/vie-du-net/enquete-vitriol-envoye-special-sur-geant-chinois-foxconn-n27404.html) - [idem](https://www.liberation.fr/futurs/2010/06/03/suicides-a-la-chaine-chez-le-geant-foxconn_656243)
 # Misc
@@ -235,4 +235,4 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [Économie de la fonctionnalité - Ministère de la Transition écologique](https://www.ecologie.gouv.fr/leconomie-fonctionnalite)
 
 ## Misc
- - [Une électronique souple à base de bois | Pour la Science](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
+ - [Une électronique souple à base de bois - Pour la Science](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
