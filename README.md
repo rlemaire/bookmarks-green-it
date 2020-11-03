@@ -210,6 +210,11 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - ➡️ [Modélisation et évaluation des impacts environnementaux de produits de consommation](https://www.ademe.fr/modelisation-evaluation-impacts-environnementaux-produits-consommation-biens-dequipement)
  - ➡️ [ecoinvent Version 3](https://www.ecoinvent.org/database/database.html)
  - [Energy Star Product Finder API](https://www.energystar.gov/productfinder/advanced)
+ - [EcoInfo - Données EcoDiag](https://ecoinfo.cnrs.fr/wp-content/uploads/2019/12/ecodiag-v19.12.html)
+ - [iPhone XSEnvironmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_PER_sept2018.pdf)
+ - [Carbon Footprint of a Typical Rack Server from Dell](http://i.dell.com/sites/content/corporate/corp-comm/en/documents/dell-server-carbon-footprint-whitepaper.pdf)
+ - [HP IT ECO Declarations](http://h22235.www2.hp.com/hpinfo/globalcitizenship/environment/productdata/itecodesktop-pc.html?jumpid=in_r138_us/en/corp/eco_declarations/module-1/it-eco-declarations-for-hp-products)
+ - [Google sustainability reports](https://sustainability.google/reports/)
 
 # IOT
  - [Fil dentaire connecté](https://www.kickstarter.com/projects/flosstime/flosstime-worlds-first-smart-floss-dispenser)
