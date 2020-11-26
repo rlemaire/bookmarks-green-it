@@ -76,6 +76,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Cloud computing sur wikipédia](https://fr.wikipedia.org/wiki/Cloud_computing)
  - [PUE](https://fr.wikipedia.org/wiki/Indicateur_d%27efficacit%C3%A9_%C3%A9nerg%C3%A9tique)
  - [30% of servers are comatose](https://www.anthesisgroup.com/wp-content/uploads/2019/11/Case-Study_DataSupports30PercentComatoseEstimate-FINAL_06032015.pdf)
+ - [La consommation d'électricité des datacenters dans l'Union européenne pourrait atteindre jusqu'à 98,5 TWh d'ici 2030](https://cloud-computing.developpez.com/actu/310748/La-consommation-d-electricite-des-datacenters-dans-l-Union-europeenne-pourrait-atteindre-jusqu-a-98-5-TWh-d-ici-2030-selon-une-etude-menee-par-la-Commission-europeenne/)
 # Obsolescence 
  - ➡️ [Livre Blanc HOP](https://www.halteobsolescence.org/wp-content/uploads/2019/02/Livre-Blanc.pdf)
  - [Pour 3 centimes un téléviseur Samsung réparé, un cas d’école?](https://www.halteobsolescence.org/une-tv-samsung-victime-dobsolescence-programmee/)
@@ -126,6 +127,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Web We Can Afford Community Group](https://www.w3.org/community/wwca/)
  - [Poids du jeu démineur sur windows au fil du temps](https://pbs.twimg.com/media/EfJQlYOUEAMjUGG?format=png&name=small)
  - [Progressive CSS](https://ichimnetz.com/)
+ - [Pour la science - Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
 
 ## Versions light de site connus
 
