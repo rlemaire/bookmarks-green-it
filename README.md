@@ -21,6 +21,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
     - [Factcheck: What is the carbon footprint of streaming video on Netflix? - Carbon Brief](https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix)
     - [Le Shift Project a-t-il vraiment surestimé l’empreinte carbone de la vidéo ?](https://theshiftproject.org/article/shift-project-vraiment-surestime-empreinte-carbone-video-analyse/)
  - [Publication du rapport intermédiaire « Déployer la sobriété numérique »](https://theshiftproject.org/article/rapport-intermediaire-deployer-sobriete-numerique/)
+ - [Publication du rapport final « Déployer la sobriété numérique »](https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/)
 
 ## Ademe
  - ➡️ [Modélisation et évaluation des impacts environnementaux de produits de consommation](https://www.ademe.fr/modelisation-evaluation-impacts-environnementaux-produits-consommation-biens-dequipement) - Contient des données sur le MIPS et l'empreinte carbone de nombreux produits (numérique mais aussi vêtements, meubles, ...)
