@@ -78,6 +78,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [PUE](https://fr.wikipedia.org/wiki/Indicateur_d%27efficacit%C3%A9_%C3%A9nerg%C3%A9tique)
  - [30% of servers are comatose](https://www.anthesisgroup.com/wp-content/uploads/2019/11/Case-Study_DataSupports30PercentComatoseEstimate-FINAL_06032015.pdf)
  - [La consommation d'électricité des datacenters dans l'Union européenne pourrait atteindre jusqu'à 98,5 TWh d'ici 2030](https://cloud-computing.developpez.com/actu/310748/La-consommation-d-electricite-des-datacenters-dans-l-Union-europeenne-pourrait-atteindre-jusqu-a-98-5-TWh-d-ici-2030-selon-une-etude-menee-par-la-Commission-europeenne/)
+ - [Quelle est l’empreinte carbone de la transmission d’1 Go sur le réseau RENATER ? - CNRS](https://ecoinfo.cnrs.fr/2020/12/04/quelle-est-lempreinte-carbone-de-la-transmission-d1-go-sur-le-reseau-renater/)
+ - [étude du ministère de l'environnement allemand qui s'intéresse à l'efficacité énergétique des infrastructures numériques et à l'empreinte carbone du streaming](https://twitter.com/robin_parisi/status/1334241852288065537)
 # Obsolescence 
  - ➡️ [Livre Blanc HOP](https://www.halteobsolescence.org/wp-content/uploads/2019/02/Livre-Blanc.pdf)
  - [Pour 3 centimes un téléviseur Samsung réparé, un cas d’école?](https://www.halteobsolescence.org/une-tv-samsung-victime-dobsolescence-programmee/)
