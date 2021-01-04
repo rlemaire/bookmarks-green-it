@@ -247,3 +247,8 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 
 ## Misc
  - [Une électronique souple à base de bois - Pour la Science](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
+ 
+ ## Législation
+ - [Topo de Richard Hanna](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
+ - [Indice de réparabilité obligatoire](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000041553781), [Que choisir](https://www.quechoisir.org/actualite-antigaspillage-l-indice-de-reparabilite-des-appareils-se-precise-n81579/)
+- [Info sur la durée de vie des logiciels obligatoire et ouverture à la séparation des MAJ correctives et évolutives](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000041553792)
