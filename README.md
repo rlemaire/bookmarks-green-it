@@ -8,7 +8,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 ## Eco Info CNRS
 
-- ➡️ [Référentiel de connaissances pour un numérique éco responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) collection de liens organisée et complète !
+- ➡️ [Référentiel de connaissances pour un numérique éco responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) collection de liens organisée et complète!
 
 ## GreenIT
  - ➡️ [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) [2019] Le rapport récent de GreenIT.fr sur l'empreinte écologique du numérique au niveau mondial. Basé sur une méthodologie d'ACV.
@@ -161,6 +161,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 # Mutualisation
  - [BYOD : quelles sont les bonnes pratiques ? - CNIL](https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques)
  - [Règle des 5R](https://fr.wikipedia.org/wiki/R%C3%A8gle_des_5_R)
+ - [Photos de DEEE sur Wired](https://www.wired.com/story/international-electronic-waste-photographs/)
 
 # 5G
  - ➡️ [Gauthier Roussilhe - La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
@@ -168,6 +169,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [Blog du parti pirate](https://partipirate.org/5g-elevons-le-debat/)
  - [Blog de GreenIT](https://www.greenit.fr/2020/09/30/5g-recentrons-le-debat/)
  - [Gauthier Roussilhe - Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
+ - [Rapport du HCC sur la 5G](https://www.hautconseilclimat.fr/publications/maitriser-limpact-carbone-de-la-5g/)
 
 # Outils, tutoriels, référentiels
  - [Les 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
@@ -238,6 +240,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [Techologie - podcast](https://techologie.net/)
  - [Mise en perspective](http://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/)
  - [Après la « honte de l’avion », la « honte du numérique » ? - Le monde](https://www.lemonde.fr/idees/article/2019/09/27/apres-la-honte-de-l-avion-la-honte-du-numerique_6013339_3232.html?fbclid=IwAR0Lo74igcROg9tGhj83Uqzr07Q4aG4PJMwQJOZlXh8dCWdLTlJCNghdCZA)
+ - [Gauthier Roussilhe - Situer le numérique](https://situer-le-numerique.netlify.app/)
 
 # Espoir / Futur
 ## Economie du partage / de la fonctionnalité
@@ -247,6 +250,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 
 ## Misc
  - [Une électronique souple à base de bois - Pour la Science](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
+ - [MOOC Numérique responsable de l'INR](https://www.academie-nr.org/#mooc-nr)
  
  ## Législation
  - [Topo de Richard Hanna](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
