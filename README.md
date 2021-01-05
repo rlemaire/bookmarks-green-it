@@ -80,6 +80,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [La consommation d'électricité des datacenters dans l'Union européenne pourrait atteindre jusqu'à 98,5 TWh d'ici 2030](https://cloud-computing.developpez.com/actu/310748/La-consommation-d-electricite-des-datacenters-dans-l-Union-europeenne-pourrait-atteindre-jusqu-a-98-5-TWh-d-ici-2030-selon-une-etude-menee-par-la-Commission-europeenne/)
  - [Quelle est l’empreinte carbone de la transmission d’1 Go sur le réseau RENATER ? - CNRS](https://ecoinfo.cnrs.fr/2020/12/04/quelle-est-lempreinte-carbone-de-la-transmission-d1-go-sur-le-reseau-renater/)
  - [étude du ministère de l'environnement allemand qui s'intéresse à l'efficacité énergétique des infrastructures numériques et à l'empreinte carbone du streaming](https://twitter.com/robin_parisi/status/1334241852288065537)
+ - [Explication du free cooling par ecoinfo](https://ecoinfo.cnrs.fr/2009/10/08/le-free-cooling/ )
+
 # Obsolescence 
  - ➡️ [Livre Blanc HOP](https://www.halteobsolescence.org/wp-content/uploads/2019/02/Livre-Blanc.pdf)
  - [Pour 3 centimes un téléviseur Samsung réparé, un cas d’école?](https://www.halteobsolescence.org/une-tv-samsung-victime-dobsolescence-programmee/)
@@ -241,6 +243,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [Mise en perspective](http://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/)
  - [Après la « honte de l’avion », la « honte du numérique » ? - Le monde](https://www.lemonde.fr/idees/article/2019/09/27/apres-la-honte-de-l-avion-la-honte-du-numerique_6013339_3232.html?fbclid=IwAR0Lo74igcROg9tGhj83Uqzr07Q4aG4PJMwQJOZlXh8dCWdLTlJCNghdCZA)
  - [Gauthier Roussilhe - Situer le numérique](https://situer-le-numerique.netlify.app/)
+ - [Kindle vs vrai livre - ACV](https://scholarworks.rit.edu/theses/7935/) (conclusion page 84)
 
 # Espoir / Futur
 ## Economie du partage / de la fonctionnalité
