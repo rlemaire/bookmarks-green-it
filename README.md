@@ -28,8 +28,15 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Guide pratique, la face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf) Résumé graphique et grand public des constats et actions.
  - [Epuisement des métaux et minéraux : faut-il s&#39;inquiéter ?](https://www.ademe.fr/epuisement-metaux-mineraux-faut-sinquieter)
 
+## Greenspector
+ - ➡️ [Article de Greenspetor - Faut-il limiter les données qui transitent sur internet pour réduire l’impact du numérique ?](https://greenspector.com/fr/limiter-les-donnees-internet-pour-reduire-impact-numerique/)
+ - [Étude d’impact de la lecture d’une vidéo Canal+](https://greenspector.com/fr/impact-video-canal/)
+
+## France stratégie
+- ➡️ [France Stratégie - La consommation de métaux du numérique](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf) - Condensé de plusieurs sources sur l'utilisation et l'épuisement des matières premières avec le numérique.
+- [Maîtriser la consommation énergétique du numérique : le progrès technologique n’y suffira pas ](https://www.strategie.gouv.fr/publications/maitriser-consommation-energetique-numerique-progres-technologique-ny-suffira)
+
 ## Autres
- - ➡️ [France Stratégie - La consommation de métaux du numérique](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf) - Condensé de plusieurs sources sur l'utilisation et l'épuisement des matières premières avec le numérique.
  - ➡️ [Livre blanc Green Concept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des exemples réels d'éco conception de services numériques.
  - ➡️ [LOW←TECH MAGAZINE - How sustainable is a solar powered website ?](https://solar.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website.html) Après avoir produit un site « low tech » alimenté par un panneau solaire le magazine analyse la durabilité de cette méthode.
  - [WE GREEN IT](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf?utm_source=website&utm_campaign=etude%20wegreenit) 
@@ -40,7 +47,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [The Hidden Water in Everyday Products - Water Footprint Calculator](https://www.watercalculator.org/water-use/the-hidden-water-in-everyday-products/)
  - [Livret La Guerre des métaux rares](https://fr.calameo.com/read/002094473c9f01879e45b) : Annexe du livre de Guillaume Pitron.
  - [Energy Efficiency across Programming Languages](http://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
- - ➡️ [Article de Greenspetor - Faut-il limiter les données qui transitent sur internet pour réduire l’impact du numérique ?](https://greenspector.com/fr/limiter-les-donnees-internet-pour-reduire-impact-numerique/)
+
 
 # Sur wikipédia
 
