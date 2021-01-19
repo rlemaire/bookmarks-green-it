@@ -171,6 +171,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [BYOD : quelles sont les bonnes pratiques ? - CNIL](https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques)
  - [Règle des 5R](https://fr.wikipedia.org/wiki/R%C3%A8gle_des_5_R)
  - [Photos de DEEE sur Wired](https://www.wired.com/story/international-electronic-waste-photographs/)
+ - [Travailler (développer!) avec son smartphone](https://medium.com/@l4em/il-y-a-un-ordinateur-dans-votre-poche-4fcc0146ff11)
 
 # 5G
  - ➡️ [Gauthier Roussilhe - La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
