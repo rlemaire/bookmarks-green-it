@@ -190,6 +190,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  
  ## Outils "green"
  - [Ecoindex](http://www.ecoindex.fr)
+     - [Explication approfondie de l'éco index sur le blog d'Octo](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
  - [Ecometer](http://ecometer.org/)
  - ➡️ GreenIT analysis [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr), [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/)
  - [The Green Web Foundation](https://www.thegreenwebfoundation.org/directory/) évaluation de l'hébergement
