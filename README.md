@@ -237,6 +237,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 # IOT
  - [Fil dentaire connecté](https://www.kickstarter.com/projects/flosstime/flosstime-worlds-first-smart-floss-dispenser)
  - [Salière connectée](https://www.wired.co.uk/article/strangest-internet-of-things-devices)
+ - [Slip Connecté](https://www.olybop.fr/concept-i-slip-le-slip-connecte-et-son-app-mobile/)
 
 # Aspects sociaux
  - [Madagascar : plus de 10 000 enfants employés dans les mines pour extraire le mica](https://mobile.francetvinfo.fr/monde/afrique/societe-africaine/madagascar-plus-de-10000-enfants-employes-dans-les-mines-pour-extraire-le-mica_3718113.html?fbclid=IwAR28VmpQ3QoxaasWlFBrdfsZYE9hAr_8j9xIdEaQ_HAlL-e9jIAuW-9didA#xtref=https://m.facebook.com/)
