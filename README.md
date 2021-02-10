@@ -140,6 +140,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Poids du jeu démineur sur windows au fil du temps](https://pbs.twimg.com/media/EfJQlYOUEAMjUGG?format=png&name=small)
  - [Progressive CSS](https://ichimnetz.com/)
  - [Pour la science - Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
+ - [Cast software et standish group - fonctionnalités peu utilisées](https://www.standishgroup.com/sample_research_files/Exceeding%20Value_Layout.pdf)
 
 ## Versions light de site connus
 
