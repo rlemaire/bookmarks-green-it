@@ -128,6 +128,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 ### Blockchain / bitcoin
  - [Consommation énergétique des technologies blockchain – EcoInfo](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
  - [Le bitcoin, gouffre énergétique et péril climatique - Le Monde](https://www.lemonde.fr/planete/article/2018/11/08/le-bitcoin-pourrait-accelerer-le-changement-climatique_5380452_3244.html)
+ - [France 24 - en Iran, des pannes de courant monstres révèlent le business des fermes à bitcoins chinoises](https://observers.france24.com/fr/moyen-orient/20210201-enqu%C3%AAte-iran-bitcoins-fermes-pannes-courant)
+ 
 ### Publicité 
  - [Adblock Plus - % trafic by ads](http://www.sfu.ca/content/dam/sfu/snfchs/pdfs/Adblock.Plus.Study.pdf) - Etude d'ad block plus qui indique que la publicité représente 25% du trafic.
  - [Google chrome va bloquer les publicités qui consomment trop de batterie](https://www.pcmag.com/news/googles-chrome-browser-to-block-battery-draining-data-guzzling-ads)
@@ -239,6 +241,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [Fil dentaire connecté](https://www.kickstarter.com/projects/flosstime/flosstime-worlds-first-smart-floss-dispenser)
  - [Salière connectée](https://www.wired.co.uk/article/strangest-internet-of-things-devices)
  - [Slip Connecté](https://www.olybop.fr/concept-i-slip-le-slip-connecte-et-son-app-mobile/)
+ - [Les risques associés à l'IOT](https://repo.revision.io/repository/)
 
 # Aspects sociaux
  - [Madagascar : plus de 10 000 enfants employés dans les mines pour extraire le mica](https://mobile.francetvinfo.fr/monde/afrique/societe-africaine/madagascar-plus-de-10000-enfants-employes-dans-les-mines-pour-extraire-le-mica_3718113.html?fbclid=IwAR28VmpQ3QoxaasWlFBrdfsZYE9hAr_8j9xIdEaQ_HAlL-e9jIAuW-9didA#xtref=https://m.facebook.com/)
@@ -265,6 +268,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 ## Misc
  - [Une électronique souple à base de bois - Pour la Science](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
  - [MOOC Numérique responsable de l'INR](https://www.academie-nr.org/#mooc-nr)
+ - [Build once run everywhere - in C](https://justine.lol/cosmopolitan/index.html)
  
  ## Législation
  - [Topo de Richard Hanna](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
