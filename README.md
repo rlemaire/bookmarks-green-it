@@ -183,6 +183,8 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [Blog de GreenIT](https://www.greenit.fr/2020/09/30/5g-recentrons-le-debat/)
  - [Gauthier Roussilhe - Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
  - [Rapport du HCC sur la 5G](https://www.hautconseilclimat.fr/publications/maitriser-limpact-carbone-de-la-5g/)
+ - [Bénéfices de la 5G selon Orange](https://reseaux.orange.fr/5g-benefices)
+ - [Usine nouvelle - Ce que dit (vraiment) le rapport préliminaire de l’Anses sur les effets de la 5G](https://www.usinenouvelle.com/editorial/ce-que-dit-vraiment-le-rapport-preliminaire-de-l-anses-sur-les-effets-de-la-5g.N923409)
 
 # Outils, tutoriels, référentiels
  - [Les 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
