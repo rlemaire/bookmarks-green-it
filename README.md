@@ -20,11 +20,9 @@ de mes recherches sur le numérique responsable, de façon organisée.
     - [« Carbonalyser » : l’extension de navigateur qui révèle combien surfer sur le web coûte au climat](https://theshiftproject.org/carbonalyser-extension-navigateur/)
     - [Factcheck: What is the carbon footprint of streaming video on Netflix? - Carbon Brief](https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix)
     - [Le Shift Project a-t-il vraiment surestimé l’empreinte carbone de la vidéo ?](https://theshiftproject.org/article/shift-project-vraiment-surestime-empreinte-carbone-video-analyse/)
- - [Publication du rapport intermédiaire « Déployer la sobriété numérique »](https://theshiftproject.org/article/rapport-intermediaire-deployer-sobriete-numerique/)
  - [Publication du rapport final « Déployer la sobriété numérique »](https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/)
 
 ## Ademe
- - ➡️ [Modélisation et évaluation des impacts environnementaux de produits de consommation](https://www.ademe.fr/modelisation-evaluation-impacts-environnementaux-produits-consommation-biens-dequipement) - Contient des données sur le MIPS et l'empreinte carbone de nombreux produits (numérique mais aussi vêtements, meubles, ...)
  - [Guide pratique, la face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf) Résumé graphique et grand public des constats et actions.
  - [Epuisement des métaux et minéraux : faut-il s&#39;inquiéter ?](https://www.ademe.fr/epuisement-metaux-mineraux-faut-sinquieter)
 
@@ -40,7 +38,6 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - ➡️ [Livre blanc Green Concept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des exemples réels d'éco conception de services numériques.
  - ➡️ [LOW←TECH MAGAZINE - How sustainable is a solar powered website ?](https://solar.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website.html) Après avoir produit un site « low tech » alimenté par un panneau solaire le magazine analyse la durabilité de cette méthode.
  - [WE GREEN IT](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf?utm_source=website&utm_campaign=etude%20wegreenit) 
- - [Green patterns - livre](https://www.lulu.com/fr/fr/shop/green-code-lab/green-patterns-manuel-d%C3%A9co-conception-des-logiciels/ebook/product-18848920.html)
  - [Sciences et Avenir - De quoi est fait votre iPhone ?](https://www.sciencesetavenir.fr/high-tech/chimie-de-quoi-est-fait-votre-iphone_35674)
  - [Empreinte carbone d'une heure de calcul](https://gricad.univ-grenoble-alpes.fr/documents/GES-h-coeur-GRICAD-2020.pdf) - Exemple de cas d'usage où l'utilisation dépasse la fabrication (mais seulement pour les émissions de GES dans des pays avec un mix électrique carboné).
  - [Greenpeace : Guide to Greener Electronics 2017](https://www.greenpeace.org/usa/reports/greener-electronics-2017/)
@@ -73,15 +70,11 @@ de mes recherches sur le numérique responsable, de façon organisée.
 # Data centers
  - ➡️ [Data Centres and Data Transmission Networks – Analysis - IEA](https://www.iea.org/reports/data-centres-and-data-transmission-networks) - Etude qui montre que l'empreinte des DC stagne malgré une forte augmentation du trafic, grâce aux optimisations des acteurs.
  - ➡️ [Visite du data center DC5 de Scaleway](https://lafibre.info/scaleway/dc5/) - Présentation du datacenter DC5 de Scalway ) refroidissement adiabatique, avec de nombreuses photos.
- - [Google ne mettra plus ses algorithmes d&#39;intelligence artificielle au service des énergies fossiles](https://www.clubic.com/pro/entreprises/amazon/actualite-1631-google-ne-mettra-plus-ses-algorithmes-d-intelligence-artificielle-au-service-de-l-industrie-fossile.html)
  - [Cloud computing is not the energy hog that had been feared - The New York Times](https://www.nytimes.com/2020/02/27/technology/cloud-computing-energy-usage.html)
  - [La sobriété numérique, oui mais pour quoi faire ?](https://signal.eu.org/blog/2020/07/15/la-sobriete-numerique-oui-mais-pour-quoi-faire/)
  - [Papier de google sur les émissions de leurs DC](https://storage.googleapis.com/gweb-sustainability.appspot.com/pdf/24x7-carbon-free-energy-data-centers.pdf)
  - [La voracité en eau des data centers Google](https://siecledigital.fr/2020/04/04/la-voracite-en-eau-des-data-centers-google/)
  - [Amazon, Google, Microsoft: Here&#39;s Who Has the Greenest Cloud - WIRED](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
- - [Avis d&#39;Expert - Le cloud est-il green ?](https://www.actu-environnement.com/ae/news/cloud-est-il-green-32691.php4)
- - [Centre de données sur wikipédia](https://fr.wikipedia.org/wiki/Centre_de_donn%C3%A9es)
- - [Cloud computing sur wikipédia](https://fr.wikipedia.org/wiki/Cloud_computing)
  - [PUE](https://fr.wikipedia.org/wiki/Indicateur_d%27efficacit%C3%A9_%C3%A9nerg%C3%A9tique)
  - [30% of servers are comatose](https://www.anthesisgroup.com/wp-content/uploads/2019/11/Case-Study_DataSupports30PercentComatoseEstimate-FINAL_06032015.pdf)
  - [La consommation d'électricité des datacenters dans l'Union européenne pourrait atteindre jusqu'à 98,5 TWh d'ici 2030](https://cloud-computing.developpez.com/actu/310748/La-consommation-d-electricite-des-datacenters-dans-l-Union-europeenne-pourrait-atteindre-jusqu-a-98-5-TWh-d-ici-2030-selon-une-etude-menee-par-la-Commission-europeenne/)
@@ -120,10 +113,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - ➡️ [The cost of JavaScript in 2018 - Addy Osmani](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
  - [The cost of JavaScript in 2019 - Addy Osmani](https://v8.dev/blog/cost-of-javascript-2019)
  - [Your web app is bloated](https://github.com/dominictarr/your-web-app-is-bloated) - Mesure de l'empreinte mémoire de nombreuses applications web.
- - [TheProject.html - CommitStrip](https://www.commitstrip.com/fr/2019/03/22/theproject-html/)
  - [The Ethics of Web Performance](https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/)
  - [The web is Doom](https://mobiforge.com/research-analysis/the-web-is-doom) - Les pages web sont en moyenne plus grosses que le jeu Doom depuis 2016.
- - [Unreal Engine 5 is meant to ridicule web developers](https://www.theolognion.com/unreal-engine-5-is-meant-to-ridicule-web-developers/)
  - ➡️ [httparchive - Page Weight](https://httparchive.org/reports/page-weight#bytesTotal)
 ### Blockchain / bitcoin
  - [Consommation énergétique des technologies blockchain – EcoInfo](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
@@ -221,7 +212,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 ## ACV
  - ➡️ [Page Wikipédia](https://fr.wikipedia.org/wiki/Analyse_du_cycle_de_vie)
  - ➡️ [ACV du Fairphone 2](https://pdfs.semanticscholar.org/881e/5297c5f44d626abe1e65f38d93ac09b2350d.pdf)
- - ➡️ [Livre blanc Green Concept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des résultats d'ACV. 
+ - ➡️ [Livre blanc GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des résultats d'ACV. 
  - [ACV d'un PC](https://www.researchgate.net/publication/226388568_Life_Cycle_Assessment_of_a_Personal_Computer_and_its_Effective_Recycling_Rate_7_pp)
  - [Quelle est l’empreinte carbone d’un ordinateur ? - Green IT](https://www.greenit.fr/2011/02/10/quelle-est-l-empreinte-carbone-d-un-ordinateur/) - Pentium IV 
  - [Objets connectés : 400 TWh consommés chaque année - Green IT](https://www.greenit.fr/2014/07/15/objets-connectes-400-twh-consommes-chaque-annee/)
@@ -270,7 +261,6 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 
 ## Misc
  - [Une électronique souple à base de bois - Pour la Science](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
- - [MOOC Numérique responsable de l'INR](https://www.academie-nr.org/#mooc-nr)
  - [Build once run everywhere - in C](https://justine.lol/cosmopolitan/index.html)
  
  ## Législation
