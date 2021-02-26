@@ -134,6 +134,9 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Progressive CSS](https://ichimnetz.com/)
  - [Pour la science - Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
  - [Cast software et standish group - fonctionnalités peu utilisées](https://www.standishgroup.com/sample_research_files/Exceeding%20Value_Layout.pdf)
+ - [My stack will outlive yours](https://blog.steren.fr/2020/my-stack-will-outlive-yours/)
+ - [Économiser 42Ko pour sauver 50Tb de bande passante](https://welovedevs.com/fr/articles/rex-crispchat-economiser-42ko-pour-sauver-50tb-de-bande-passante/)
+
 
 ## Versions light de site connus
 
@@ -156,6 +159,8 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [Motherfucking Website](https://motherfuckingwebsite.com/)
  - [How I Made a Piano in only 1kb of JavaScript](https://frankforce.com/?p=7617)
  - [Scuttlebutt](https://scuttlebutt.nz/) - Réseau social offline first.
+
+
 # DEEE
  - [Page wikipédia sur les DEEE](https://fr.wikipedia.org/wiki/D%C3%A9chets_d%27%C3%A9quipements_%C3%A9lectriques_et_%C3%A9lectroniques)
  - [Le volume de déchets électroniques explose et leur taux de recyclage reste ridicule](https://theconversation.com/le-volume-de-dechets-electroniques-explose-et-leur-taux-de-recyclage-reste-ridicule-143701)
