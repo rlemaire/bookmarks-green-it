@@ -9,8 +9,9 @@ de mes recherches sur le numérique responsable, de façon organisée.
 ## Eco Info CNRS
 
 - ➡️ [Référentiel de connaissances pour un numérique éco responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) collection de liens organisée et complète!
+- [Agir vers la sobriété numérique](https://ecoinfo.cnrs.fr/2021/03/01/agir-vers-la-sobriete-numerique/)
 
-## GreenIT
+## GreenIT.fr
  - ➡️ [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) [2019] Le rapport récent de GreenIT.fr sur l'empreinte écologique du numérique au niveau mondial. Basé sur une méthodologie d'ACV.
  - [Quels sont les impacts environnementaux du numérique en France ?](https://www.greenit.fr/2020/06/23/quels-sont-les-impacts-environnementaux-du-numerique-en-france/) [Juin 2020] Suite du rapport précédent, focalisé sur la France.
 ## Rapports du Shift Project
@@ -44,6 +45,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [The Hidden Water in Everyday Products - Water Footprint Calculator](https://www.watercalculator.org/water-use/the-hidden-water-in-everyday-products/)
  - [Livret La Guerre des métaux rares](https://fr.calameo.com/read/002094473c9f01879e45b) : Annexe du livre de Guillaume Pitron.
  - [Energy Efficiency across Programming Languages](http://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
+ - [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/)
 
 
 # Sur wikipédia
@@ -97,6 +99,9 @@ de mes recherches sur le numérique responsable, de façon organisée.
 # Epuisement des ressources
  - [Définition de MIPS](https://en.wikipedia.org/wiki/Material_input_per_service_unit)
  - [Durée de vie des réserves rentables](https://www.usinenouvelle.com/article/infographie-de-surprenantes-matieres-critiques.N563822)
+ - [Tesla expects global shortage of electric vehicle battery minerals -sources](https://www.reuters.com/article/usa-lithium-electric-tesla-exclusive-int/exclusive-tesla-expects-global-shortage-of-electric-vehicle-battery-minerals-sources-idUSKCN1S81QI)
+ 
+  
 # Obésité logicielle
 ## Constat
 
@@ -120,6 +125,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Consommation énergétique des technologies blockchain – EcoInfo](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
  - [Le bitcoin, gouffre énergétique et péril climatique - Le Monde](https://www.lemonde.fr/planete/article/2018/11/08/le-bitcoin-pourrait-accelerer-le-changement-climatique_5380452_3244.html)
  - [France 24 - en Iran, des pannes de courant monstres révèlent le business des fermes à bitcoins chinoises](https://observers.france24.com/fr/moyen-orient/20210201-enqu%C3%AAte-iran-bitcoins-fermes-pannes-courant)
+ - [x200 000 : Bitcoin network average energy consumption per transaction compared to VISA network as of 2020](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
  
 ### Publicité 
  - [Adblock Plus - % trafic by ads](http://www.sfu.ca/content/dam/sfu/snfchs/pdfs/Adblock.Plus.Study.pdf) - Etude d'ad block plus qui indique que la publicité représente 25% du trafic.
