@@ -168,6 +168,8 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 
 ### Site explicitement écoconçus
 
+- [EcoloGeek](https://www.ecologeek.fr/)
+
 Liste des designers éthiques ([source](https://eco-conception.designersethiques.org/guide/content/7-plus-loin.html)) :
  
  - [La Fabrik' A Vrac - Le drive Nantais ZD](https://www.lafabrikavrac.fr/) - qui est en plus super beau
