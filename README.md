@@ -176,7 +176,7 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
  - [Un Ecrin Vert - Biocoop Montreuil](https://www.biocoopmontreuil.fr/)
  - [AMAP de Chelles](https://amap-chelles.net/)
  - [La Boutique du Partage](https://www.laboutiquedupartage.fr/)
- - [La Coopérative des Internets]https://www.lacooperativedesinternets.fr/)
+ - [La Coopérative des Internets](https://www.lacooperativedesinternets.fr/)
  - [Le Low-tech Lab partage les solutions et l'esprit low-tech](https://lowtechlab.org/fr)
 
 
