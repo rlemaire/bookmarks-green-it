@@ -166,6 +166,19 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
  - [How I Made a Piano in only 1kb of JavaScript](https://frankforce.com/?p=7617)
  - [Scuttlebutt](https://scuttlebutt.nz/) - Réseau social offline first.
 
+### Site explicitement écoconçus
+
+Liste des designers éthiques ([source](https://eco-conception.designersethiques.org/guide/content/7-plus-loin.html)) :
+ 
+ - [La Fabrik' A Vrac - Le drive Nantais ZD](https://www.lafabrikavrac.fr/) - qui est en plus super beau
+ - [Kaïros Sailing - Ecurie de course : projets sportifs ou responsables](https://www.kairos-jourdain.com/fr/sailing) - également très beau
+ - [GOV.UK](https://www.gov.uk/)
+ - [Un Ecrin Vert - Biocoop Montreuil](https://www.biocoopmontreuil.fr/)
+ - [AMAP de Chelles](https://amap-chelles.net/)
+ - [La Boutique du Partage](https://www.laboutiquedupartage.fr/)
+ - [La Coopérative des Internets]https://www.lacooperativedesinternets.fr/)
+ - [Le Low-tech Lab partage les solutions et l'esprit low-tech](https://lowtechlab.org/fr)
+
 
 # DEEE
  - [Page wikipédia sur les DEEE](https://fr.wikipedia.org/wiki/D%C3%A9chets_d%27%C3%A9quipements_%C3%A9lectriques_et_%C3%A9lectroniques)
