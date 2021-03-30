@@ -22,7 +22,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
     - [Factcheck: What is the carbon footprint of streaming video on Netflix? - Carbon Brief](https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix)
     - [Le Shift Project a-t-il vraiment surestimé l’empreinte carbone de la vidéo ?](https://theshiftproject.org/article/shift-project-vraiment-surestime-empreinte-carbone-video-analyse/)
  - [Publication du rapport final « Déployer la sobriété numérique »](https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/)
- - [IMPACT ENVIRONNEMENTAL DU NUMÉRIQUE :TENDANCES À 5 ANS ET GOUVERNANCE DE LA 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)
+ - [Impact environnemental du numérique : tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)
 
 ## Ademe
  - [Guide pratique, la face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf) Résumé graphique et grand public des constats et actions.
