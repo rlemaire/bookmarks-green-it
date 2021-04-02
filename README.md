@@ -98,10 +98,14 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Number of smartphones sold to end users worldwide from 2007 to 2021](https://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/)
  - [Ampoule centenaire](https://fr.wikipedia.org/wiki/Ampoule_centenaire)
  - [Fin de la loi de Moore](https://pbs.twimg.com/media/Ead5LCIUcAQvEpI?format=jpg&name=large)
+ - [Un processeur vieux de 20 ans suffit à Perseverance pour explorer Mars](https://www.numerama.com/sciences/692822-un-processeur-vieux-de-20-ans-suffit-a-perseverance-pour-explorer-mars.html)
+
+
 # Epuisement des ressources
  - [Définition de MIPS](https://en.wikipedia.org/wiki/Material_input_per_service_unit)
  - [Durée de vie des réserves rentables](https://www.usinenouvelle.com/article/infographie-de-surprenantes-matieres-critiques.N563822)
  - [Tesla expects global shortage of electric vehicle battery minerals -sources](https://www.reuters.com/article/usa-lithium-electric-tesla-exclusive-int/exclusive-tesla-expects-global-shortage-of-electric-vehicle-battery-minerals-sources-idUSKCN1S81QI)
+
  
   
 # Obésité logicielle
