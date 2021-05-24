@@ -99,6 +99,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Ampoule centenaire](https://fr.wikipedia.org/wiki/Ampoule_centenaire)
  - [Fin de la loi de Moore](https://pbs.twimg.com/media/Ead5LCIUcAQvEpI?format=jpg&name=large)
  - [Un processeur vieux de 20 ans suffit à Perseverance pour explorer Mars](https://www.numerama.com/sciences/692822-un-processeur-vieux-de-20-ans-suffit-a-perseverance-pour-explorer-mars.html)
+ - [Le web, source d’obsolescence trop souvent ignorée](https://www.macg.co/logiciels/2018/07/le-web-source-dobsolescence-trop-souvent-ignoree-102847)
 
 
 # Epuisement des ressources
@@ -132,6 +133,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Le bitcoin, gouffre énergétique et péril climatique - Le Monde](https://www.lemonde.fr/planete/article/2018/11/08/le-bitcoin-pourrait-accelerer-le-changement-climatique_5380452_3244.html)
  - [France 24 - en Iran, des pannes de courant monstres révèlent le business des fermes à bitcoins chinoises](https://observers.france24.com/fr/moyen-orient/20210201-enqu%C3%AAte-iran-bitcoins-fermes-pannes-courant)
  - [x200 000 : Bitcoin network average energy consumption per transaction compared to VISA network as of 2020](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
+ - [Buying a Bitcoin emits 195x as much CO₂ as buying an iPhone](https://blog.yannev.es/buying-a-bitcoin-emits-195x-as-much-co%E2%82%82-as-buying-an-iphone-5c44ee719757)
  
 ### Publicité 
  - [Adblock Plus - % trafic by ads](http://www.sfu.ca/content/dam/sfu/snfchs/pdfs/Adblock.Plus.Study.pdf) - Etude d'ad block plus qui indique que la publicité représente 25% du trafic.
@@ -294,6 +296,8 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
 ## Misc
  - [Une électronique souple à base de bois - Pour la Science](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
  - [Build once run everywhere - in C](https://justine.lol/cosmopolitan/index.html)
+ - [Que fait Apple ?](https://www.macg.co/aapl/2021/01/une-pomme-plus-verte-apple-recycle-et-reutilise-mais-peut-elle-reduire-118933)
+ - [ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr/)
  
  ## Législation
  - [Topo de Richard Hanna](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
