@@ -100,7 +100,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Fin de la loi de Moore](https://pbs.twimg.com/media/Ead5LCIUcAQvEpI?format=jpg&name=large)
  - [Un processeur vieux de 20 ans suffit à Perseverance pour explorer Mars](https://www.numerama.com/sciences/692822-un-processeur-vieux-de-20-ans-suffit-a-perseverance-pour-explorer-mars.html)
  - [Le web, source d’obsolescence trop souvent ignorée](https://www.macg.co/logiciels/2018/07/le-web-source-dobsolescence-trop-souvent-ignoree-102847)
-
+ - [Samsung a enterré l’idée la plus écologique de son histoire en 2017 - numerama](https://www.numerama.com/tech/713843-samsung-a-enterre-lidee-la-plus-ecologique-de-son-histoire-en-2017.html)
 
 # Epuisement des ressources
  - [Définition de MIPS](https://en.wikipedia.org/wiki/Material_input_per_service_unit)
