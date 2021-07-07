@@ -293,12 +293,15 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
  - [Économie de la fonctionnalité - Ademe](https://www.ademe.fr/expertises/economie-circulaire/economie-fonctionnalite)
  - [Économie de la fonctionnalité - Ministère de la Transition écologique](https://www.ecologie.gouv.fr/leconomie-fonctionnalite)
 
+
 ## Misc
  - [Une électronique souple à base de bois - Pour la Science](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
  - [Build once run everywhere - in C](https://justine.lol/cosmopolitan/index.html)
  - [Que fait Apple ?](https://www.macg.co/aapl/2021/01/une-pomme-plus-verte-apple-recycle-et-reutilise-mais-peut-elle-reduire-118933)
  - [ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr/)
- 
+  - [Travail de recherche pour le recyclage des smartphones](https://france3-regions.francetvinfo.fr/grand-est/environnement-et-si-votre-vieux-telephone-donnait-son-c-ur-a-la-science-2161363.html), en lorraine, et avec des déchets agro alimentaires en plus !
+
+
  ## Législation
  - [Topo de Richard Hanna](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
  - [Indice de réparabilité obligatoire](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000041553781), [Que choisir](https://www.quechoisir.org/actualite-antigaspillage-l-indice-de-reparabilite-des-appareils-se-precise-n81579/)
