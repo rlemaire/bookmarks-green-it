@@ -10,6 +10,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 - ➡️ [Référentiel de connaissances pour un numérique éco responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) collection de liens organisée et complète!
 - [Agir vers la sobriété numérique](https://ecoinfo.cnrs.fr/2021/03/01/agir-vers-la-sobriete-numerique/)
+- [Code de Conduite européen sur les Datacentres](https://ecoinfo.cnrs.fr/2019/05/06/code-de-conduite-europeen-sur-les-datacentres/)
 
 ## GreenIT.fr
  - ➡️ [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) [2019] Le rapport récent de GreenIT.fr sur l'empreinte écologique du numérique au niveau mondial. Basé sur une méthodologie d'ACV.
@@ -28,6 +29,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Guide pratique, la face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf) Résumé graphique et grand public des constats et actions.
  - [Epuisement des métaux et minéraux : faut-il s&#39;inquiéter ?](https://www.ademe.fr/epuisement-metaux-mineraux-faut-sinquieter)
  - [Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail) - «  une minute de visio-conférence émet 1g de CO2 (Leboucq, 2020). »
+ - [Infographie - Ces objets qui pèsentlourd dans notre quotidien](http://multimedia.ademe.fr/infographies/infographie-poids-carbone/)
 
 ## Greenspector
  - ➡️ [Article de Greenspetor - Faut-il limiter les données qui transitent sur internet pour réduire l’impact du numérique ?](https://greenspector.com/fr/limiter-les-donnees-internet-pour-reduire-impact-numerique/)
@@ -48,6 +50,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Livret La Guerre des métaux rares](https://fr.calameo.com/read/002094473c9f01879e45b) : Annexe du livre de Guillaume Pitron.
  - [Energy Efficiency across Programming Languages](http://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
  - [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/)
+ - ➡️ [ARCEP - BAROMÈTRE DU NUMÉRIQUE Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
 
 
 # Sur wikipédia
