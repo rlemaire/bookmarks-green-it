@@ -52,7 +52,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Energy Efficiency across Programming Languages](http://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
  - [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/)
  - ➡️ [ARCEP - BAROMÈTRE DU NUMÉRIQUE Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
- - [Rapport sur l’impact environnemental du numérique en santé](https://ecoresponsable.numerique.gouv.fr/posts/rapport-numerique-sante/?utm_source=pocket_mylist)
+ - [Rapport sur l’impact environnemental du numérique en santé](https://ecoresponsable.numerique.gouv.fr/posts/rapport-numerique-sante/?utm_source=pocket_mylist), annexes particulièrement intéressants : listes d'outils, de normes et de reglementations, biblio.
 
 
 # Sur wikipédia
