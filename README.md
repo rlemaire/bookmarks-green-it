@@ -233,10 +233,13 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
  - [web site carbon](https://www.websitecarbon.com/) Donne une évaluation de l'impact de GES d'une URL, et in classement relatif
  - [Ecograder](https://www.ecograder.com/) Agrégateur. Donne plusieurs métriques front à partir d'une URL, sans détailler. uriise des données d'autres calcultateurs.
  - [ML CO2 Impact](https://mlco2.github.io/impact/) Calcul de l’impact carbone uniquement, pour le cas d’utilisation particulier du machine learning.
+ - [PowerAPI](https://powerapi-ng.github.io/) 
+ - [Scaphandre](https://github.com/hubblo-org/scaphandre) 
+ - [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) outil de thoughworks, basé sur des estimations en fonction de la quantité de cloud consommé et de l'impact global du fournisseur.
+
  
  ## Outils de perfs web
  - [sitespeed.io](https://www.sitespeed.io/)
- - [PowerAPI](https://powerapi-ng.github.io/) 
  - ➡️ [Google page insight](https://developers.google.com/speed/pagespeed/insights/)
  - [gtmetrix](https://gtmetrix.com/)
  - [ Addy Osmani's 18-Point Web Performance Checklist ](https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1)
