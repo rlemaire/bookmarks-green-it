@@ -40,6 +40,15 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - ➡️ [France Stratégie - La consommation de métaux du numérique](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf) - Condensé de plusieurs sources sur l'utilisation et l'épuisement des matières premières avec le numérique.
 - [Maîtriser la consommation énergétique du numérique : le progrès technologique n’y suffira pas ](https://www.strategie.gouv.fr/publications/maitriser-consommation-energetique-numerique-progres-technologique-ny-suffira)
 
+## Gauthier Roussilhe
+ - ➡️ [La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
+ - [Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
+ - [Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
+ - [Situer le numérique](https://situer-le-numerique.netlify.app/)
+ - [Eco-conception, le brouillard à venir](https://github.com/rlemaire/bookmarks-green-it/edit/master/README.md) - avec un résumé de sa propre démarche 
+ - [Territorialiser les systèmes numériques, l'exemple des centres de données](https://github.com/rlemaire/bookmarks-green-it/edit/master/README.md) - avec des données sur l'impact env des DC
+
+
 ## Autres
  - ➡️ [Livre blanc Green Concept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des exemples réels d'éco conception de services numériques.
  - ➡️ [LOW←TECH MAGAZINE - How sustainable is a solar powered website ?](https://solar.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website.html) Après avoir produit un site « low tech » alimenté par un panneau solaire le magazine analyse la durabilité de cette méthode.
@@ -207,11 +216,9 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
  - [Travailler (développer!) avec son smartphone](https://medium.com/@l4em/il-y-a-un-ordinateur-dans-votre-poche-4fcc0146ff11)
 
 # 5G
- - ➡️ [Gauthier Roussilhe - La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
  - [Hugues Ferreboeuf et Jean-Marc Jancovici : « La 5G est-elle vraiment utile ? »](https://www.lemonde.fr/idees/article/2020/01/09/5g-ne-sommes-nous-pas-en-train-de-confondre-ce-qui-est-nouveau-avec-ce-qui-est-utile-ce-qui-semble-urgent-avec-ce-qui-est-important_6025291_3232.html)
  - [Blog du parti pirate](https://partipirate.org/5g-elevons-le-debat/)
  - [Blog de GreenIT](https://www.greenit.fr/2020/09/30/5g-recentrons-le-debat/)
- - [Gauthier Roussilhe - Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
  - [Rapport du HCC sur la 5G](https://www.hautconseilclimat.fr/publications/maitriser-limpact-carbone-de-la-5g/)
  - [Bénéfices de la 5G selon Orange](https://reseaux.orange.fr/5g-benefices)
  - [Usine nouvelle - Ce que dit (vraiment) le rapport préliminaire de l’Anses sur les effets de la 5G](https://www.usinenouvelle.com/editorial/ce-que-dit-vraiment-le-rapport-preliminaire-de-l-anses-sur-les-effets-de-la-5g.N923409)
@@ -221,7 +228,6 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
  - [Outils du collectif GreenIT](https://collectif.greenit.fr/outils.html)
  - [Référentiel des 65 bonnes pratiques de l’INR](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf)
  - [Mooc numérique responsable de l’INR](https://www.academie-nr.org/#mooc-nr)
- - [GR - Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
  
  ## Outils "green"
  - [Ecoindex](http://www.ecoindex.fr)
@@ -292,7 +298,6 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
  - [Techologie - podcast](https://techologie.net/)
  - [Mise en perspective](http://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/)
  - [Après la « honte de l’avion », la « honte du numérique » ? - Le monde](https://www.lemonde.fr/idees/article/2019/09/27/apres-la-honte-de-l-avion-la-honte-du-numerique_6013339_3232.html?fbclid=IwAR0Lo74igcROg9tGhj83Uqzr07Q4aG4PJMwQJOZlXh8dCWdLTlJCNghdCZA)
- - [Gauthier Roussilhe - Situer le numérique](https://situer-le-numerique.netlify.app/)
  - [Kindle vs vrai livre - ACV](https://scholarworks.rit.edu/theses/7935/) (conclusion page 84)
 
 # Espoir / Futur
