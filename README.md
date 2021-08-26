@@ -30,6 +30,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Epuisement des métaux et minéraux : faut-il s&#39;inquiéter ?](https://www.ademe.fr/epuisement-metaux-mineraux-faut-sinquieter)
  - [Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail) - «  une minute de visio-conférence émet 1g de CO2 (Leboucq, 2020). »
  - [Infographie - Ces objets qui pèsentlourd dans notre quotidien](http://multimedia.ademe.fr/infographies/infographie-poids-carbone/)
+ - [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/dechets-economie-circulaire/4739-guide-de-questionnement-pour-le-developpement-de-services-numeriques.html)
 
 ## Greenspector
  - ➡️ [Article de Greenspetor - Faut-il limiter les données qui transitent sur internet pour réduire l’impact du numérique ?](https://greenspector.com/fr/limiter-les-donnees-internet-pour-reduire-impact-numerique/)
@@ -51,6 +52,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Energy Efficiency across Programming Languages](http://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
  - [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/)
  - ➡️ [ARCEP - BAROMÈTRE DU NUMÉRIQUE Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
+ - [Rapport sur l’impact environnemental du numérique en santé](https://ecoresponsable.numerique.gouv.fr/posts/rapport-numerique-sante/?utm_source=pocket_mylist)
 
 
 # Sur wikipédia
