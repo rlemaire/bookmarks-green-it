@@ -48,6 +48,10 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Eco-conception, le brouillard à venir](https://github.com/rlemaire/bookmarks-green-it/edit/master/README.md) - avec un résumé de sa propre démarche 
  - [Territorialiser les systèmes numériques, l'exemple des centres de données](https://github.com/rlemaire/bookmarks-green-it/edit/master/README.md) - avec des données sur l'impact env des DC
 
+## Arcep
+
+ - ➡️ [BAROMÈTRE DU NUMÉRIQUE Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
+ - [RENOUVELLEMENT DES TERMINAUX MOBILES ET PRATIQUES COMMERCIALES DE DISTRIBUTION](https://www.arcep.fr/uploads/tx_gspublication/rapport-renouvellement-terminaux-mobiles-pratiques-commerciales-distribution-juillet2021.pdf?utm_source=pocket_mylist)
 
 ## Autres
  - ➡️ [Livre blanc Green Concept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des exemples réels d'éco conception de services numériques.
@@ -60,7 +64,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Livret La Guerre des métaux rares](https://fr.calameo.com/read/002094473c9f01879e45b) : Annexe du livre de Guillaume Pitron.
  - [Energy Efficiency across Programming Languages](http://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
  - [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/)
- - ➡️ [ARCEP - BAROMÈTRE DU NUMÉRIQUE Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
+
  - [Rapport sur l’impact environnemental du numérique en santé](https://ecoresponsable.numerique.gouv.fr/posts/rapport-numerique-sante/?utm_source=pocket_mylist), annexes particulièrement intéressants : listes d'outils, de normes et de reglementations, biblio.
 
 
