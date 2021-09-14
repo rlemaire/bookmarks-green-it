@@ -68,12 +68,6 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Rapport sur l’impact environnemental du numérique en santé](https://ecoresponsable.numerique.gouv.fr/posts/rapport-numerique-sante/?utm_source=pocket_mylist), annexes particulièrement intéressants : listes d'outils, de normes et de reglementations, biblio.
 
 
-# Sur wikipédia
-
-- [Impact environnemental du numérique](https://fr.wikipedia.org/wiki/Impact_environnemental_du_num%C3%A9rique)
-- [Informatique durable](https://fr.wikipedia.org/wiki/Informatique_durable)
-- [Sobriété numérique](https://fr.wikipedia.org/wiki/Sobri%C3%A9t%C3%A9_num%C3%A9rique)
-
 # Acteurs
 
  - [GreenIT.fr](https://www.greenit.fr/)
@@ -207,6 +201,10 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
  - [La Coopérative des Internets](https://www.lacooperativedesinternets.fr/)
  - [Le Low-tech Lab partage les solutions et l'esprit low-tech](https://lowtechlab.org/fr)
 
+# Matières premières, exploitation minière
+
+- [Mine de cuivre de Palabora, Afrique du Sud](https://www.google.com/maps/search/palabora+mine/@-23.9809565,31.1058558,15940m/data=!3m1!1e3) et la [quantité de cuivre extraite](https://phototrend.fr/wp-content/uploads/2020/05/dillon-marsh-cuivre-6.jpg) ([article](https://phototrend.fr/2020/05/for-what-its-worth-dillon-marsh/)) 
+- [Mine de cuivre de Geamăna, Roumanie](https://www.google.com/maps/place/Geam%C4%83na+517416,+Roumanie/@46.3307263,23.1713381,12047m/data=!3m1!1e3!4m5!3m4!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!8m2!3d46.3299984!4d23.2042788) avec son village englouti
 
 # DEEE
  - [Page wikipédia sur les DEEE](https://fr.wikipedia.org/wiki/D%C3%A9chets_d%27%C3%A9quipements_%C3%A9lectriques_et_%C3%A9lectroniques)
