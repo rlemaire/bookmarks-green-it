@@ -120,6 +120,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
  - [Mine de cuivre de Palabora, Afrique du Sud](https://www.google.com/maps/search/palabora+mine/@-23.9809565,31.1058558,15940m/data=!3m1!1e3) et la [quantité de cuivre extraite](https://phototrend.fr/wp-content/uploads/2020/05/dillon-marsh-cuivre-6.jpg) ([article](https://phototrend.fr/2020/05/for-what-its-worth-dillon-marsh/)) 
  - [Mine de cuivre de Geamăna, Roumanie](https://www.google.com/maps/place/Geam%C4%83na+517416,+Roumanie/@46.3307263,23.1713381,12047m/data=!3m1!1e3!4m5!3m4!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!8m2!3d46.3299984!4d23.2042788) avec son village englouti
+ - [Mir, mine de diamant en Russie](https://fr.wikipedia.org/wiki/Mine_Mir) [image](https://twitter.com/julian0liver/status/1446741413136412680)
 
 ## Anecdotes sur l'obsolescence
 
