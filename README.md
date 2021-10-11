@@ -15,6 +15,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Code de Conduite européen sur les Datacentres](https://ecoinfo.cnrs.fr/2019/05/06/code-de-conduite-europeen-sur-les-datacentres/)
  - [Quelle est l’empreinte carbone de la transmission d’1 Go sur le réseau RENATER ? - EcoInfo - CNRS](https://ecoinfo.cnrs.fr/2020/12/04/quelle-est-lempreinte-carbone-de-la-transmission-d1-go-sur-le-reseau-renater/)
  - [Explication du free cooling par ecoinfo](https://ecoinfo.cnrs.fr/2009/10/08/le-free-cooling/ )
+ - [Epuisement des ressources naturelles](https://ecoinfo.cnrs.fr/2014/03/11/1-epuisement-des-ressources-naturelles/)
 
 ## GreenIT.fr
 
