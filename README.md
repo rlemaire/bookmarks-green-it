@@ -96,6 +96,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 ## Ministère de la transition écologique
 
  - [Rapport sur l’impact environnemental du numérique en santé](https://ecoresponsable.numerique.gouv.fr/posts/rapport-numerique-sante/?utm_source=pocket_mylist), annexes particulièrement intéressants : listes d'outils, de normes et de reglementations, biblio.
+ - [Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
 
 ## Autres
  - [Point de MIR](http://www.point-de-mir.com/)
