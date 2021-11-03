@@ -52,6 +52,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/dechets-economie-circulaire/4739-guide-de-questionnement-pour-le-developpement-de-services-numeriques.html)
 
 ## Greenspector
+
+ - [Greenspector](https://greenspector.com/fr/)
  - ➡️ [Article de Greenspetor - Faut-il limiter les données qui transitent sur internet pour réduire l’impact du numérique ?](https://greenspector.com/fr/limiter-les-donnees-internet-pour-reduire-impact-numerique/)
  - [Étude d’impact de la lecture d’une vidéo Canal+](https://greenspector.com/fr/impact-video-canal/)
 
@@ -82,9 +84,6 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Référentiel des 65 bonnes pratiques de l’INR](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf)
  - [Mooc numérique responsable de l’INR](https://www.academie-nr.org/#mooc-nr)
 
-## Greenspector
-
- - [Greenspector](https://greenspector.com/fr/)
  
 ## Halte à l'obsolescence programmée
 
