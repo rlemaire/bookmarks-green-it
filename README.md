@@ -350,6 +350,7 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
  - [ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr/)
  - [Travail de recherche pour le recyclage des smartphones](https://france3-regions.francetvinfo.fr/grand-est/environnement-et-si-votre-vieux-telephone-donnait-son-c-ur-a-la-science-2161363.html), en lorraine, et avec des déchets agro alimentaires en plus !
  - [Les jeux de sensibilisation au Numérique Responsable](https://www.linkedin.com/pulse/les-jeux-de-sensibilisation-au-num%25C3%25A9rique-responsable-h%25C3%25A9lo%25C3%25AFse-dano/?trackingId=VaW6k6DQusmf3gp%2BuHtbGQ%3D%3D&utm_source=pocket_mylist)
+ - [Apple va commercialiser des pièces détachées et des outils permettant à tout particulier de réparer certains modèles d’iPhone et d’ordinateurs Mac](https://www.lemonde.fr/economie/article/2021/11/17/apple-va-commercialiser-des-pieces-detachees-et-outils-pour-reparer-soi-meme-son-iphone_6102461_3234.html)
 
 
 ## Législation
