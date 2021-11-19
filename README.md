@@ -51,6 +51,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Infographie - Ces objets qui pèsentlourd dans notre quotidien](http://multimedia.ademe.fr/infographies/infographie-poids-carbone/)
  - [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/dechets-economie-circulaire/4739-guide-de-questionnement-pour-le-developpement-de-services-numeriques.html)
 
+- [Liste des ressources ADEME sur le numérique responsable](https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/)
+
 ## Greenspector
 
  - [Greenspector](https://greenspector.com/fr/)
