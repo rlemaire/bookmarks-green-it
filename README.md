@@ -198,6 +198,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [PowerAPI](https://powerapi-ng.github.io/) 
  - [Scaphandre](https://github.com/hubblo-org/scaphandre) 
  - [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) outil de thoughworks, basé sur des estimations en fonction de la quantité de cloud consommé et de l'impact global du fournisseur.
+ - [Google fournit l'impact carbone des services hébergés sur son cloud](https://www.youtube.com/watch?v=78cGDCGdajE) - [détail de la méthodo](https://cloud.google.com/carbon-footprint/docs/methodology?utm_source=pocket_mylist)
 
  
  ### Outils de perfs web
