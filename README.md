@@ -68,8 +68,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
  - [Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
  - [Situer le numérique](https://situer-le-numerique.netlify.app/)
- - [Eco-conception, le brouillard à venir](https://github.com/rlemaire/bookmarks-green-it/edit/master/README.md) - avec un résumé de sa propre démarche 
- - [Territorialiser les systèmes numériques, l'exemple des centres de données](https://github.com/rlemaire/bookmarks-green-it/edit/master/README.md) - avec des données sur l'impact env des DC
+ - [Eco-conception, le brouillard à venir](https://gauthierroussilhe.com/post/ecoconception-critique.html) - avec un résumé de sa propre démarche 
+ - [Territorialiser les systèmes numériques, l'exemple des centres de données](https://gauthierroussilhe.com/post/territoires-centres-de-donnees.html) - avec des données sur l'impact env des DC
 
 ## Arcep
 
