@@ -124,6 +124,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Mine de cuivre de Palabora, Afrique du Sud](https://www.google.com/maps/search/palabora+mine/@-23.9809565,31.1058558,15940m/data=!3m1!1e3) et la [quantité de cuivre extraite](https://phototrend.fr/wp-content/uploads/2020/05/dillon-marsh-cuivre-6.jpg) ([article](https://phototrend.fr/2020/05/for-what-its-worth-dillon-marsh/)) 
  - [Mine de cuivre de Geamăna, Roumanie](https://www.google.com/maps/place/Geam%C4%83na+517416,+Roumanie/@46.3307263,23.1713381,12047m/data=!3m1!1e3!4m5!3m4!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!8m2!3d46.3299984!4d23.2042788) avec son village englouti
  - [Mir, mine de diamant en Russie](https://fr.wikipedia.org/wiki/Mine_Mir) [image](https://twitter.com/julian0liver/status/1446741413136412680)
+ - [Projet de mne constesté dans le Nevada](https://www.lemonde.fr/planete/article/2021/11/23/dans-le-nevada-un-projet-de-mine-geante-de-lithium-menace-toute-une-region_6103223_3244.html)
 
 ## Anecdotes sur l'obsolescence
 
@@ -287,6 +288,7 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
  - [Le volume de déchets électroniques explose et leur taux de recyclage reste ridicule](https://theconversation.com/le-volume-de-dechets-electroniques-explose-et-leur-taux-de-recyclage-reste-ridicule-143701)
  - [Les déchets électroniques intoxiquent le Ghana - Le Monde](https://www.lemonde.fr/planete/article/2013/12/27/les-dechets-electroniques-intoxiquent-le-ghana_4340635_3244.html)
  - [Au Ghana, avec les damnés du «Sodome et Ghomorre» électronique - libération](https://www.liberation.fr/planete/2019/01/09/au-ghana-avec-les-damnes-du-sodome-et-ghomorre-electronique_1701925)
+ - [Raport de l'ONU sur les DEEE](https://www.grida.no/publications/166)
 
 ## Mutualisation
  - [BYOD : quelles sont les bonnes pratiques ? - CNIL](https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques)
