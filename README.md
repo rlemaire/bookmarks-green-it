@@ -125,6 +125,10 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Mir, mine de diamant en Russie](https://fr.wikipedia.org/wiki/Mine_Mir) [image](https://twitter.com/julian0liver/status/1446741413136412680)
  - [Projet de mne constesté dans le Nevada](https://www.lemonde.fr/planete/article/2021/11/23/dans-le-nevada-un-projet-de-mine-geante-de-lithium-menace-toute-une-region_6103223_3244.html)
 
+## Obsolescence, compatibilité
+
+- [Carte de la compatibilité entre versions d'iOS et modèles d'iPhones](https://www.statista.com/chart/5824/ios-iphone-compatibility/)
+
 ## Anecdotes sur l'obsolescence
 
  - [ICE/ISEE-3 to return to an Earth no longer capable of speaking to it](http://www.planetary.org/blogs/emily-lakdawalla/2014/02070836-isee-3.html) - On ne peut plus parler à cette sonde spatiale faute de matériel adéquat.
