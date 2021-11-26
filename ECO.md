@@ -158,5 +158,7 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
 
 # Divers
 
-- [Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail) - «  une minute de visio-conférence émet 1g de CO2 (Leboucq, 2020). »
-- [Liste des ressources ADEME sur le numérique responsable](https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/)
+- [ADEME - Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail) 
+- [ADEME - Liste des ressources ADEME sur le numérique responsable](https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/)
+- [EcoInfo.cnrs - Référentiel de connaissances pour un numérique éco responsable](https://hal.archives-ouvertes.fr/hal-02954188/document)
+
