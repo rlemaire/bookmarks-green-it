@@ -77,7 +77,6 @@ de mes recherches sur le numérique responsable, de façon organisée.
  - [Renouvellement des terminaux mobiles et pratiques commerciales de distribution](https://www.arcep.fr/uploads/tx_gspublication/rapport-renouvellement-terminaux-mobiles-pratiques-commerciales-distribution-juillet2021.pdf?utm_source=pocket_mylist)
 
 ## GreenConcept
- - ➡️ [Livre blanc Green Concept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des exemples réels d'éco conception de services numériques.
 
 ## Institut du numérique responsable
 
