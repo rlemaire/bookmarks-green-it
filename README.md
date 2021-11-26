@@ -359,6 +359,7 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
 
 
 ## Législation
- - [Topo de Richard Hanna](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
+ - [Topo sur la REEN](https://www.vie-publique.fr/loi/278056-loi-15-novembre2021-reen-reduire-empreinte-environnementale-du-numerique?utm_source=pocket_mylist
+
+- [Topo de Richard Hanna (12/2020)](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
  - [Indice de réparabilité obligatoire](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000041553781), [Que choisir](https://www.quechoisir.org/actualite-antigaspillage-l-indice-de-reparabilite-des-appareils-se-precise-n81579/)
- - [Info sur la durée de vie des logiciels obligatoire et ouverture à la séparation des MAJ correctives et évolutives](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000041553792)
