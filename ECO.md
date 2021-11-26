@@ -1,4 +1,4 @@
-Liste de liens utiles pour la foramtion éco conception de services numériques.
+Liste de liens utiles pour la formation éco conception de services numériques.
 
 # Acteurs et sources principales sur le GreenIT
 
@@ -104,7 +104,7 @@ Sur l'épuisement des ressources naturelles :
 - [Ecoindex](http://www.ecoindex.fr)
     - [Explication approfondie de l'éco index sur le blog d'Octo](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
 - [Ecometer](http://ecometer.org/)
-- ➡️ GreenIT analysis [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr), [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/)
+- GreenIT analysis [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr), [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/)
 - [PowerAPI](https://powerapi-ng.github.io/)
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) : [Démo](https://metrics.hubblo.org/)
 - [Liste des outils sur ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/)
