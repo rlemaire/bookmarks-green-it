@@ -18,6 +18,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Point de MIR](http://www.point-de-mir.com/)
 - [Commown](https://commown.coop/)
 
+- [Panorama des acteurs Numérique Responsable par une ESN](https://aelan.fr/posts/panorama-des-acteurs-numerique-responsable-1ere-edition)
+
 # Rapports et études généralistes
 
 ## GreenIT.fr et partenaires
@@ -78,6 +80,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 - [Définition de MIPS (en - wikipédia)](https://en.wikipedia.org/wiki/Material_input_per_service_unit)
 - [Tesla expects global shortage of electric vehicle battery minerals -sources](https://www.reuters.com/article/usa-lithium-electric-tesla-exclusive-int/exclusive-tesla-expects-global-shortage-of-electric-vehicle-battery-minerals-sources-idUSKCN1S81QI)
+
+- [Le réveilleur sur l'épuisement des métaux](https://www.youtube.com/watch?v=XLRUcdMbZ_M)
 
 ## Photos et lieux d'exploitation minière
 
@@ -182,6 +186,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Au Ghana, avec les damnés du «Sodome et Ghomorre» électronique - libération](https://www.liberation.fr/planete/2019/01/09/au-ghana-avec-les-damnes-du-sodome-et-ghomorre-electronique_1701925)
 - [Raport de l'ONU sur les DEEE](https://www.grida.no/publications/166)
 - [Photos de DEEE sur Wired](https://www.wired.com/story/international-electronic-waste-photographs/)
+
+- [EcoInfo : le recyclage des métaux](https://ecoinfo.cnrs.fr/2014/09/03/3-le-recyclage-des-metaux)
 
 # Obsolescence 
 
@@ -340,6 +346,7 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
 
 # Législation
 - [Topo sur la loi REEN](https://www.vie-publique.fr/loi/278056-loi-15-novembre2021-reen-reduire-empreinte-environnementale-du-numerique)
+- [Article de GreenIT.fr sur la loi REEN](https://www.greenit.fr/2021/12/14/une-loi-pour-reduire-lempreinte-environnementale-du-numerique-en-france/)
 
 - [Topo de Richard Hanna (12/2020)](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
 - [Indice de réparabilité obligatoire](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000041553781), [Que choisir](https://www.quechoisir.org/actualite-antigaspillage-l-indice-de-reparabilite-des-appareils-se-precise-n81579/)
