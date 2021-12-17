@@ -350,6 +350,7 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
 
 - [Topo de Richard Hanna (12/2020)](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
 - [Indice de réparabilité obligatoire](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000041553781), [Que choisir](https://www.quechoisir.org/actualite-antigaspillage-l-indice-de-reparabilite-des-appareils-se-precise-n81579/)
+- [UFC-Que choisir demande la réforme de l’indice de réparabilité](https://www.lemonde.fr/economie/article/2021/12/14/ufc-que-choisir-demande-la-reforme-de-l-indice-de-reparabilite_6105954_3234.html?utm_source=pocket_mylist)
 
 # Espoir pour le futur
 
