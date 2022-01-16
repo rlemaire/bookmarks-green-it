@@ -204,6 +204,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Apollo Guidance Computer — Wikipédia](https://fr.wikipedia.org/wiki/Apollo_Guidance_Computer)
 - [Ampoule centenaire](https://fr.wikipedia.org/wiki/Ampoule_centenaire)
 - [Un processeur vieux de 20 ans suffit à Perseverance pour explorer Mars](https://www.numerama.com/sciences/692822-un-processeur-vieux-de-20-ans-suffit-a-perseverance-pour-explorer-mars.html)
+- [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://blog.jim-nielsen.com/2022/a-web-for-all/)
 
 ## Obésité logicielle et compatibilité
 
