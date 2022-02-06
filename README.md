@@ -122,6 +122,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Energy Star Product Finder API](https://www.energystar.gov/productfinder/advanced)
 - [EcoInfo - Données EcoDiag](https://ecoinfo.cnrs.fr/wp-content/uploads/2019/12/ecodiag-v19.12.html)
 - [iPhone XSEnvironmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_PER_sept2018.pdf)
+- [boavizta - Numérique et environnement : Comment évaluer l’empreinte de la fabrication d’un serveur, au-delà des émissions de gaz à effet de serre ?](https://boavizta.org/blog/empreinte-de-la-fabrication-d-un-serveur)
 
 # Data centers et réseaux
 
@@ -283,6 +284,7 @@ La publicité
 - [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) outil de thoughworks, basé sur des estimations en fonction de la quantité de cloud consommé et de l'impact global du fournisseur.
 - [Google fournit l'impact carbone des services hébergés sur son cloud](https://www.youtube.com/watch?v=78cGDCGdajE) - [détail de la méthodo](https://cloud.google.com/carbon-footprint/docs/methodology)
 - [Liste des outils sur ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/)
+- [Vincent Vatelot - D'autres outils ecoindex, pour d'autres besoins](https://www.linkedin.com/pulse/dautres-outils-ecoindex-pour-besoins-vincent-vatelot/?originalSubdomain=fr)
 
 
 ### Outils de perfs web
@@ -297,6 +299,7 @@ La publicité
 - [Démo e-commerce avec générateur de site ](http://demo.themefisher.com/hargo-hugo/)
 - [Opquast - bonnes pratiques de qualité Web](https://checklists.opquast.com/fr/)
 - [Lexique numérique responsable](https://club.greenit.fr/doc/2018-05-ClubGreenIT-lexique-numerique_responsable-v1.8.3.pdf)
+- [The baseline for web development in 2022](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/?utm_source=pocket_mylist)
 
 ## Exemples
 
