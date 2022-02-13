@@ -206,6 +206,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Ampoule centenaire](https://fr.wikipedia.org/wiki/Ampoule_centenaire)
 - [Un processeur vieux de 20 ans suffit à Perseverance pour explorer Mars](https://www.numerama.com/sciences/692822-un-processeur-vieux-de-20-ans-suffit-a-perseverance-pour-explorer-mars.html)
 - [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://blog.jim-nielsen.com/2022/a-web-for-all/)
+- [Google Is Forcing Me to Dump a Perfectly Good Phone](https://www.vice.com/en/article/dypxpx/google-is-forcing-me-to-dump-a-perfectly-good-phone?utm_source=pocket_mylist)
 
 ## Obésité logicielle et compatibilité
 
