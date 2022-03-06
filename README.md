@@ -154,6 +154,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - ➡️ [Greenspector - Faut-il limiter les données qui transitent sur internet pour réduire l’impact du numérique ?](https://greenspector.com/fr/limiter-les-donnees-internet-pour-reduire-impact-numerique/)
 - [Greenspector - Étude d’impact de la lecture d’une vidéo Canal+](https://greenspector.com/fr/impact-video-canal/)
 
+- [Présentation de AC Orgerie « 🌱 L’informatique verte... moins branchée ? »](https://www.youtube.com/watch?v=1HL8pQRtm04) Contient un résumé de ses travaux mais aussi un topo général du sujet de l'informatique "verte"
+
 ## 5G
 - ➡️ [Gauthier Roussilhe - La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
 - 
@@ -255,6 +257,7 @@ La publicité
 
 - [Règle des 5R](https://fr.wikipedia.org/wiki/R%C3%A8gle_des_5_R)
 - [BYOD : quelles sont les bonnes pratiques ? - CNIL](https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques)
+- [Octo :  Une bonne pratique vers un numérique plus responsable : mesurer le ressenti des internautes. ](https://blog.octo.com/une-bonne-pratique-vers-un-numerique-plus-responsable-mesurer-le-ressenti-des-internautes/)
 
 ## Référentiels de bonnes pratiques et de questions
 
