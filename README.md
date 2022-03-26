@@ -136,13 +136,11 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Amazon, Google, Microsoft: Here&#39;s Who Has the Greenest Cloud - WIRED](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
 - [30% of servers are comatose](https://www.anthesisgroup.com/wp-content/uploads/2019/11/Case-Study_DataSupports30PercentComatoseEstimate-FINAL_06032015.pdf)
 - [étude du ministère de l'environnement allemand qui s'intéresse à l'efficacité énergétique des infrastructures numériques et à l'empreinte carbone du streaming](https://twitter.com/robin_parisi/status/1334241852288065537)
--
-- [La sobriété numérique, oui mais pour quoi faire ?](https://signal.eu.org/blog/2020/07/15/la-sobriete-numerique-oui-mais-pour-quoi-faire/)
 
+- [La sobriété numérique, oui mais pour quoi faire ?](https://signal.eu.org/blog/2020/07/15/la-sobriete-numerique-oui-mais-pour-quoi-faire/)
 
 - [Empreinte carbone d'une heure de calcul](https://gricad.univ-grenoble-alpes.fr/documents/GES-h-coeur-GRICAD-2020.pdf) - Exemple de cas d'usage où l'utilisation dépasse la fabrication (mais seulement pour les émissions de GES dans des pays avec un mix électrique carboné).
 - [Energy Efficiency across Programming Languages](http://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
-
 
 - [EcoInfo - Code de Conduite européen sur les Datacentres](https://ecoinfo.cnrs.fr/2019/05/06/code-de-conduite-europeen-sur-les-datacentres/)
 - [EcoInfo - Quelle est l’empreinte carbone de la transmission d’1 Go sur le réseau RENATER ? - EcoInfo - CNRS](https://ecoinfo.cnrs.fr/2020/12/04/quelle-est-lempreinte-carbone-de-la-transmission-d1-go-sur-le-reseau-renater/)
@@ -150,6 +148,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 - [Gauthier Roussilhe - Territorialiser les systèmes numériques, l'exemple des centres de données](https://gauthierroussilhe.com/post/territoires-centres-de-donnees.html) - avec des données sur l'impact env des DC
 
+- [Cécile Diguet et Fanny Lopez pour l’ADEME, « L’impact spatial et énergétique des data centers sur les territoires », février 2019](https://librairie.ademe.fr/urbanisme-et-batiment/908-impact-spatial-et-energetique-des-data-centers-sur-les-territoires-l-.html)
 
 - ➡️ [Greenspector - Faut-il limiter les données qui transitent sur internet pour réduire l’impact du numérique ?](https://greenspector.com/fr/limiter-les-donnees-internet-pour-reduire-impact-numerique/)
 - [Greenspector - Étude d’impact de la lecture d’une vidéo Canal+](https://greenspector.com/fr/impact-video-canal/)
@@ -190,6 +189,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Au Ghana, avec les damnés du «Sodome et Ghomorre» électronique - libération](https://www.liberation.fr/planete/2019/01/09/au-ghana-avec-les-damnes-du-sodome-et-ghomorre-electronique_1701925)
 - [Raport de l'ONU sur les DEEE](https://www.grida.no/publications/166)
 - [Photos de DEEE sur Wired](https://www.wired.com/story/international-electronic-waste-photographs/)
+- [Global e-waste monitor 2020](https://www.itu.int/en/ITU-D/Environment/Pages/Spotlight/Global-Ewaste-Monitor-2020.aspx)
 
 - [EcoInfo : le recyclage des métaux](https://ecoinfo.cnrs.fr/2014/09/03/3-le-recyclage-des-metaux)
 
@@ -272,12 +272,15 @@ La publicité
 ## Outils
 
 - [Outils du collectif GreenIT](https://collectif.greenit.fr/outils.html)
+- [Boite à outils numérique écoresponsable du gouvernement français](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/)
+- [Boite à outils de l’INR](https://institutnr.org/outils-ecoconception-accessibilite)
 
 ### Outils "green"
 - [Ecoindex](http://www.ecoindex.fr)
     - [Explication approfondie de l'éco index sur le blog d'Octo](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
 - [Ecometer](http://ecometer.org/)
 - ➡️ GreenIT analysis [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr), [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/)
+- [L’analyse d’Octo de la métrique EcoIndex](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
 - [The Green Web Foundation](https://www.thegreenwebfoundation.org/directory/) évaluation de l'hébergement
 - [Surfgreen](https://www.surfgreen.dev/) Analyse de métriques front-end d’un site à partir de son URL : speed index, cpu, … donne des conseils de bonnes pratiques.
 - [web site carbon](https://www.websitecarbon.com/) Donne une évaluation de l'impact de GES d'une URL, et in classement relatif
@@ -289,15 +292,39 @@ La publicité
 - [Google fournit l'impact carbone des services hébergés sur son cloud](https://www.youtube.com/watch?v=78cGDCGdajE) - [détail de la méthodo](https://cloud.google.com/carbon-footprint/docs/methodology)
 - [Liste des outils sur ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/)
 - [Vincent Vatelot - D'autres outils ecoindex, pour d'autres besoins](https://www.linkedin.com/pulse/dautres-outils-ecoindex-pour-besoins-vincent-vatelot/?originalSubdomain=fr)
+- [L’outil EcoDiag du CNRS](https://ecoinfo.cnrs.fr/ecodiag-calcul/)
+- [Le site officiel de l’outil GreenFrame](https://greenframe.io/)
+- [Le repository github du collectif numérique responsable](https://github.com/orgs/cnumr/repositories?type=all)
+- [Page présentation l’extension Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/)
+- [Site officiel de Greespector](https://greenspector.com/fr/accueil/)
+- [Site du plugin sonar EcoCode.io](https://www.ecocode.io/)
+- [CodeCarbon](https://codecarbon.io/)
 
-
-### Outils de perfs web
+### Outils de perfs web et d'accessiblité
+- ➡️ [Muchas Glacias](https://muchas-glacias.com/)
+- ➡️ [L’extension Chrome Google Lightouse](https://developers.google.com/web/tools/lighthouse/)
 - [sitespeed.io](https://www.sitespeed.io/)
-- ➡️ [Google page insight](https://developers.google.com/speed/pagespeed/insights/)
-- [gtmetrix](https://gtmetrix.com/)
 - [ Addy Osmani's 18-Point Web Performance Checklist ](https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1)
+- [Yellow Lab Tools](https://yellowlab.tools/)
+- [Page Speed Insights](https://pagespeed.web.dev/)
+- [GTMetrics](https://gtmetrix.com/)
+- [Fast or Slow](https://www.fastorslow.com/)
+- [L’extension Chrome WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+- [L’extension Chrome AXE](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
+- [Le site agissons d’Atalen peremttant de visualiser différents types de handicaps](https://www.atalan.fr/agissons/fr/index.html)
+- [colorsafe.c](http://colorsafe.co/)
+- [ontrast-ratio.com](https://contrast-ratio.com/)
+
 
 ### Autres
+- [Guidelines d’Apple pour la gestion de la mémoire dans les applications iOS](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html)
+- [Guidelines de Google pour la gestion de la mémoire dans les applications Android](https://developer.android.com/training/connectivity)
+- [Catalogue des patterns de gestion de l’énergie pour les applications mobiles de « The Quasar Research Group »](https://tqrg.github.io/energy-patterns/#/)
+- [La checklist d’Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/)
+- [Le guide RGPD de la CNIL](https://lincnil.github.io/Guide-RGPD-du-developpeur/)
+- [Le RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
+- [Shrink my vidéo](https://shrink-my-video.herokuapp.com/shrink-my-video/)
+
 - [Matomo : Analytics](https://fr.matomo.org/)
 - [You don't need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 - [Démo e-commerce avec générateur de site ](http://demo.themefisher.com/hargo-hugo/)
@@ -366,6 +393,10 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
 - [Économie de la fonctionnalité - Wikipédia](https://fr.wikipedia.org/wiki/%C3%89conomie_de_fonctionnalit%C3%A9)
 - [Économie de la fonctionnalité - Ademe](https://www.ademe.fr/expertises/economie-circulaire/economie-fonctionnalite)
 - [Économie de la fonctionnalité - Ministère de la Transition écologique](https://www.ecologie.gouv.fr/leconomie-fonctionnalite)
+
+- [Ministère de l’économie, des finances et de la relance](https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/economie-collaborative)
+
+- [Indice de réparabilité](https://www.ecologie.gouv.fr/indice-reparabilite)
 
 - [Une électronique souple à base de bois - Pour la Science](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
 - [Build once run everywhere - in C](https://justine.lol/cosmopolitan/index.html)
