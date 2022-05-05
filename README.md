@@ -43,9 +43,17 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Shift Project - Publication du rapport final « Déployer la sobriété numérique »](https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/)
 - ➡️ [Shift Project - Impact environnemental du numérique : tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)
 
+## France Sratégie
+
+- ➡️ [France Stratégie - La consommation de métaux du numérique](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf) - Condensé de plusieurs sources sur l'utilisation et l'épuisement des matières premières avec le numérique.
+- [France stratégie - Maîtriser la consommation énergétique du numérique : le progrès technologique n’y suffira pas ](https://www.strategie.gouv.fr/publications/maitriser-consommation-energetique-numerique-progres-technologique-ny-suffira)
+- [France stratégie - IOT - Le monde de l’Internet des objets : des dynamiques à maîtriser](https://ecoresponsable.numerique.gouv.fr/posts/rapport-france-strategie-iot/)
+
+
 ## Autres
 
-- [France stratégie - Maîtriser la consommation énergétique du numérique : le progrès technologique n’y suffira pas ](https://www.strategie.gouv.fr/publications/maitriser-consommation-energetique-numerique-progres-technologique-ny-suffira)
+- [AFNOR SPEC 2201 - Ecoconception des services numériques](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2201/ecoconception-des-services-numeriques/fa203506/323315)
+- 
 - [Pour la science - Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
 
 - [Gauthier Roussilhe - Situer le numérique](https://situer-le-numerique.netlify.app/)
@@ -60,8 +68,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 ## Référentiels de ressources
 
 - ➡️ [EcoInfo - Référentiel de connaissances pour un numérique éco responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) collection de liens organisée et complète!
-- [ADEME - Liste des ressources sur le numérique responsable](https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/)
-- [Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
+- [ecoresponsable.numerique.gouv.fr - Liste des ressources sur le numérique responsable](https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/)
 
 # Terminaux, épuisement des ressources naturelles et exploitation minière
 
@@ -69,7 +76,6 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [ADEME - Infographie - Ces objets qui pèsentlourd dans notre quotidien](http://multimedia.ademe.fr/infographies/infographie-poids-carbone/)
 - [Sciences et Avenir - De quoi est fait votre iPhone ?](https://www.sciencesetavenir.fr/high-tech/chimie-de-quoi-est-fait-votre-iphone_35674)
 
-- ➡️ [France Stratégie - La consommation de métaux du numérique](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf) - Condensé de plusieurs sources sur l'utilisation et l'épuisement des matières premières avec le numérique.
 - [EcoInfo - Epuisement des ressources naturelles](https://ecoinfo.cnrs.fr/2014/03/11/1-epuisement-des-ressources-naturelles/)
 - [Durée de vie des réserves rentables](https://www.usinenouvelle.com/article/infographie-de-surprenantes-matieres-critiques.N563822)
 - [Epuisement des métaux et minéraux : faut-il s&#39;inquiéter ?](https://www.ademe.fr/epuisement-metaux-mineraux-faut-sinquieter)
@@ -234,6 +240,7 @@ La publicité
 - [Adblock Plus - % trafic by ads](http://www.sfu.ca/content/dam/sfu/snfchs/pdfs/Adblock.Plus.Study.pdf) - Etude d'ad block plus qui indique que la publicité représente 25% du trafic.
 - [Google chrome va bloquer les publicités qui consomment trop de batterie](https://www.pcmag.com/news/googles-chrome-browser-to-block-battery-draining-data-guzzling-ads)
 - [Le train pollue inutilement à cause de la pub des e-billets](https://medium.com/@matti_sg_fr/bilan-carbone-billet-electronique-train-fba4f215d471) - Un blogueur calcule l'empreinte écologique de la publicité sur son billet de train, qui peut être supérieure à celle du trajet.
+- [Sites médias : 70% de l'empreinte carbone vient des pubs et des stats](https://marmelab.com/blog/2021/12/20/mesurons-lempreinte-carbone-des-plus-gros-sites-medias.html)
 
 - [Carte de la compatibilité entre versions d'iOS et modèles d'iPhones](https://www.statista.com/chart/5824/ios-iphone-compatibility/)
 - Parts de marché des navigateurs [Récap sur wikipédia](https://fr.wikipedia.org/wiki/Parts_de_march%C3%A9_des_navigateurs_web), [statista](https://www.statista.com/statistics/544400/market-share-of-internet-browsers-desktop/), [w3 counter](https://www.w3counter.com/globalstats.php), [stat counter world](https://gs.statcounter.com/browser-market-share), [stat counter France](https://gs.statcounter.com/browser-market-share/all/france)
@@ -261,9 +268,10 @@ La publicité
 
 ## Référentiels de bonnes pratiques et de questions
 
-- [Les 115 bonnes pratiques du collectif numérique responsable](https://collectif.greenit.fr/ecoconception-web/)
+- ➡️ [Les 115 bonnes pratiques du collectif numérique responsable](https://collectif.greenit.fr/ecoconception-web/)
 - [GR491, Le guide de Référence de Conception Responsable de Services Numériques - INR, 491 pratiques](https://gr491.isit-europe.org)
-- [Ministère de la transition écologique : Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
+- ➡️ [ecoresponsable.numerique.gouv.fr : Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
+- [ecoresponsable.numerique.gouv.fr : Guide de bonnes pratiques numérique responsable pour les organisations](https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/)
 - [Référentiel de GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
 - [Référentiel des 65 bonnes pratiques de l’INR](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf)
 - [ADEME - Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/dechets-economie-circulaire/4739-guide-de-questionnement-pour-le-developpement-de-services-numeriques.html)
@@ -362,6 +370,7 @@ La publicité
 - [Progressive CSS](https://ichimnetz.com/)
 - [My stack will outlive yours](https://blog.steren.fr/2020/my-stack-will-outlive-yours/)
 - [Économiser 42Ko pour sauver 50Tb de bande passante](https://welovedevs.com/fr/articles/rex-crispchat-economiser-42ko-pour-sauver-50tb-de-bande-passante/)
+- [50 exemples de sites internet basse consommation ](https://www.linkedin.com/pulse/48-exemples-de-sites-internet-basse-consommation-c%C3%A9dric-liardet/)
 
 ### Site explicitement écoconçus
 
