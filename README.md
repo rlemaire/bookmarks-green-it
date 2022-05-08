@@ -121,6 +121,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - 
 - [Kindle vs vrai livre - ACV](https://scholarworks.rit.edu/theses/7935/) (conclusion page 84)
 
+- [Analyse de cycle de vie de la messagerie Treebal par Eric Fourboul et Gauthier Roussilhe](https://gauthierroussilhe.com/book/treebal/)
+
 ## Bases de données
 
 - ➡️ [Modélisation et évaluation des impacts environnementaux de produits de consommation](https://www.ademe.fr/modelisation-evaluation-impacts-environnementaux-produits-consommation-biens-dequipement)
@@ -160,6 +162,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Greenspector - Étude d’impact de la lecture d’une vidéo Canal+](https://greenspector.com/fr/impact-video-canal/)
 
 - [Présentation de AC Orgerie « 🌱 L’informatique verte... moins branchée ? »](https://www.youtube.com/watch?v=1HL8pQRtm04) Contient un résumé de ses travaux mais aussi un topo général du sujet de l'informatique "verte"
+
+- [Les centres de données consomment désormais plus d'électricité que les maisons rurales, selon le CSO irlandais.](https://green-it.developpez.com/actu/333219/Les-centres-de-donnees-consomment-desormais-plus-d-electricite-que-les-maisons-rurales-selon-le-CSO-irlandais-L-electricite-qu-ils-utilisent-a-augmente-de-pres-d-un-tiers-en-un-an/)
 
 ## 5G
 - ➡️ [Gauthier Roussilhe - La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
@@ -258,7 +262,7 @@ La publicité
 
 - [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/)
 
-- [Cast software et standish group - fonctionnalités peu utilisées](https://www.standishgroup.com/sample_research_files/Exceeding%20Value_Layout.pdf)
+- [Cast software et standish group - fonctionnalités peu utilisées](https://www.standishgroup.com/sample_research_files/Exceeding%20Value_Layout.pdf) et un post de blog qui explique que ce n'est que sur 4 applications internes : [Are 64% of Features Really Rarely or Never Used?](https://www.mountaingoatsoftware.com/blog/are-64-of-features-really-rarely-or-never-used/comments)
 
 - [Audits d’écoconception - méthodo - Laurent Duvernay](https://ldevernay.github.io/green/2020/05/19/methodo.html)
 
