@@ -307,6 +307,7 @@ La publicité
 - [Site officiel de Greespector](https://greenspector.com/fr/accueil/)
 - [Site du plugin sonar EcoCode.io](https://www.ecocode.io/)
 - [CodeCarbon](https://codecarbon.io/)
+- [API Boavizta: évaluation automatisée des impacts environnementaux des services et équipements numériques](https://boavizta.org/blog/boavizta-api-automated-evaluation-of-ict-impacts-on-the-environment)
 
 ### Outils de perfs web et d'accessiblité
 - ➡️ [Muchas Glacias](https://muchas-glacias.com/)
