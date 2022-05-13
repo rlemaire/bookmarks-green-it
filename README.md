@@ -165,6 +165,14 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 - [Les centres de données consomment désormais plus d'électricité que les maisons rurales, selon le CSO irlandais.](https://green-it.developpez.com/actu/333219/Les-centres-de-donnees-consomment-desormais-plus-d-electricite-que-les-maisons-rurales-selon-le-CSO-irlandais-L-electricite-qu-ils-utilisent-a-augmente-de-pres-d-un-tiers-en-un-an/)
 
+
+### Papiers de recherche (AC Orgerie)
+
+- ➡️ [Demystifying Energy Consumption in Grids and Clouds](http://csis.pace.edu/~marchese/SE765/Paper/Green3.pdf)
+- [Save Watts in your Grid: Green Strategies for Energy-Aware Framework in Large Scale Distributed Systems](https://perso.ens-lyon.fr/laurent.lefevre/pdf/ICPADS2008_Orgerie_Lefevre_Gelas.pdf)
+- [Balancing the use of batteries and opportunistic scheduling policies for maximizing renewable energy consumption in a Cloud data center](https://hal.inria.fr/hal-01432752/document)
+- [HEstimating Energy Consumption of Cloud, Fog and Edge Computing Infrastructures](https://hal.archives-ouvertes.fr/hal-02083080/document?utm_source=pocket_mylist)
+
 ## 5G
 - ➡️ [Gauthier Roussilhe - La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
 - 
