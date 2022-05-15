@@ -49,6 +49,11 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [France stratégie - Maîtriser la consommation énergétique du numérique : le progrès technologique n’y suffira pas ](https://www.strategie.gouv.fr/publications/maitriser-consommation-energetique-numerique-progres-technologique-ny-suffira)
 - [France stratégie - IOT - Le monde de l’Internet des objets : des dynamiques à maîtriser](https://ecoresponsable.numerique.gouv.fr/posts/rapport-france-strategie-iot/)
 
+## ACEP
+
+- ➡️ [ARCEP - Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
+- [ARCEP - Renouvellement des terminaux mobiles et pratiques commerciales de distribution](https://www.arcep.fr/uploads/tx_gspublication/rapport-renouvellement-terminaux-mobiles-pratiques-commerciales-distribution-juillet2021.pdf)
+- [ARCEP - Première édition de l'enquête annuelle « Pour un numérique soutenable »](https://www.arcep.fr/actualites/les-communiques-de-presse/detail/n/environnement-enquete-annuelle-arcep-250422.html)
 
 ## Autres
 
@@ -171,7 +176,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - ➡️ [Demystifying Energy Consumption in Grids and Clouds](http://csis.pace.edu/~marchese/SE765/Paper/Green3.pdf)
 - [Save Watts in your Grid: Green Strategies for Energy-Aware Framework in Large Scale Distributed Systems](https://perso.ens-lyon.fr/laurent.lefevre/pdf/ICPADS2008_Orgerie_Lefevre_Gelas.pdf)
 - [Balancing the use of batteries and opportunistic scheduling policies for maximizing renewable energy consumption in a Cloud data center](https://hal.inria.fr/hal-01432752/document)
-- [HEstimating Energy Consumption of Cloud, Fog and Edge Computing Infrastructures](https://hal.archives-ouvertes.fr/hal-02083080/document?utm_source=pocket_mylist)
+- [Estimating Energy Consumption of Cloud, Fog and Edge Computing Infrastructures](https://hal.archives-ouvertes.fr/hal-02083080/document)
 
 ## 5G
 - ➡️ [Gauthier Roussilhe - La controverse de la 5G](http://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)
@@ -226,7 +231,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Ampoule centenaire](https://fr.wikipedia.org/wiki/Ampoule_centenaire)
 - [Un processeur vieux de 20 ans suffit à Perseverance pour explorer Mars](https://www.numerama.com/sciences/692822-un-processeur-vieux-de-20-ans-suffit-a-perseverance-pour-explorer-mars.html)
 - [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://blog.jim-nielsen.com/2022/a-web-for-all/)
-- [Google Is Forcing Me to Dump a Perfectly Good Phone](https://www.vice.com/en/article/dypxpx/google-is-forcing-me-to-dump-a-perfectly-good-phone?utm_source=pocket_mylist)
+- [Google Is Forcing Me to Dump a Perfectly Good Phone](https://www.vice.com/en/article/dypxpx/google-is-forcing-me-to-dump-a-perfectly-good-phone)
 
 ## Obésité logicielle et compatibilité
 
@@ -351,7 +356,7 @@ La publicité
 - [Démo e-commerce avec générateur de site ](http://demo.themefisher.com/hargo-hugo/)
 - [Opquast - bonnes pratiques de qualité Web](https://checklists.opquast.com/fr/)
 - [Lexique numérique responsable](https://club.greenit.fr/doc/2018-05-ClubGreenIT-lexique-numerique_responsable-v1.8.3.pdf)
-- [The baseline for web development in 2022](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/?utm_source=pocket_mylist)
+- [The baseline for web development in 2022](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/)
 
 ## Exemples
 
@@ -408,7 +413,7 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
 
 - [Topo de Richard Hanna (12/2020)](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
 - [Indice de réparabilité obligatoire](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000041553781), [Que choisir](https://www.quechoisir.org/actualite-antigaspillage-l-indice-de-reparabilite-des-appareils-se-precise-n81579/)
-- [UFC-Que choisir demande la réforme de l’indice de réparabilité](https://www.lemonde.fr/economie/article/2021/12/14/ufc-que-choisir-demande-la-reforme-de-l-indice-de-reparabilite_6105954_3234.html?utm_source=pocket_mylist)
+- [UFC-Que choisir demande la réforme de l’indice de réparabilité](https://www.lemonde.fr/economie/article/2021/12/14/ufc-que-choisir-demande-la-reforme-de-l-indice-de-reparabilite_6105954_3234.html)
 
 # Espoir pour le futur
 
@@ -429,3 +434,5 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
 - [Apple va commercialiser des pièces détachées et des outils permettant à tout particulier de réparer certains modèles d’iPhone et d’ordinateurs Mac](https://www.lemonde.fr/economie/article/2021/11/17/apple-va-commercialiser-des-pieces-detachees-et-outils-pour-reparer-soi-meme-son-iphone_6102461_3234.html)
 
 - [Travailler (développer!) avec son smartphone](https://medium.com/@l4em/il-y-a-un-ordinateur-dans-votre-poche-4fcc0146ff11)
+
+- [First commercially viable lithium metal solid state battery charges to 80% in just 15 minute](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
