@@ -49,25 +49,35 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [France stratégie - Maîtriser la consommation énergétique du numérique : le progrès technologique n’y suffira pas ](https://www.strategie.gouv.fr/publications/maitriser-consommation-energetique-numerique-progres-technologique-ny-suffira)
 - [France stratégie - IOT - Le monde de l’Internet des objets : des dynamiques à maîtriser](https://ecoresponsable.numerique.gouv.fr/posts/rapport-france-strategie-iot/)
 
-## ACEP
+## ARCEP
 
 - ➡️ [ARCEP - Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
 - [ARCEP - Renouvellement des terminaux mobiles et pratiques commerciales de distribution](https://www.arcep.fr/uploads/tx_gspublication/rapport-renouvellement-terminaux-mobiles-pratiques-commerciales-distribution-juillet2021.pdf)
 - [ARCEP - Première édition de l'enquête annuelle « Pour un numérique soutenable »](https://www.arcep.fr/actualites/les-communiques-de-presse/detail/n/environnement-enquete-annuelle-arcep-250422.html)
 
-## Autres
+## Gauthier Roussilhe
 
-- [AFNOR SPEC 2201 - Ecoconception des services numériques](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2201/ecoconception-des-services-numeriques/fa203506/323315)
-- 
-- [Pour la science - Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
+- [Situer le numérique](https://situer-le-numerique.netlify.app/)
+- [Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
+- [Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
+- [Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
+- [Explications sur l'empreinte carbone du streaming et du transfert de données](https://gauthierroussilhe.com/post/explication-streaming.html)
+- ➡️ [Explications sur l'empreinte environnementale du secteur numérique](https://gauthierroussilhe.com/post/explication-empreinte.html)
 
-- [Gauthier Roussilhe - Situer le numérique](https://situer-le-numerique.netlify.app/)
-- [Gauthier Roussilhe - Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
-- [Gauthier Roussilhe - Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
+## ADEME
 
 - [ADEME - Guide pratique, la face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf) Résumé graphique et grand public des constats et actions.
 
 - [ADEME - Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail) - «  une minute de visio-conférence émet 1g de CO2 (Leboucq, 2020). »
+
+## Autres
+
+- ➡️ [AFNOR SPEC 2201 - Ecoconception des services numériques](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2201/ecoconception-des-services-numeriques/fa203506/323315)
+
+- [Pour la science - Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
+- [Empreinte carbone d'un e-mail : mythes, réalités et solutions](https://www.sami.eco/post/empreinte-carbone-email)
+
+
 
 
 ## Référentiels de ressources
@@ -93,13 +103,14 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Tesla expects global shortage of electric vehicle battery minerals -sources](https://www.reuters.com/article/usa-lithium-electric-tesla-exclusive-int/exclusive-tesla-expects-global-shortage-of-electric-vehicle-battery-minerals-sources-idUSKCN1S81QI)
 
 - [Le réveilleur sur l'épuisement des métaux](https://www.youtube.com/watch?v=XLRUcdMbZ_M)
+- [Le réveilleur sur l'épuisement des métaux](https://www.youtube.com/watch?v=XLRUcdMbZ_M)
 
 ## Photos et lieux d'exploitation minière
 
 - [Mine de cuivre de Palabora, Afrique du Sud](https://www.google.com/maps/search/palabora+mine/@-23.9809565,31.1058558,15940m/data=!3m1!1e3) et la [quantité de cuivre extraite](https://phototrend.fr/wp-content/uploads/2020/05/dillon-marsh-cuivre-6.jpg) ([article](https://phototrend.fr/2020/05/for-what-its-worth-dillon-marsh/))
 - [Mine de cuivre de Geamăna, Roumanie](https://www.google.com/maps/place/Geam%C4%83na+517416,+Roumanie/@46.3307263,23.1713381,12047m/data=!3m1!1e3!4m5!3m4!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!8m2!3d46.3299984!4d23.2042788) avec son village englouti
 - [Mir, mine de diamant en Russie](https://fr.wikipedia.org/wiki/Mine_Mir) [image](https://twitter.com/julian0liver/status/1446741413136412680)
-- [Projet de mne constesté dans le Nevada](https://www.lemonde.fr/planete/article/2021/11/23/dans-le-nevada-un-projet-de-mine-geante-de-lithium-menace-toute-une-region_6103223_3244.html)
+- [LeMonde.fr - L’approvisionnement en métaux, enjeu critique de la transition énergétique](https://www.lemonde.fr/planete/article/2022/06/10/l-approvisionnement-en-metaux-enjeu-critique-de-la-transition-energetique_6129614_3244.html)
 
 ## IOT ridicule
 
@@ -137,7 +148,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [iPhone XSEnvironmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_PER_sept2018.pdf)
 - [boavizta - Numérique et environnement : Comment évaluer l’empreinte de la fabrication d’un serveur, au-delà des émissions de gaz à effet de serre ?](https://boavizta.org/blog/empreinte-de-la-fabrication-d-un-serveur)
 
-# Data centers et réseaux
+# Could, Data centers et réseaux
 
 - [PUE (wikipédia)](https://fr.wikipedia.org/wiki/Indicateur_d%27efficacit%C3%A9_%C3%A9nerg%C3%A9tique)
 
@@ -169,6 +180,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Présentation de AC Orgerie « 🌱 L’informatique verte... moins branchée ? »](https://www.youtube.com/watch?v=1HL8pQRtm04) Contient un résumé de ses travaux mais aussi un topo général du sujet de l'informatique "verte"
 
 - [Les centres de données consomment désormais plus d'électricité que les maisons rurales, selon le CSO irlandais.](https://green-it.developpez.com/actu/333219/Les-centres-de-donnees-consomment-desormais-plus-d-electricite-que-les-maisons-rurales-selon-le-CSO-irlandais-L-electricite-qu-ils-utilisent-a-augmente-de-pres-d-un-tiers-en-un-an/)
+
+- [Carbone 4 - Empreinte carbone du cloud : Amazon, Microsoft et Google ont-ils la tête dans les nuages ?](https://www.carbone4.com/analyse-empreinte-carbone-du-cloud)
 
 
 ### Papiers de recherche (AC Orgerie)
@@ -292,6 +305,7 @@ La publicité
 - [Référentiel de GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
 - [Référentiel des 65 bonnes pratiques de l’INR](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf)
 - [ADEME - Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/dechets-economie-circulaire/4739-guide-de-questionnement-pour-le-developpement-de-services-numeriques.html)
+- [club.greenit.fr - 74 bonnes pratiques clés pour un numérique plus responsable](https://club.greenit.fr/doc/2022-06-GREENIT-Referentiel_maturite-v3.pdf)
 
 
 ## Outils
