@@ -407,6 +407,7 @@ La publicité
 ### Site explicitement écoconçus
 
 - [EcoloGeek](https://www.ecologeek.fr/)
+- [The low impact website](https://lowimpact.organicbasics.com/eur)
 
 Liste des designers éthiques ([source](https://eco-conception.designersethiques.org/guide/content/7-plus-loin.html)) :
 
