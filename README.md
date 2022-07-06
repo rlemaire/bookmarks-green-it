@@ -70,6 +70,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 - [ADEME - Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail) - «  une minute de visio-conférence émet 1g de CO2 (Leboucq, 2020). »
 
+- [ADEME - Evaluation de l'impact environnemental du numérique en France et analyse prospective](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html)
+
 ## Autres
 
 - ➡️ [AFNOR SPEC 2201 - Ecoconception des services numériques](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2201/ecoconception-des-services-numeriques/fa203506/323315)
