@@ -78,7 +78,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 - [Pour la science - Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
 - [Empreinte carbone d'un e-mail : mythes, réalités et solutions](https://www.sami.eco/post/empreinte-carbone-email)
-
+- [Carbon trust - Carbon impact of video streaming](https://www.carbontrust.com/resources/carbon-impact-of-video-streaming)
 
 
 
