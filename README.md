@@ -67,10 +67,9 @@ de mes recherches sur le numérique responsable, de façon organisée.
 ## ADEME
 
 - [ADEME - Guide pratique, la face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf) Résumé graphique et grand public des constats et actions.
-
 - [ADEME - Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail) - «  une minute de visio-conférence émet 1g de CO2 (Leboucq, 2020). »
-
 - [ADEME - Evaluation de l'impact environnemental du numérique en France et analyse prospective](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html)
+- [ADEME - Évaluation de l'impact environnemental d'un ensemble de produits reconditionnés](https://librairie.ademe.fr/consommer-autrement/5690-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html)
 
 ## Autres
 
@@ -106,6 +105,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 - [Le réveilleur sur l'épuisement des métaux](https://www.youtube.com/watch?v=XLRUcdMbZ_M)
 - [Le réveilleur sur l'épuisement des métaux](https://www.youtube.com/watch?v=XLRUcdMbZ_M)
+
+- [La Roue des métaux - dépendances](https://www.researchgate.net/figure/La-Roue-des-metaux-illustre-la-dependance-de-nombreux-metaux-accessoires-notamment-les_fig3_270105075)
 
 ## Photos et lieux d'exploitation minière
 
