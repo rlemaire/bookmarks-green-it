@@ -31,6 +31,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 - [GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
 
+- [GreenIT.fr - Benchmark GreenIT 2022](https://club.greenit.fr/doc/2022-09-Benchmark_Green_IT-2022-rapport.0.5_FR.pdf)
 
 ## Shift Project
 
@@ -54,15 +55,17 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - ➡️ [ARCEP - Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
 - [ARCEP - Renouvellement des terminaux mobiles et pratiques commerciales de distribution](https://www.arcep.fr/uploads/tx_gspublication/rapport-renouvellement-terminaux-mobiles-pratiques-commerciales-distribution-juillet2021.pdf)
 - [ARCEP - Première édition de l'enquête annuelle « Pour un numérique soutenable »](https://www.arcep.fr/actualites/les-communiques-de-presse/detail/n/environnement-enquete-annuelle-arcep-250422.html)
+- [ARCEP - Evaluation de la consommation énergétique d’un déploiement 4G vs 5G](https://www.arcep.fr/fileadmin/cru-1638195168/user_upload/grands_dossiers/environnement/etude-environnement-4Gvs5G-note-detaillee-comite-expert-mobile_janv2022.pdf)
 
 ## Gauthier Roussilhe
 
-- [Situer le numérique](https://situer-le-numerique.netlify.app/)
-- [Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
-- [Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
-- [Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
-- [Explications sur l'empreinte carbone du streaming et du transfert de données](https://gauthierroussilhe.com/post/explication-streaming.html)
-- ➡️ [Explications sur l'empreinte environnementale du secteur numérique](https://gauthierroussilhe.com/post/explication-empreinte.html)
+- [Gauthier Roussilhe - Situer le numérique](https://situer-le-numerique.netlify.app/)
+- [Gauthier Roussilhe - Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
+- [Gauthier Roussilhe - Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
+- [Gauthier Roussilhe - Explications sur l'empreinte carbone du streaming et du transfert de données](https://gauthierroussilhe.com/post/explication-streaming.html)
+- [Gauthier Roussilhe - Explications sur l'empreinte environnementale du secteur numérique](https://gauthierroussilhe.com/post/explication-empreinte.html)
+- [Gauthier Roussilhe - « Territorialiser les systèmes numériques, l'exemple des centres de données »](https://gauthierroussilhe.com/post/territoires-centres-de-donnees.html)
+- [Gauthier Roussilhe « Eau et puces électroniques : l’avenir climatique et industriel de Taiwan », avril 2021](https://gauthierroussilhe.com/post/chip-water-taiwan.html)
 
 ## ADEME
 
@@ -71,28 +74,32 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [ADEME - Evaluation de l'impact environnemental du numérique en France et analyse prospective](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html)
 - [ADEME - Évaluation de l'impact environnemental d'un ensemble de produits reconditionnés](https://librairie.ademe.fr/consommer-autrement/5690-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html)
 
-## Autres
 
-- ➡️ [AFNOR SPEC 2201 - Ecoconception des services numériques](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2201/ecoconception-des-services-numeriques/fa203506/323315)
+## INR
+
+- [INR - WeNR 2021](https://wenr.isit-europe.org/wp-content/uploads/2021/12/wenr2021-rapport-public.pdf)
+
+
+## Autres
 
 - [Pour la science - Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
 - [Empreinte carbone d'un e-mail : mythes, réalités et solutions](https://www.sami.eco/post/empreinte-carbone-email)
 - [Carbon trust - Carbon impact of video streaming](https://www.carbontrust.com/resources/carbon-impact-of-video-streaming)
-
-
+- [Le Figaro - « Santé: faut-il avoir peur des ondes électromagnétiques? », novembre 2018](https://sante.lefigaro.fr/article/sante-faut-il-avoir-peur-des-ondes-electromagnetiques-/)
+- [Base carbone ADEME](https://bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm)
 
 ## Référentiels de ressources
 
 - ➡️ [EcoInfo - Référentiel de connaissances pour un numérique éco responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) collection de liens organisée et complète!
 - [ecoresponsable.numerique.gouv.fr - Liste des ressources sur le numérique responsable](https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/)
 
-# Terminaux, épuisement des ressources naturelles et exploitation minière
 
+# Terminaux, épuisement des ressources naturelles et exploitation minière
 
 - [ADEME - Infographie - Ces objets qui pèsentlourd dans notre quotidien](http://multimedia.ademe.fr/infographies/infographie-poids-carbone/)
 - [Sciences et Avenir - De quoi est fait votre iPhone ?](https://www.sciencesetavenir.fr/high-tech/chimie-de-quoi-est-fait-votre-iphone_35674)
 
-- [EcoInfo - Epuisement des ressources naturelles](https://ecoinfo.cnrs.fr/2014/03/11/1-epuisement-des-ressources-naturelles/)
+- [EcoInfo CNRS - « L’épuisement des ressources naturelles », mars 2014](https://ecoinfo.cnrs.fr/2014/03/11/1-epuisement-des-ressources-naturelles/)
 - [Durée de vie des réserves rentables](https://www.usinenouvelle.com/article/infographie-de-surprenantes-matieres-critiques.N563822)
 - [Epuisement des métaux et minéraux : faut-il s&#39;inquiéter ?](https://www.ademe.fr/epuisement-metaux-mineraux-faut-sinquieter)
 - [Livret La Guerre des métaux rares](https://fr.calameo.com/read/002094473c9f01879e45b) : Annexe du livre de Guillaume Pitron.
@@ -104,9 +111,11 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Tesla expects global shortage of electric vehicle battery minerals -sources](https://www.reuters.com/article/usa-lithium-electric-tesla-exclusive-int/exclusive-tesla-expects-global-shortage-of-electric-vehicle-battery-minerals-sources-idUSKCN1S81QI)
 
 - [Le réveilleur sur l'épuisement des métaux](https://www.youtube.com/watch?v=XLRUcdMbZ_M)
-- [Le réveilleur sur l'épuisement des métaux](https://www.youtube.com/watch?v=XLRUcdMbZ_M)
 
 - [La Roue des métaux - dépendances](https://www.researchgate.net/figure/La-Roue-des-metaux-illustre-la-dependance-de-nombreux-metaux-accessoires-notamment-les_fig3_270105075)
+- 
+- [Le Monde - « Semi-conducteurs : que sont ces puces électroniques dont la pénurie perturbe l’économie mondiale ? » octobre 2021](https://www.lemonde.fr/economie/article/2021/10/22/semi-conducteurs-que-sont-ces-puces-electroniques-dont-la-penurie-perturbe-l-economie-mondiale_6099502_3234.html)
+- [IEA - « The Role of Critical Minerals in Clean Energy Transitions »](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
 
 ## Photos et lieux d'exploitation minière
 
@@ -122,34 +131,6 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Slip Connecté](https://www.olybop.fr/concept-i-slip-le-slip-connecte-et-son-app-mobile/)
 - [Les risques associés à l'IOT](https://repo.revision.io/repository/)
 - [Robot qui détecte les détritus, mais ne nettoie pas](https://www.wbur.org/bostonomix/2019/03/22/marty-robot-stop-and-shop)
-
-# ACV
-
-- ➡️ [Page Wikipédia](https://fr.wikipedia.org/wiki/Analyse_du_cycle_de_vie)
-- ➡️ [ACV du Fairphone 2](https://pdfs.semanticscholar.org/881e/5297c5f44d626abe1e65f38d93ac09b2350d.pdf)
-- [Guide Methodologique de l'ACV des Logiciels](https://greenspector.com/wp-content/uploads/2020/01/GREENSPECTOR_Guide_Methodologique_ACV_des_Logiciels.pdf) par Greenspector.
-- [Méthodologie de réalisation de l'ACV](http://stockage.univ-valenciennes.fr/MenetACVBAT20120704/acvbat/chap03/co/ch03_010_acv_3.html)
-
-## Des ACV
-- [Livre blanc GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des résultats d'ACV.
-- [ACV du Fairphone 2](https://pdfs.semanticscholar.org/881e/5297c5f44d626abe1e65f38d93ac09b2350d.pdf)
-- [ACV du Fairphone 3](https://www.fairphone.com/wp-content/uploads/2020/07/Fairphone_3_LCA.pdf)
-- [ACV d'un PC](https://www.researchgate.net/publication/226388568_Life_Cycle_Assessment_of_a_Personal_Computer_and_its_Effective_Recycling_Rate_7_pp)
-- [Quelle est l’empreinte carbone d’un ordinateur ? - Green IT](https://www.greenit.fr/2011/02/10/quelle-est-l-empreinte-carbone-d-un-ordinateur/) - Pentium IV
-- [Objets connectés : 400 TWh consommés chaque année - Green IT](https://www.greenit.fr/2014/07/15/objets-connectes-400-twh-consommes-chaque-annee/)
-- 
-- [Kindle vs vrai livre - ACV](https://scholarworks.rit.edu/theses/7935/) (conclusion page 84)
-
-- [Analyse de cycle de vie de la messagerie Treebal par Eric Fourboul et Gauthier Roussilhe](https://gauthierroussilhe.com/book/treebal/)
-
-## Bases de données
-
-- ➡️ [Modélisation et évaluation des impacts environnementaux de produits de consommation](https://www.ademe.fr/modelisation-evaluation-impacts-environnementaux-produits-consommation-biens-dequipement)
-- [ecoinvent Version 3](https://www.ecoinvent.org/database/database.html)
-- [Energy Star Product Finder API](https://www.energystar.gov/productfinder/advanced)
-- [EcoInfo - Données EcoDiag](https://ecoinfo.cnrs.fr/wp-content/uploads/2019/12/ecodiag-v19.12.html)
-- [iPhone XSEnvironmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_PER_sept2018.pdf)
-- [boavizta - Numérique et environnement : Comment évaluer l’empreinte de la fabrication d’un serveur, au-delà des émissions de gaz à effet de serre ?](https://boavizta.org/blog/empreinte-de-la-fabrication-d-un-serveur)
 
 # Could, Data centers et réseaux
 
@@ -185,6 +166,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [Les centres de données consomment désormais plus d'électricité que les maisons rurales, selon le CSO irlandais.](https://green-it.developpez.com/actu/333219/Les-centres-de-donnees-consomment-desormais-plus-d-electricite-que-les-maisons-rurales-selon-le-CSO-irlandais-L-electricite-qu-ils-utilisent-a-augmente-de-pres-d-un-tiers-en-un-an/)
 
 - [Carbone 4 - Empreinte carbone du cloud : Amazon, Microsoft et Google ont-ils la tête dans les nuages ?](https://www.carbone4.com/analyse-empreinte-carbone-du-cloud)
+- [Lawrence Berkeley National Laboratory - « Characteristics and Energy Use of Volume Servers in the United States »](https://escholarship.org/content/qt8bb5j7ww/qt8bb5j7ww.pdf)
 
 
 ### Papiers de recherche (AC Orgerie)
@@ -214,23 +196,26 @@ de mes recherches sur le numérique responsable, de façon organisée.
 # Impacts sociaux et géopolitiques
 
 - [Madagascar : plus de 10 000 enfants employés dans les mines pour extraire le mica](https://mobile.francetvinfo.fr/monde/afrique/societe-africaine/madagascar-plus-de-10000-enfants-employes-dans-les-mines-pour-extraire-le-mica_3718113.html?fbclid=IwAR28VmpQ3QoxaasWlFBrdfsZYE9hAr_8j9xIdEaQ_HAlL-e9jIAuW-9didA#xtref=https://m.facebook.com/)
-- [Le travail des enfants derrière la production de smartphones et de voitures électriques - Amnesty International](https://www.amnesty.org/fr/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/)
+- [Amnesty International - « Le travail des enfants derrière la production de smartphones et de voitures électriques », janvier 2016](https://www.amnesty.org/fr/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/)
 - [L&#39;exploitation des enfants dans les mines du Congo - Le Club de Mediapart](https://blogs.mediapart.fr/rachid-barbouch/blog/060317/lexploitation-des-enfants-dans-les-mines-du-congo)
 - [Destructions - Les dessous de la HighTech](http://dessousdelahightech.org/production/destructions/)
 - [40 000 enfants travaillent toujours dans les mines pour les batteries des véhicules électriques.](https://institutnr.org/40-000-enfants-travaillent-toujours-dans-les-mines-pour-nos-batteries)
-- [Filets anti suicide chez Foxconn](https://www.lesnumeriques.com/vie-du-net/enquete-vitriol-envoye-special-sur-geant-chinois-foxconn-n27404.html) - [idem](https://www.liberation.fr/futurs/2010/06/03/suicides-a-la-chaine-chez-le-geant-foxconn_656243)
-
+- [Les numériques - « Enquête au vitriol d'Envoyé Spécial sur le géant chinois Foxconn »](https://www.lesnumeriques.com/vie-du-net/enquete-vitriol-envoye-special-sur-geant-chinois-foxconn-n27404.html)
+- [Le Monde - « En Chine, les terres rares tuent des villages », juillet 2012](https://www.lemonde.fr/asie-pacifique/article/2012/07/19/en-chine-les-terres-rares-tuent-des-villages_1735857_3216.html)
+- [Le Soir - « Congo: les mines de cobalt, scandale écologique et désastre sanitaire », février 2020](https://www.lesoir.be/277428/article/2020-02-04/congo-les-mines-de-cobalt-scandale-ecologique-et-desastre-sanitaire)
+- [France Info - «  Madagascar : plus de 10 000 enfants employés dans les mines pour extraire le mica », novembre 2019](https://www.francetvinfo.fr/monde/afrique/societe-africaine/madagascar-plus-de-10000-enfants-employes-dans-les-mines-pour-extraire-le-mica_3718113.html)
 
 # DEEE
 - [Page wikipédia sur les DEEE](https://fr.wikipedia.org/wiki/D%C3%A9chets_d%27%C3%A9quipements_%C3%A9lectriques_et_%C3%A9lectroniques)
 - [Le volume de déchets électroniques explose et leur taux de recyclage reste ridicule](https://theconversation.com/le-volume-de-dechets-electroniques-explose-et-leur-taux-de-recyclage-reste-ridicule-143701)
 - [Les déchets électroniques intoxiquent le Ghana - Le Monde](https://www.lemonde.fr/planete/article/2013/12/27/les-dechets-electroniques-intoxiquent-le-ghana_4340635_3244.html)
-- [Au Ghana, avec les damnés du «Sodome et Ghomorre» électronique - libération](https://www.liberation.fr/planete/2019/01/09/au-ghana-avec-les-damnes-du-sodome-et-ghomorre-electronique_1701925)
+- [Libération« Au Ghana, avec les damnés du «Sodome et Ghomorre» électronique », janvier 2019](https://www.liberation.fr/planete/2019/01/09/au-ghana-avec-les-damnes-du-sodome-et-ghomorre-electronique_1701925/)
 - [Raport de l'ONU sur les DEEE](https://www.grida.no/publications/166)
 - [Photos de DEEE sur Wired](https://www.wired.com/story/international-electronic-waste-photographs/)
-- [Global e-waste monitor 2020](https://www.itu.int/en/ITU-D/Environment/Pages/Spotlight/Global-Ewaste-Monitor-2020.aspx)
+- [ONU« Global E-waste Monitor 2020 »](https://www.itu.int/en/ITU-D/Environment/Pages/Spotlight/Global-Ewaste-Monitor-2020.aspx)
 
 - [EcoInfo : le recyclage des métaux](https://ecoinfo.cnrs.fr/2014/09/03/3-le-recyclage-des-metaux)
+- [L’Obs « La Malaisie renvoie 150 conteneurs de déchets vers plusieurs pays dont la France », janvier 2020](https://www.nouvelobs.com/planete/20200120.OBS23688/la-malaisie-renvoie-150-conteneurs-de-dechets-vers-plusieurs-pays-dont-la-france.html)
 
 # Obsolescence 
 
@@ -289,6 +274,15 @@ La publicité
 
 # EcoConception
 
+
+
+- [ADEME, Les enjeux de l’écoconception, les bénéfices pour l’entreprise, pour l’économie et l’environnement](https://www.ademe.fr/entreprises-monde-agricole/organiser-demarche-environnementale/dossier/ecoconcevoir-produits/enjeux-lecoconception-benefices-lentreprise-leconomie-lenvironnement)
+- [Pôle écoconception, exemples de produits écoconçus.](https://www.eco-conception.fr/static/exemple-de-produit-eco-concu.html)
+- [Pôle écoconception, L'éco-conception pour tous : les quatre niveaux d’ambitions.](https://www.eco-conception.fr/static/leco-conception-pour-tous.html)
+- [Le livre blanc du projet GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
+- [Berthoud et al., Estimation de l’empreinte carbone d’une heure.coeur de calcul](https://gricad.univ-grenoble-alpes.fr/documents/GES-h-coeur-GRICAD-2020.pdf)
+
+
 - [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/)
 
 - [Cast software et standish group - fonctionnalités peu utilisées](https://www.standishgroup.com/sample_research_files/Exceeding%20Value_Layout.pdf) et un post de blog qui explique que ce n'est que sur 4 applications internes : [Are 64% of Features Really Rarely or Never Used?](https://www.mountaingoatsoftware.com/blog/are-64-of-features-really-rarely-or-never-used/comments)
@@ -297,7 +291,7 @@ La publicité
 
 - [Règle des 5R](https://fr.wikipedia.org/wiki/R%C3%A8gle_des_5_R)
 - [BYOD : quelles sont les bonnes pratiques ? - CNIL](https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques)
-- [Octo :  Une bonne pratique vers un numérique plus responsable : mesurer le ressenti des internautes. ](https://blog.octo.com/une-bonne-pratique-vers-un-numerique-plus-responsable-mesurer-le-ressenti-des-internautes/)
+- [Octo :  Une bonne pratique vers un numérique plus responsable : mesurer le ressenti des internautes.](https://blog.octo.com/une-bonne-pratique-vers-un-numerique-plus-responsable-mesurer-le-ressenti-des-internautes/)
 
 ## Référentiels de bonnes pratiques et de questions
 
@@ -309,6 +303,7 @@ La publicité
 - [Référentiel des 65 bonnes pratiques de l’INR](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf)
 - [ADEME - Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/dechets-economie-circulaire/4739-guide-de-questionnement-pour-le-developpement-de-services-numeriques.html)
 - [club.greenit.fr - 74 bonnes pratiques clés pour un numérique plus responsable](https://club.greenit.fr/doc/2022-06-GREENIT-Referentiel_maturite-v3.pdf)
+- [AFNOR SPEC 2201 - Ecoconception des services numériques](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2201/ecoconception-des-services-numeriques/fa203506/323315)
 
 
 ## Outils
@@ -342,6 +337,7 @@ La publicité
 - [Site du plugin sonar EcoCode.io](https://www.ecocode.io/)
 - [CodeCarbon](https://codecarbon.io/)
 - [API Boavizta: évaluation automatisée des impacts environnementaux des services et équipements numériques](https://boavizta.org/blog/boavizta-api-automated-evaluation-of-ict-impacts-on-the-environment)
+
 
 ### Outils de perfs web et d'accessiblité
 - ➡️ [Muchas Glacias](https://muchas-glacias.com/)
@@ -379,7 +375,7 @@ La publicité
 
 ### Versions light de site connus
 
-  Exemples de web frugal : certains sites connus proposent des versions légères pour les appareils qui en ont besoin.
+Exemples de web frugal : certains sites connus proposent des versions légères pour les appareils qui en ont besoin.
 
 - [Facebook](https://mbasic.facebook.com/)
 - [CNN](http://lite.cnn.com/en)
@@ -428,29 +424,62 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
 # Législation
 - [Topo sur la loi REEN](https://www.vie-publique.fr/loi/278056-loi-15-novembre2021-reen-reduire-empreinte-environnementale-du-numerique)
 - [Article de GreenIT.fr sur la loi REEN](https://www.greenit.fr/2021/12/14/une-loi-pour-reduire-lempreinte-environnementale-du-numerique-en-france/)
-
 - [Topo de Richard Hanna (12/2020)](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/)
 - [Indice de réparabilité obligatoire](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000041553781), [Que choisir](https://www.quechoisir.org/actualite-antigaspillage-l-indice-de-reparabilite-des-appareils-se-precise-n81579/)
 - [UFC-Que choisir demande la réforme de l’indice de réparabilité](https://www.lemonde.fr/economie/article/2021/12/14/ufc-que-choisir-demande-la-reforme-de-l-indice-de-reparabilite_6105954_3234.html)
-
-# Espoir pour le futur
-
-- [Économie de la fonctionnalité - Wikipédia](https://fr.wikipedia.org/wiki/%C3%89conomie_de_fonctionnalit%C3%A9)
-- [Économie de la fonctionnalité - Ademe](https://www.ademe.fr/expertises/economie-circulaire/economie-fonctionnalite)
-- [Économie de la fonctionnalité - Ministère de la Transition écologique](https://www.ecologie.gouv.fr/leconomie-fonctionnalite)
-
-- [Ministère de l’économie, des finances et de la relance](https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/economie-collaborative)
-
 - [Indice de réparabilité](https://www.ecologie.gouv.fr/indice-reparabilite)
 
-- [Une électronique souple à base de bois - Pour la Science](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
+# ACV
+
+- ➡️ [Page Wikipédia](https://fr.wikipedia.org/wiki/Analyse_du_cycle_de_vie)
+- ➡️ [ACV du Fairphone 2](https://pdfs.semanticscholar.org/881e/5297c5f44d626abe1e65f38d93ac09b2350d.pdf)
+- [Guide Methodologique de l'ACV des Logiciels](https://greenspector.com/wp-content/uploads/2020/01/GREENSPECTOR_Guide_Methodologique_ACV_des_Logiciels.pdf) par Greenspector.
+- [Méthodologie de réalisation de l'ACV](http://stockage.univ-valenciennes.fr/MenetACVBAT20120704/acvbat/chap03/co/ch03_010_acv_3.html)
+
+## Des ACV
+- [Livre blanc GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des résultats d'ACV.
+- [ACV du Fairphone 2](https://pdfs.semanticscholar.org/881e/5297c5f44d626abe1e65f38d93ac09b2350d.pdf)
+- [ACV du Fairphone 3](https://www.fairphone.com/wp-content/uploads/2020/07/Fairphone_3_LCA.pdf)
+- [ACV d'un PC](https://www.researchgate.net/publication/226388568_Life_Cycle_Assessment_of_a_Personal_Computer_and_its_Effective_Recycling_Rate_7_pp)
+- [Quelle est l’empreinte carbone d’un ordinateur ? - Green IT](https://www.greenit.fr/2011/02/10/quelle-est-l-empreinte-carbone-d-un-ordinateur/) - Pentium IV
+- [Objets connectés : 400 TWh consommés chaque année - Green IT](https://www.greenit.fr/2014/07/15/objets-connectes-400-twh-consommes-chaque-annee/)
+- [Kindle vs vrai livre - ACV](https://scholarworks.rit.edu/theses/7935/) (conclusion page 84)
+- [Analyse de cycle de vie de la messagerie Treebal par Eric Fourboul et Gauthier Roussilhe](https://gauthierroussilhe.com/book/treebal/)
+
+## Bases de données
+
+- ➡️ [Modélisation et évaluation des impacts environnementaux de produits de consommation](https://www.ademe.fr/modelisation-evaluation-impacts-environnementaux-produits-consommation-biens-dequipement)
+- [ecoinvent Version 3](https://www.ecoinvent.org/database/database.html)
+- [Energy Star Product Finder API](https://www.energystar.gov/productfinder/advanced)
+- [EcoInfo - Données EcoDiag](https://ecoinfo.cnrs.fr/wp-content/uploads/2019/12/ecodiag-v19.12.html)
+- [iPhone XSEnvironmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone_XS_PER_sept2018.pdf)
+- [boavizta - Numérique et environnement : Comment évaluer l’empreinte de la fabrication d’un serveur, au-delà des émissions de gaz à effet de serre ?](https://boavizta.org/blog/empreinte-de-la-fabrication-d-un-serveur)
+
+# Misc positif
+
 - [Build once run everywhere - in C](https://justine.lol/cosmopolitan/index.html)
 - [Que fait Apple ?](https://www.macg.co/aapl/2021/01/une-pomme-plus-verte-apple-recycle-et-reutilise-mais-peut-elle-reduire-118933)
-- [ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr/)
 - [Travail de recherche pour le recyclage des smartphones](https://france3-regions.francetvinfo.fr/grand-est/environnement-et-si-votre-vieux-telephone-donnait-son-c-ur-a-la-science-2161363.html), en lorraine, et avec des déchets agro alimentaires en plus !
 - [Les jeux de sensibilisation au Numérique Responsable](https://www.linkedin.com/pulse/les-jeux-de-sensibilisation-au-num%25C3%25A9rique-responsable-h%25C3%25A9lo%25C3%25AFse-dano/?trackingId=VaW6k6DQusmf3gp%2BuHtbGQ%3D%3D)
 - [Apple va commercialiser des pièces détachées et des outils permettant à tout particulier de réparer certains modèles d’iPhone et d’ordinateurs Mac](https://www.lemonde.fr/economie/article/2021/11/17/apple-va-commercialiser-des-pieces-detachees-et-outils-pour-reparer-soi-meme-son-iphone_6102461_3234.html)
-
 - [Travailler (développer!) avec son smartphone](https://medium.com/@l4em/il-y-a-un-ordinateur-dans-votre-poche-4fcc0146ff11)
-
 - [First commercially viable lithium metal solid state battery charges to 80% in just 15 minute](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
+- [IBM research, climate and sustainability](https://research.ibm.com/teams/climate-and-sustainability)
+- [Les projets de recherche de Google Deep Mind](https://deepmind.com/blog?filters_and=%7B%22category%22:%5B%22Research%22%5D%7D)
+- [Microsoft AI for earth](https://www.microsoft.com/en-us/ai/ai-for-earth)
+- [Pour la science, « Quel futur pour les batteries ? »](https://www.pourlascience.fr/sd/energie/quel-futur-pour-les-batteries-21651.php)
+- [INRS au Canada, « Un demi-million de dollars pour développer des batteries plus performantes »](https://inrs.ca/actualites/un-demi-million-de-dollars-pour-developper-des-batteries-plus-performantes/)
+- [Nature, « Dynamic spatial progression of isolated lithium during battery operations »](https://www.nature.com/articles/s41586-021-04168-w)
+- [L’usine nouvelle, « Grâce à l'eau de mer, IBM a mis au point une nouvelle batterie sans métaux lourds »](https://www.usinenouvelle.com/article/grace-a-l-eau-de-mer-ibm-a-mis-au-point-une-nouvelle-batterie-sans-metaux-lourds.N914824)
+- [MIT News, « New battery gobbles up carbon dioxide »](https://news.mit.edu/2018/new-lithium-battery-convert-carbon-dioxide)
+- [Le temps, « Une équipe de l’EPFL fait une avancée majeure dans le refroidissement de puces électroniques »](https://www.letemps.ch/sciences/une-equipe-lepfl-une-avancee-majeure-refroidissement-puces-electroniques)
+- [Pour la science, « Biomatériaux au service de la microélectronique 3D »](https://www.pourlascience.fr/sd/electronique/biomateriaux-au-service-de-la-microelectronique-3d-11575.php)
+- [Pour la science, « Le vivant, plus fort que l'électronique »](https://www.pourlascience.fr/sd/informatique/le-vivant-plus-fort-que-l-electronique-9527.php)
+- [Pour la science, « Des bactéries qui synthétisent des matériaux électroniques »](https://www.pourlascience.fr/sd/chimie/des-bacteries-qui-synthetisent-des-materiaux-electroniques-20540.php)
+- [Pour la science, « Une électronique souple à base de bois »](https://www.pourlascience.fr/sd/materiaux/une-electronique-souple-a-base-de-bois-19675.php)
+- [France 3 régions, «  Environnement : et si votre vieux téléphone donnait son cœur à la science, »](https://france3-regions.francetvinfo.fr/grand-est/environnement-et-si-votre-vieux-telephone-donnait-son-c-ur-a-la-science-2161363.html)
+- [Pour la science, « Un recyclage plus efficace de l’or »](https://www.pourlascience.fr/sd/chimie/un-recyclage-plus-efficace-de-l-or-15754.php)
+- [ENS, « Le recyclage des batteries Li Ion »](https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/electrochimie/le-recyclage-des-batteries-li-ion)
+- [Energie et environnement, « Les limites du recyclage des batteries au lithium »](https://energieetenvironnement.com/2018/07/08/les-limites-pratiques-du-recyclage-des-batteries-au-lithium/)
+- [Automobile propre, « Recyclage des batteries : Audi et Umicore vers un process à l’infini »](https://www.automobile-propre.com/recyclage-des-batteries-audi-et-umicore-vers-un-process-infini/ )
+
