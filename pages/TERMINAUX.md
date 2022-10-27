@@ -1,5 +1,8 @@
 # Terminaux, épuisement des ressources naturelles et exploitation minière
 
+
+➡️ : incontournable
+
 - [ADEME - Infographie - Ces objets qui pèsentlourd dans notre quotidien](http://multimedia.ademe.fr/infographies/infographie-poids-carbone/)
 - [Sciences et Avenir - De quoi est fait votre iPhone ?](https://www.sciencesetavenir.fr/high-tech/chimie-de-quoi-est-fait-votre-iphone_35674)
 
@@ -17,7 +20,6 @@
 - [Le réveilleur sur l'épuisement des métaux](https://www.youtube.com/watch?v=XLRUcdMbZ_M)
 
 - [La Roue des métaux - dépendances](https://www.researchgate.net/figure/La-Roue-des-metaux-illustre-la-dependance-de-nombreux-metaux-accessoires-notamment-les_fig3_270105075)
-- 
 - [Le Monde - « Semi-conducteurs : que sont ces puces électroniques dont la pénurie perturbe l’économie mondiale ? » octobre 2021](https://www.lemonde.fr/economie/article/2021/10/22/semi-conducteurs-que-sont-ces-puces-electroniques-dont-la-penurie-perturbe-l-economie-mondiale_6099502_3234.html)
 - [IEA - « The Role of Critical Minerals in Clean Energy Transitions »](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
 

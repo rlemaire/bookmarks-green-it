@@ -1,5 +1,7 @@
 # Rapports et études généralistes
 
+➡️ : incontournable
+
 ## GreenIT.fr et partenaires
 
 - ➡️ [GreenIT.fr - Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) [2019] Le rapport récent de GreenIT.fr sur l'empreinte écologique du numérique au niveau mondial. Basé sur une méthodologie d'ACV.

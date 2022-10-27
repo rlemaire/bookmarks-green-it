@@ -110,8 +110,8 @@ Sur l'épuisement des ressources naturelles :
 - [Liste des outils sur ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/)
 
 
-##Compléments / les 115 bonnes pratiques
-- 
+## Compléments / les 115 bonnes pratiques
+
 - [Cast software et standish group - fonctionnalités peu utilisées](https://www.standishgroup.com/sample_research_files/Exceeding%20Value_Layout.pdf)
   https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
 - [LOW←TECH MAGAZINE - How sustainable is a solar powered website ?](https://solar.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website.html) Après avoir produit un site « low tech » alimenté par un panneau solaire le magazine analyse la durabilité de cette méthode.

@@ -1,5 +1,7 @@
 # Could, Data centers et réseaux
 
+➡️ : incontournable
+
 - [PUE (wikipédia)](https://fr.wikipedia.org/wiki/Indicateur_d%27efficacit%C3%A9_%C3%A9nerg%C3%A9tique)
 
 - ➡️ [Data Centres and Data Transmission Networks – Analysis - IEA](https://www.iea.org/reports/data-centres-and-data-transmission-networks) - Etude qui montre que l'empreinte des DC stagne malgré une forte augmentation du trafic, grâce aux optimisations des acteurs.
