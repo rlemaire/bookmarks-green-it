@@ -22,6 +22,8 @@
 - [La Roue des métaux - dépendances](https://www.researchgate.net/figure/La-Roue-des-metaux-illustre-la-dependance-de-nombreux-metaux-accessoires-notamment-les_fig3_270105075)
 - [Le Monde - « Semi-conducteurs : que sont ces puces électroniques dont la pénurie perturbe l’économie mondiale ? » octobre 2021](https://www.lemonde.fr/economie/article/2021/10/22/semi-conducteurs-que-sont-ces-puces-electroniques-dont-la-penurie-perturbe-l-economie-mondiale_6099502_3234.html)
 - [IEA - « The Role of Critical Minerals in Clean Energy Transitions »](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
+- 
+- [Le Monde - Une première mine de lithium va être exploitée en France](https://www.lemonde.fr/economie/article/2022/10/24/imerys-annonce-l-ouverture-de-la-premiere-production-de-lithium-en-france-qui-fera-de-l-entreprise-un-acteur-de-poids-du-marche-europeen_6147060_3234.html)
 
 ## Photos et lieux d'exploitation minière
 

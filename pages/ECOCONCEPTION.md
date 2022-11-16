@@ -19,6 +19,10 @@
 - [BYOD : quelles sont les bonnes pratiques ? - CNIL](https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques)
 - [Octo :  Une bonne pratique vers un numérique plus responsable : mesurer le ressenti des internautes.](https://blog.octo.com/une-bonne-pratique-vers-un-numerique-plus-responsable-mesurer-le-ressenti-des-internautes/)
 
+- [Boavizta - Sunny Tech 2022 - L'eco-conception, c'est bien, mais si on parlait un peu du backend ? ](https://www.youtube.com/watch?v=k39JWYVx_cI)
+
+- [Greenspector - Quel format d’image choisir pour réduire sa consommation d’énergie et son impact environnemental ?](https://greenspector.com/fr/quel-format-dimage-choisir-pour-reduire-sa-consommation-denergie-et-son-impact-environnemental/)
+
 ## Référentiels de bonnes pratiques et de questions
 
 - ➡️ [Les 115 bonnes pratiques du collectif numérique responsable](https://collectif.greenit.fr/ecoconception-web/)

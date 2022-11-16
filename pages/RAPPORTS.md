@@ -46,6 +46,7 @@
 - [Gauthier Roussilhe - Explications sur l'empreinte environnementale du secteur numérique](https://gauthierroussilhe.com/post/explication-empreinte.html)
 - [Gauthier Roussilhe - « Territorialiser les systèmes numériques, l'exemple des centres de données »](https://gauthierroussilhe.com/post/territoires-centres-de-donnees.html)
 - [Gauthier Roussilhe « Eau et puces électroniques : l’avenir climatique et industriel de Taiwan », avril 2021](https://gauthierroussilhe.com/post/chip-water-taiwan.html)
+- [Gauthier Roussilhe - Les effets environnementaux indirects de la numérisation](https://gauthierroussilhe.com/articles/comprendre-et-estimer-les-effets-indirects-de-la-numerisation)
 
 ## ADEME
 
@@ -67,6 +68,7 @@
 - [Carbon trust - Carbon impact of video streaming](https://www.carbontrust.com/resources/carbon-impact-of-video-streaming)
 - [Le Figaro - « Santé: faut-il avoir peur des ondes électromagnétiques? », novembre 2018](https://sante.lefigaro.fr/article/sante-faut-il-avoir-peur-des-ondes-electromagnetiques-/)
 - [Base carbone ADEME](https://bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm)
+- [EcoInfo - Tordons le cou aux discussions sur l’impact des e-mails](https://ecoinfo.cnrs.fr/2022/11/09/tordons-le-cou-aux-discussions-sur-limpact-des-e-mails/)
 
 ## Référentiels de ressources
 

@@ -24,5 +24,7 @@
 - [Pour la science, « Un recyclage plus efficace de l’or »](https://www.pourlascience.fr/sd/chimie/un-recyclage-plus-efficace-de-l-or-15754.php)
 - [ENS, « Le recyclage des batteries Li Ion »](https://culturesciences.chimie.ens.fr/thematiques/chimie-physique/electrochimie/le-recyclage-des-batteries-li-ion)
 - [Energie et environnement, « Les limites du recyclage des batteries au lithium »](https://energieetenvironnement.com/2018/07/08/les-limites-pratiques-du-recyclage-des-batteries-au-lithium/)
-- [Automobile propre, « Recyclage des batteries : Audi et Umicore vers un process à l’infini »](https://www.automobile-propre.com/recyclage-des-batteries-audi-et-umicore-vers-un-process-infini/ )
+- [Automobile propre, « Recyclage des batteries : Audi et Umicore vers un process à l’infini »](https://www.automobile-propre.com/recyclage-des-batteries-audi-et-umicore-vers-un-process-infini/)
+- [The Conversation - De nouvelles technologies pour recycler les déchets électroniques](https://theconversation.com/de-nouvelles-technologies-pour-recycler-les-dechets-electroniques-132530)
+- [Une puce informatique fabriquée à partir de la peau d'un champignon](https://green-it.developpez.com/actu/338496/Une-puce-informatique-fabriquee-a-partir-de-la-peau-d-un-champignon-pourrait-etre-facilement-recyclee-la-base-des-puces-et-des-batteries-est-generalement-constituee-de-plastique-non-recyclable/)
 
