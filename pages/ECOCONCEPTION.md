@@ -129,19 +129,31 @@ Exemples de web frugal : certains sites connus proposent des versions légères 
 - [Économiser 42Ko pour sauver 50Tb de bande passante](https://welovedevs.com/fr/articles/rex-crispchat-economiser-42ko-pour-sauver-50tb-de-bande-passante/)
 - [50 exemples de sites internet basse consommation ](https://www.linkedin.com/pulse/48-exemples-de-sites-internet-basse-consommation-c%C3%A9dric-liardet/)
 
-### Site explicitement écoconçus
+### Site explicitement écoconçus / appliquant des principes
 
-- [EcoloGeek](https://www.ecologeek.fr/)
-- [The low impact website](https://lowimpact.organicbasics.com/eur)
+#### Site gouvernemental : 
 
-Liste des designers éthiques ([source](https://eco-conception.designersethiques.org/guide/content/7-plus-loin.html)) :
-
-- [La Fabrik' A Vrac - Le drive Nantais ZD](https://www.lafabrikavrac.fr/) - qui est en plus super beau
-- [Kaïros Sailing - Ecurie de course : projets sportifs ou responsables](https://www.kairos-jourdain.com/fr/sailing) - également très beau
 - [GOV.UK](https://www.gov.uk/)
+
+#### Site institutionnels / vitrines : 
+- [Dalkia, groupe EDF](https://www.dalkia.fr)
+- [EcoloGeek](https://www.ecologeek.fr/)
+- [It's on us](https://www.itsonus.fr/)
+- [Pikselkraft](https://www.pikselkraft.com/)
+
+#### Site marchands :
+- [Commown](https://commown.coop/)
+- [Kaïros Sailing - Ecurie de course : projets sportifs ou responsables](https://www.kairos-jourdain.com/fr/sailing) - également très beau
 - [Un Ecrin Vert - Biocoop Montreuil](https://www.biocoopmontreuil.fr/)
 - [AMAP de Chelles](https://amap-chelles.net/)
 - [La Boutique du Partage](https://www.laboutiquedupartage.fr/)
 - [La Coopérative des Internets](https://www.lacooperativedesinternets.fr/)
-- [Le Low-tech Lab partage les solutions et l'esprit low-tech](https://lowtechlab.org/fr)
-- [Dalkia, groupe EDF](https://www.dalkia.fr)
+
+#### Sites éditoriaux :
+- [Le Low-tech Lab](https://lowtechlab.org/fr)
+
+#### Autres :
+- [The low impact website](https://lowimpact.organicbasics.com/eur)
+- [https://www.exposition-celtique.bzh/](https://www.exposition-celtique.bzh/)
+- [https://politiquesdescommuns.cc/](https://politiquesdescommuns.cc/)
+
