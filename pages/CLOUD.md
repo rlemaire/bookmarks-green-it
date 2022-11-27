@@ -35,6 +35,7 @@
 
 - [Carbone 4 - Empreinte carbone du cloud : Amazon, Microsoft et Google ont-ils la tête dans les nuages ?](https://www.carbone4.com/analyse-empreinte-carbone-du-cloud)
 - [Lawrence Berkeley National Laboratory - « Characteristics and Energy Use of Volume Servers in the United States »](https://escholarship.org/content/qt8bb5j7ww/qt8bb5j7ww.pdf)
+- [Boavizta - Les réductions d'émissions de CO2 promises par les Cloud providers sont elles réalistes?](https://boavizta.org/blog/les-reductions-d-emissions-de-co2-promises-par-les-cloud-providers-sont-elles-realistes?utm_source=pocket_saves)
 
 
 ### Papiers de recherche (AC Orgerie)
