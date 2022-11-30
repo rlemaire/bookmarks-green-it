@@ -83,7 +83,6 @@ Sur l'épuisement des ressources naturelles :
 
 - [Page Wikipédia](https://fr.wikipedia.org/wiki/%C3%89coconception) - [Définition sur eco-conception.fr](https://www.eco-conception.fr/static/definition-de-leco-conception.html)
 - [Les quatres niveaux d'éco conception](https://www.eco-conception.fr/static/leco-conception-pour-tous.html)
-- [Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
 
 ## Low Tech Web
 
