@@ -2,7 +2,7 @@
 
 ## Etudes et articles généralistes
 
-- **[GreenIT.fr - Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/)** [2019] Le rapport récent de GreenIT.fr sur l'empreinte écologique du numérique au niveau mondial. Basé sur une méthodologie d'ACV.
+- **[GreenIT.fr - Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/)** [2019] Le rapport récent de GreenIT.fr sur l'empreinte écologique du numérique au niveau mondial. Basé sur une méthodologie d'ACV. Il existe une [ersion en anglais](https://www.greenit.fr/wp-content/uploads/2019/11/GREENIT_EENM_etude_EN_accessible.pdf)
 - **[GreenIT.fr - Quels sont les impacts environnementaux du numérique en France ?](https://www.greenit.fr/2020/06/23/quels-sont-les-impacts-environnementaux-du-numerique-en-france/)** [Juin 2020] Suite du rapport précédent, focalisé sur la France.
 
 - [Shift Project - Lean ICT : « Pour une sobriété numérique »](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/) [2018] Rapport généraliste du shift project sur l'empreinte du numérique.
