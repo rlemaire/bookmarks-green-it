@@ -28,6 +28,7 @@
 
 - [Gauthier Roussilhe - Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
 
+- [Red hat - Writing greener Java applications (Benchmark de pub pour Quarkus)](https://www.redhat.com/rhdc/managed-files/mi-greener-java-applications-detail-f32147pr-202211-en.pdf)
 
 ## Référentiels de bonnes pratiques et de questions
 
