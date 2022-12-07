@@ -1,13 +1,7 @@
-# Misc positif
-
-- [Build once run everywhere - in C](https://justine.lol/cosmopolitan/index.html)
-- [Que fait Apple ?](https://www.macg.co/aapl/2021/01/une-pomme-plus-verte-apple-recycle-et-reutilise-mais-peut-elle-reduire-118933)
+# Progrès technique et recherche
 - [Travail de recherche pour le recyclage des smartphones](https://france3-regions.francetvinfo.fr/grand-est/environnement-et-si-votre-vieux-telephone-donnait-son-c-ur-a-la-science-2161363.html), en lorraine, et avec des déchets agro alimentaires en plus !
-- [Les jeux de sensibilisation au Numérique Responsable](https://www.linkedin.com/pulse/les-jeux-de-sensibilisation-au-num%25C3%25A9rique-responsable-h%25C3%25A9lo%25C3%25AFse-dano/?trackingId=VaW6k6DQusmf3gp%2BuHtbGQ%3D%3D)
-- [Apple va commercialiser des pièces détachées et des outils permettant à tout particulier de réparer certains modèles d’iPhone et d’ordinateurs Mac](https://www.lemonde.fr/economie/article/2021/11/17/apple-va-commercialiser-des-pieces-detachees-et-outils-pour-reparer-soi-meme-son-iphone_6102461_3234.html)
-- [Travailler (développer!) avec son smartphone](https://medium.com/@l4em/il-y-a-un-ordinateur-dans-votre-poche-4fcc0146ff11)
-- [First commercially viable lithium metal solid state battery charges to 80% in just 15 minute](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
 - [IBM research, climate and sustainability](https://research.ibm.com/teams/climate-and-sustainability)
+- [First commercially viable lithium metal solid state battery charges to 80% in just 15 minute](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
 - [Les projets de recherche de Google Deep Mind](https://deepmind.com/blog?filters_and=%7B%22category%22:%5B%22Research%22%5D%7D)
 - [Microsoft AI for earth](https://www.microsoft.com/en-us/ai/ai-for-earth)
 - [Pour la science, « Quel futur pour les batteries ? »](https://www.pourlascience.fr/sd/energie/quel-futur-pour-les-batteries-21651.php)
@@ -27,4 +21,10 @@
 - [Automobile propre, « Recyclage des batteries : Audi et Umicore vers un process à l’infini »](https://www.automobile-propre.com/recyclage-des-batteries-audi-et-umicore-vers-un-process-infini/)
 - [The Conversation - De nouvelles technologies pour recycler les déchets électroniques](https://theconversation.com/de-nouvelles-technologies-pour-recycler-les-dechets-electroniques-132530)
 - [Une puce informatique fabriquée à partir de la peau d'un champignon](https://green-it.developpez.com/actu/338496/Une-puce-informatique-fabriquee-a-partir-de-la-peau-d-un-champignon-pourrait-etre-facilement-recyclee-la-base-des-puces-et-des-batteries-est-generalement-constituee-de-plastique-non-recyclable/)
+
+- [AC Orgerie - Save Watts in your Grid: Green Strategies for Energy-Aware Framework in Large Scale Distributed Systems](https://perso.ens-lyon.fr/laurent.lefevre/pdf/ICPADS2008_Orgerie_Lefevre_Gelas.pdf)
+- [AC Orgerie - Balancing the use of batteries and opportunistic scheduling policies for maximizing renewable energy consumption in a Cloud data center](https://hal.inria.fr/hal-01432752/document)
+- [AC Orgerie - Estimating Energy Consumption of Cloud, Fog and Edge Computing Infrastructures](https://hal.archives-ouvertes.fr/hal-02083080/document)
+
+- [Que fait Apple ?](https://www.macg.co/aapl/2021/01/une-pomme-plus-verte-apple-recycle-et-reutilise-mais-peut-elle-reduire-118933)
 
