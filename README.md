@@ -10,8 +10,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 - [3 - L'obsolescence](./pages/OBSOLESENCE.md)
 - [4 - L'éco-conception](./pages/ECOCONCEPTION.md)
 - [5 - L'ACV](./pages/ACV.md)
-- [8 - La législation](./pages/LEGISLATION.md)
-- [10 - Les progrès techniques et la recherche](./pages/progres.md)
+- [6 - La législation](./pages/LEGISLATION.md)
+- [7 - Les progrès techniques et la recherche](./pages/progres.md)
 
 
 # L'essentiel : 
