@@ -81,6 +81,8 @@
 - [CodeCarbon](https://codecarbon.io/)
 - [API Boavizta: évaluation automatisée des impacts environnementaux des services et équipements numériques](https://boavizta.org/blog/boavizta-api-automated-evaluation-of-ict-impacts-on-the-environment)
 
+- [Liste d'outils et de ressources de l'INR](https://sustainableit-tools.isit-europe.org/) (référentiel très large qui touche plein de sujets)
+- [Calculateur d'impact carbone d'un algorithme](http://calculator.green-algorithms.org/) Avec des inputs type nombre d'heures, de CPU, pays, ...
 
 ### Outils de perfs web et d'accessiblité
 - [Muchas Glacias](https://muchas-glacias.com/)
