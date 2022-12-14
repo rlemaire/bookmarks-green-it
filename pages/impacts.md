@@ -26,6 +26,8 @@
 - **[ARCEP - Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)**
 - [ARCEP - Première édition de l'enquête annuelle « Pour un numérique soutenable »](https://www.arcep.fr/actualites/les-communiques-de-presse/detail/n/environnement-enquete-annuelle-arcep-250422.html)
 
+- [Etude sur le numérique en Europe par l'ACV](https://www.greenit.fr/wp-content/uploads/2021/12/EU-Study-ACV-7-DEC-FR.pdf)
+
 ## Vie professionnelle
 
 - [GreenIT.fr -  & WWF - WE GREEN IT](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf?utm_source=website&utm_campaign=etude%20wegreenit)
