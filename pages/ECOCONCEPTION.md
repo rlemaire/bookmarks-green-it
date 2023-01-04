@@ -16,8 +16,6 @@
 
 - [Boavizta - Sunny Tech 2022 - L'eco-conception, c'est bien, mais si on parlait un peu du backend ? ](https://www.youtube.com/watch?v=k39JWYVx_cI)
 
-- [Greenspector - Quel format d’image choisir pour réduire sa consommation d’énergie et son impact environnemental ?](https://greenspector.com/fr/quel-format-dimage-choisir-pour-reduire-sa-consommation-denergie-et-son-impact-environnemental/)
-
 - [Lexique numérique responsable](https://club.greenit.fr/doc/2018-05-ClubGreenIT-lexique-numerique_responsable-v1.8.3.pdf)
 - [The baseline for web development in 2022](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/)
 - [Build once run everywhere - in C](https://justine.lol/cosmopolitan/index.html)
@@ -29,6 +27,18 @@
 - [Gauthier Roussilhe - Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
 
 - [Red hat - Writing greener Java applications (Benchmark de pub pour Quarkus)](https://www.redhat.com/rhdc/managed-files/mi-greener-java-applications-detail-f32147pr-202211-en.pdf)
+
+- [Gauthier Roussilhe - Introduction à l'éco-conception numérique](https://gauthierroussilhe.com/book/ademe/INTROECNUM.html)
+
+
+## Gestion des images
+
+- [Greenspector - Quel format d’image choisir pour réduire sa consommation d’énergie et son impact environnemental ?](https://greenspector.com/fr/quel-format-dimage-choisir-pour-reduire-sa-consommation-denergie-et-son-impact-environnemental/)
+- [Addy Osmani - Using Modern Image Formats: AVIF And WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
+- [Maximally optimizing image loading for the web](https://www.industrialempathy.com/posts/image-optimizations/)
+- [CSS Tricks - A Guide to the Responsive Images Syntax in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
+- [web.dec (Google) - Optimize your images](https://web.dev/fast/#optimize-your-images)
+
 
 ## Référentiels de bonnes pratiques et de questions
 
