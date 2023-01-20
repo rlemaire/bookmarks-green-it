@@ -71,6 +71,9 @@ IOT ridicule :
 
 ## Usages (transfert de données, vidéo, ...)
 
+- **[ADEME - Evaluation de l'impact environnemental de la digitalisation des services culturels](https://librairie.ademe.fr/dechets-economie-circulaire/5942-evaluation-de-l-impact-environnemental-de-la-digitalisation-des-services-culturels.html)**
+
+### La vidéo en ligne
 - [Shift Project - « Climat : l'insoutenable usage de la vidéo en ligne »](https://theshiftproject.org/article/climat-insoutenable-usage-video/) [2019] Suite du rapport précédent avec un focus sur la vidéo.
   - [Comment réduire en 5 minutes le poids d&#39;une vidéo tout en gardant une bonne qualité ?](https://theshiftproject.org/guide-reduire-poids-video-5-minutes/)
   - [« Carbonalyser » : l’extension de navigateur qui révèle combien surfer sur le web coûte au climat](https://theshiftproject.org/carbonalyser-extension-navigateur/)
@@ -80,15 +83,16 @@ IOT ridicule :
 
 - **[Gauthier Roussilhe - Explications sur l'empreinte carbone du streaming et du transfert de données](https://gauthierroussilhe.com/post/explication-streaming.html)**
 
-- **[ADEME - Evaluation de l'impact environnemental de la digitalisation des services culturels](https://librairie.ademe.fr/dechets-economie-circulaire/5942-evaluation-de-l-impact-environnemental-de-la-digitalisation-des-services-culturels.html)**
-
-- [Empreinte carbone d'un e-mail : mythes, réalités et solutions](https://www.sami.eco/post/empreinte-carbone-email)
-- [EcoInfo - Tordons le cou aux discussions sur l’impact des e-mails](https://ecoinfo.cnrs.fr/2022/11/09/tordons-le-cou-aux-discussions-sur-limpact-des-e-mails/)
 
 - [Greenspector - Faut-il limiter les données qui transitent sur internet pour réduire l’impact du numérique ?](https://greenspector.com/fr/limiter-les-donnees-internet-pour-reduire-impact-numerique/)
 - [Greenspector - Étude d’impact de la lecture d’une vidéo Canal+](https://greenspector.com/fr/impact-video-canal/)
 
-Blockchain / bitcoin :
+### Les emails
+- [Empreinte carbone d'un e-mail : mythes, réalités et solutions](https://www.sami.eco/post/empreinte-carbone-email)
+- [EcoInfo - Tordons le cou aux discussions sur l’impact des e-mails](https://ecoinfo.cnrs.fr/2022/11/09/tordons-le-cou-aux-discussions-sur-limpact-des-e-mails/)
+- [ Envoyer moins de courriels : un geste symbolique, mais inefficace, pour le climat](https://theconversation.com/envoyer-moins-de-courriels-un-geste-symbolique-mais-inefficace-pour-le-climat-197171)
+
+### Blockchain / bitcoin :
 - [Consommation énergétique des technologies blockchain – EcoInfo](https://ecoinfo.cnrs.fr/2020/02/11/consommation-energetique-des-technologies-blockchain/)
 - [Le bitcoin, gouffre énergétique et péril climatique - Le Monde](https://www.lemonde.fr/planete/article/2018/11/08/le-bitcoin-pourrait-accelerer-le-changement-climatique_5380452_3244.html)
 - [France 24 - en Iran, des pannes de courant monstres révèlent le business des fermes à bitcoins chinoises](https://observers.france24.com/fr/moyen-orient/20210201-enqu%C3%AAte-iran-bitcoins-fermes-pannes-courant)

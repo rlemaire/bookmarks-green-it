@@ -30,6 +30,7 @@
 
 - [Gauthier Roussilhe - Introduction à l'éco-conception numérique](https://gauthierroussilhe.com/book/ademe/INTROECNUM.html)
 
+- [Eco-concevoir le site d’une exposition : nous avons relevé le défi !](https://www.greenit.fr/2023/01/10/eco-concevoir-le-site-dune-exposition-nous-avons-releve-le-defi/)
 
 ## Gestion des images
 
@@ -69,6 +70,7 @@
 - [Ecoindex](http://www.ecoindex.fr)
   - [Explication approfondie de l'éco index sur le blog d'Octo](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
   - [L’analyse d’Octo de la métrique EcoIndex](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
+  - [Simulateur d'EcoIndex par Rachel Pellin](https://rachelwe.github.io/Simulateur-ecoindex/)
 - [Ecometer](http://ecometer.org/)
 - **GreenIT analysis [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr), [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/)**
 - [The Green Web Foundation](https://www.thegreenwebfoundation.org/directory/) évaluation de l'hébergement
@@ -173,3 +175,4 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 - [The low impact website](https://lowimpact.organicbasics.com/eur)
 - [https://www.exposition-celtique.bzh/](https://www.exposition-celtique.bzh/)
 - [https://politiquesdescommuns.cc/](https://politiquesdescommuns.cc/)
+- [Celtique ? L'expo.](https://www.exposition-celtique.bzh/)
