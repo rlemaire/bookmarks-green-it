@@ -22,6 +22,7 @@
 
 - [Pour la science - Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
 
+- [Le bon digital - Numérique et objectifs de développement durable](https://lebondigital.com/numerique-responsable-et-objectifs-de-developpement-durable-odd/)
 
 - **[ARCEP - Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)**
 - [ARCEP - Première édition de l'enquête annuelle « Pour un numérique soutenable »](https://www.arcep.fr/actualites/les-communiques-de-presse/detail/n/environnement-enquete-annuelle-arcep-250422.html)
