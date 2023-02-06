@@ -7,6 +7,8 @@
 
 - [Apple va commercialiser des pièces détachées et des outils permettant à tout particulier de réparer certains modèles d’iPhone et d’ordinateurs Mac](https://www.lemonde.fr/economie/article/2021/11/17/apple-va-commercialiser-des-pieces-detachees-et-outils-pour-reparer-soi-meme-son-iphone_6102461_3234.html)
 
+- [Canalys: Global smartphone market fell 9% as consumers trim spending](https://www.canalys.com/newsroom/global-smartphone-market-Q3-2022)
+
 ## Anecdotes
 
 - [ICE/ISEE-3 to return to an Earth no longer capable of speaking to it](http://www.planetary.org/blogs/emily-lakdawalla/2014/02070836-isee-3.html) - On ne peut plus parler à cette sonde spatiale faute de matériel adéquat.

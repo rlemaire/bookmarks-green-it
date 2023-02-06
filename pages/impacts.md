@@ -172,6 +172,7 @@ IOT ridicule :
 - [Le Soir - « Congo: les mines de cobalt, scandale écologique et désastre sanitaire », février 2020](https://www.lesoir.be/277428/article/2020-02-04/congo-les-mines-de-cobalt-scandale-ecologique-et-desastre-sanitaire)
 - [France Info - «  Madagascar : plus de 10 000 enfants employés dans les mines pour extraire le mica », novembre 2019](https://www.francetvinfo.fr/monde/afrique/societe-africaine/madagascar-plus-de-10000-enfants-employes-dans-les-mines-pour-extraire-le-mica_3718113.html)
 
+- [Study on the impact of recent developments in digital advertising on privacy, publishers and advertisers](https://op.europa.eu/fr/publication-detail/-/publication/8b950a43-a141-11ed-b508-01aa75ed71a1)
 
 ## Fin de vie
 - [Le volume de déchets électroniques explose et leur taux de recyclage reste ridicule](https://theconversation.com/le-volume-de-dechets-electroniques-explose-et-leur-taux-de-recyclage-reste-ridicule-143701)
