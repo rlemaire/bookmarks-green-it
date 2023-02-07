@@ -41,7 +41,7 @@ Sur l'épuisement des ressources naturelles :
 - [Extrait du livre de Guillaume Pitron « La guerre des métaux rares » avec la durée des réserves rentables](https://fr.calameo.com/read/002094473c9f01879e45b)
 - [ADEME : Epuisement des métaux et minéraux : faut-il s&#39;inquiéter ?](https://www.ademe.fr/epuisement-metaux-mineraux-faut-sinquieter)
 - [France Stratégie - La consommation de métaux du numérique](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf) - Condensé de plusieurs sources sur l'utilisation et l'épuisement des matières premières avec le numérique.
-- [Under the hood of Sustainable IT - Promesses de dématérialisation et matérialité minérale - Youtube](https://www.youtube.com/watch?v=QW9udH0vwlE)
+- [Ruée minière au XXIè siècle : jusqu'où les limites seront-elles repoussées ? - Aurore Stephant à USI](https://www.youtube.com/watch?v=i8RMX8ODWQs)
 - [EcoInfo.cnrs - Epuisement des ressources naturelles](https://ecoinfo.cnrs.fr/2014/03/11/1-epuisement-des-ressources-naturelles/)
 
 - [Le développement durable](https://fr.wikipedia.org/wiki/D%C3%A9veloppement_durable)
