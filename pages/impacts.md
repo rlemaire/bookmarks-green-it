@@ -142,7 +142,8 @@ IOT ridicule :
 - [Livret La Guerre des métaux rares](https://fr.calameo.com/read/002094473c9f01879e45b) : Annexe du livre de Guillaume Pitron.
 - [The Hidden Water in Everyday Products - Water Footprint Calculator](https://www.watercalculator.org/water-use/the-hidden-water-in-everyday-products/)
 
-- **[Under the hood of Sustainable IT - Promesses de dématérialisation et matérialité minérale - Youtube](https://www.youtube.com/watch?v=QW9udH0vwlE)**
+- [Under the hood of Sustainable IT - Promesses de dématérialisation et matérialité minérale - Youtube](https://www.youtube.com/watch?v=QW9udH0vwlE)
+- **[Ruée minière au XXIè siècle : jusqu'où les limites seront-elles repoussées ? - Aurore Stephant à USI](https://www.youtube.com/watch?v=i8RMX8ODWQs)**
 
 - [Tesla expects global shortage of electric vehicle battery minerals -sources](https://www.reuters.com/article/usa-lithium-electric-tesla-exclusive-int/exclusive-tesla-expects-global-shortage-of-electric-vehicle-battery-minerals-sources-idUSKCN1S81QI)
 
