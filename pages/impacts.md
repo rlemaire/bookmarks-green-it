@@ -132,6 +132,7 @@ IOT ridicule :
 - [Lawrence Berkeley National Laboratory - « Characteristics and Energy Use of Volume Servers in the United States »](https://escholarship.org/content/qt8bb5j7ww/qt8bb5j7ww.pdf)
 - **[Boavizta - Les réductions d'émissions de CO2 promises par les Cloud providers sont elles réalistes?](https://boavizta.org/blog/les-reductions-d-emissions-de-co2-promises-par-les-cloud-providers-sont-elles-realistes?utm_source=pocket_saves)**
 
+- [La Hollande soumise aux pénuries découvre que les DC de Microsoft ont consommé 84 millions de litres d’eau potable](https://datacenter-magazine.fr/la-hollande-soumise-aux-penuries-decouvre-que-les-dc-de-microsoft-ont-consomme-84-millions-de-litres-deau-potable/)
 
 ## Epuisement des ressources naturelles et exploitation minière
 
