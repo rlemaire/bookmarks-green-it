@@ -42,7 +42,7 @@ Il faut aussi mentionner l'obésité logicielle qui a été critiquée par diff�
 [« Software disenchantment »](http://tonsky.me/blog/disenchantment/) ou encore [« The Website Obesity Crisis »](https://www.hteumeuleu.fr/the-website-obesity-crisis/).
 
 Le papier de Anne Cécile Orgerie et al., [« Demystifying Energy Consumption in Grids and Clouds »](http://csis.pace.edu/~marchese/SE765/Paper/Green3.pdf), 
-complété de son article dans « Pour la science », [« Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
+complété de son article dans « Pour la science », [Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
 donne des informations importantes sur la consommation d'énergie des machines (pas forcément linéaire avec la charge).
 
 Sur l'écoconception, [le livre blanc de GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
@@ -53,7 +53,7 @@ et le [Référentiel général d'écoconception de services numériques (RGESN)]
 Les designers éthiques ont également produit [un guide](https://eco-conception.designersethiques.org/guide/).
 
 Au niveau des outils, GreenIT analysis, extension pour [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr) et [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/)
-permet d'estimer l'impact d'une page web et d'analayser un ensemble de points techhniques. Sur le web, les outils d'analyse de performance
+permet d'estimer l'impact d'une page web et d'analyser un ensemble de points techhniques. Sur le web, les outils d'analyse de performance
 comme [Lighthouse](https://developers.google.com/web/tools/lighthouse/) sont intéressants. [PowerAPI](https://powerapi-ng.github.io/) 
 et [Scaphandre](https://github.com/hubblo-org/scaphandre) permettent de mesurer l'énergie utilisée par des processus sur une machine physique.
 Il existe des exemples de sites repsectant des pratiques d'écoconception comme celui de [commown](https://commown.coop/)
