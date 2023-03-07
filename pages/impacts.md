@@ -29,6 +29,8 @@
 
 - [Etude sur le numérique en Europe par l'ACV](https://www.greenit.fr/wp-content/uploads/2021/12/EU-Study-ACV-7-DEC-FR.pdf)
 
+- **[ADEME / ARCEP, « évaluation de l’empreinte du numérique en France et analyse prospective »](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html)**
+
 ## Vie professionnelle
 
 - [GreenIT.fr -  & WWF - WE GREEN IT](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf?utm_source=website&utm_campaign=etude%20wegreenit)
