@@ -20,7 +20,7 @@ Les études de GreenIT.fr sur [l'empreinte du numérique mondial](https://www.gr
 et [les impacts du numérique en France] ainsi que le [dernier rapport du Shift Project sur le numérique](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)
 permettent d'avoir une idée globale du sujet. Il est possible d'approfondir et de relativiser avec des articles de Gauthier Roussilhe sur
 [l'empreinte environnementale du secteur numérique](https://gauthierroussilhe.com/post/explication-empreinte.html)
-et [les effets environnementaux indirects de la numérisation](https://gauthierroussilhe.com/articles/comprendre-et-estimer-les-effets-indirects-de-la-numerisation).
+et [les effets environnementaux indirects de la numérisation](https://gauthierroussilhe.com/articles/comprendre-et-estimer-les-effets-indirects-de-la-numerisation). L'étude ADEME / ARCEP [« évaluation de l’empreinte du numérique en France et analyse prospective »](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html) donne une image détaillée des impacts du numérique en France avec les dernières données issues du projet NegaOctet.
 
 Sur les **usages**, comme le streaming de vidéo, l'échange de livre ou de podcast, la dernière référence est le rapport de 
 l'ADEME, [évaluation de l'impact environnemental de la digitalisation des services culturels](https://librairie.ademe.fr/dechets-economie-circulaire/5942-evaluation-de-l-impact-environnemental-de-la-digitalisation-des-services-culturels.html),
