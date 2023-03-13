@@ -64,6 +64,8 @@
 
 - [Number of smartphones sold to end users worldwide from 2007 to 2021](https://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/)
 
+- [Les émissions de CO2 liées aux smartphones sont largement sous-estimées par les pouvoirs publics](https://www.lemonde.fr/pixels/article/2023/03/10/le-bilan-carbone-des-smartphones-largement-sous-estime_6165009_4408996.html)
+
 IOT ridicule :
 
 - [Fil dentaire connecté](https://www.kickstarter.com/projects/flosstime/flosstime-worlds-first-smart-floss-dispenser)
