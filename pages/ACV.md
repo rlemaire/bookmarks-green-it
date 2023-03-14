@@ -7,6 +7,7 @@
 - [Livre blanc GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des résultats d'ACV.
 - [ACV du Fairphone 2](https://pdfs.semanticscholar.org/881e/5297c5f44d626abe1e65f38d93ac09b2350d.pdf)
 - [ACV du Fairphone 3](https://www.fairphone.com/wp-content/uploads/2020/07/Fairphone_3_LCA.pdf)
+- [ACV du Fairphone 4](https://www.fairphone.com/wp-content/uploads/2022/07/Fairphone-4-Life-Cycle-Assessment-22.pdf)
 - [ACV d'un PC](https://www.researchgate.net/publication/226388568_Life_Cycle_Assessment_of_a_Personal_Computer_and_its_Effective_Recycling_Rate_7_pp)
 - [Quelle est l’empreinte carbone d’un ordinateur ? - Green IT](https://www.greenit.fr/2011/02/10/quelle-est-l-empreinte-carbone-d-un-ordinateur/) - Pentium IV
 - [Objets connectés : 400 TWh consommés chaque année - Green IT](https://www.greenit.fr/2014/07/15/objets-connectes-400-twh-consommes-chaque-annee/)

@@ -3,22 +3,24 @@ Liste de liens utiles pour la formation éco conception de services numériques.
 # Acteurs et sources principales sur le GreenIT
 
 - [GreenIT.fr](https://www.greenit.fr/)
-    - [Alliance Green IT](https://alliancegreenit.org/)
     - [Club Green IT](https://club.greenit.fr/)
     - [Collectif Green IT](https://collectif.greenit.fr/)
+    - [Collectif Conception Numérique Responsable](https://github.com/cnumr/)
 - [EcoInfo - CNRS](https://ecoinfo.cnrs.fr/)
-- [Shift Project](https://theshiftproject.org/)
-- [INR - Institut du Numérique Responsable](https://institutnr.org/)
 - [HOP - Halte à l'obsolescence programmée](https://www.halteobsolescence.org/)
+- [ADEME](https://www.ademe.fr/)
 
 
 # Etudes citées dans la formation
 
 ## Etudes de GreenIT.fr et de ses partenaires 
 - [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) [2019] Le rapport récent de GreenIT.fr sur l'empreinte écologique du numérique au niveau mondial. Basé sur une méthodologie d'ACV.
-- [Impacts environnementaux du numérique en France](https://www.greenit.fr/2020/06/23/quels-sont-les-impacts-environnementaux-du-numerique-en-france/) [Juin 2020] Suite du rapport précédent, focalisé sur la France.
+- [Impacts environnementaux du numérique en France (iNum)](https://www.greenit.fr/2020/06/23/quels-sont-les-impacts-environnementaux-du-numerique-en-france/) [Juin 2020] Suite du rapport précédent, focalisé sur la France.
 - [WE GREEN IT](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf?utm_source=website&utm_campaign=etude%20wegreenit)
 - [Livre blanc Green Concept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des exemples réels d'éco conception de services numériques.
+- [Le numérique en Europe : une approche des impacts environnementaux par l’analyse du cycle de vie (NumEU)](https://www.greenit.fr/le-numerique-en-europe-une-approche-des-impacts-environnementaux-par-lanalyse-du-cycle-de-vie/)
+- [Benchmark GreenIT](https://www.greenit.fr/benchmark-green-it/)
+- [ARCEP - Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
 
 # Autres liens par chapitres
 
@@ -26,24 +28,31 @@ Liste de liens utiles pour la formation éco conception de services numériques.
 
 ### Les crises écologiques
 - [Les limites planétaires](https://fr.wikipedia.org/wiki/Limites_plan%C3%A9taires)
+- [La grande accélération](https://fr.wikipedia.org/wiki/Grande_acc%C3%A9l%C3%A9ration)
 
-Sur le climat :
+  Sur le climat :
 - [L'effet de serre](https://fr.wikipedia.org/wiki/Effet_de_serre)
 - [Potentiel de réchauffement global](https://fr.wikipedia.org/wiki/Potentiel_de_r%C3%A9chauffement_global)
+- [Comparaison des gaz à effet de serre](http://svt-oehmichen.over-blog.fr/2015/12/comparaison-des-gaz-a-effet-de-serre.html)
 - [Accord de Paris](https://fr.wikipedia.org/wiki/Accord_de_Paris_sur_le_climat)
 - [Sismique - Changement climatique : on (re)fait le point.](https://www.sismique.fr/post/changement-climatique-on-refait-le-point)
+- [Bloomberg - Carbon clock](https://www.bloomberg.com/graphics/carbon-clock/)
+- [Estimation de l’empreinte carbone de 1995 à 2020](https://www.statistiques.developpement-durable.gouv.fr/estimation-de-lempreinte-carbone-de-1995-2020)
 
 Sur la biodiversité :
 - [Rapport du WWF sur la biodiversité](https://www.wwf.fr/sites/default/files/doc-2020-09/20200910_Synthese_Rapport-Planete-Vivante-2020_WWF-min.pdf)
 
 
 Sur l'épuisement des ressources naturelles :
-- [Extrait du livre de Guillaume Pitron « La guerre des métaux rares » avec la durée des réserves rentables](https://fr.calameo.com/read/002094473c9f01879e45b)
 - [ADEME : Epuisement des métaux et minéraux : faut-il s&#39;inquiéter ?](https://www.ademe.fr/epuisement-metaux-mineraux-faut-sinquieter)
 - [France Stratégie - La consommation de métaux du numérique](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf) - Condensé de plusieurs sources sur l'utilisation et l'épuisement des matières premières avec le numérique.
 - [Ruée minière au XXIè siècle : jusqu'où les limites seront-elles repoussées ? - Aurore Stephant à USI](https://www.youtube.com/watch?v=i8RMX8ODWQs)
 - [EcoInfo.cnrs - Epuisement des ressources naturelles](https://ecoinfo.cnrs.fr/2014/03/11/1-epuisement-des-ressources-naturelles/)
+- [Element Scarcity – EuChemS Periodic Table](https://www.euchems.eu/euchems-periodic-table/)
+- [Commission Européenne, 2020, Critical Raw Materials Resilience: Charting a Path towards greater Security and Sustainability](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020DC0474)
 
+Réactions :
+- [L'Accord de Paris](https://unfccc.int/fr/a-propos-des-ndcs/l-accord-de-paris)
 - [Le développement durable](https://fr.wikipedia.org/wiki/D%C3%A9veloppement_durable)
 
 ### Notions de bases
@@ -54,13 +63,16 @@ Sur l'épuisement des ressources naturelles :
 - [Énergie primaire](https://fr.wikipedia.org/wiki/%C3%89nergie_primaire)
 - [Énergie grise](https://fr.wikipedia.org/wiki/%C3%89nergie_grise)
 - [Mix Energétique](https://fr.wikipedia.org/wiki/Mix_%C3%A9nerg%C3%A9tique)
-- [Base carbone ADEME](https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?repas.htm )
+- [Base carbone ADEME](https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?repas.htm)
 
+- [Electricity Map](https://app.electricitymaps.com/map)
 
 ### L'ACV
 
 - [Page Wikipédia](https://fr.wikipedia.org/wiki/Analyse_du_cycle_de_vie)
 - [ACV du Fairphone 2](https://pdfs.semanticscholar.org/881e/5297c5f44d626abe1e65f38d93ac09b2350d.pdf)
+- [ACV du Fairphone 3](https://www.fairphone.com/wp-content/uploads/2020/07/Fairphone_3_LCA.pdf)
+- [ACV du Fairphone 4](https://www.fairphone.com/wp-content/uploads/2022/07/Fairphone-4-Life-Cycle-Assessment-22.pdf)
 - [ACV d'un PC coréen](https://www.researchgate.net/publication/226388568_Life_Cycle_Assessment_of_a_Personal_Computer_and_its_Effective_Recycling_Rate_7_pp)
 
 - [ADEME - Modélisation et évaluation des impacts environnementaux de produits de consommation](https://www.ademe.fr/modelisation-evaluation-impacts-environnementaux-produits-consommation-biens-dequipement)
@@ -77,7 +89,8 @@ Sur l'épuisement des ressources naturelles :
 - [Loi de Wirth](https://fr.wikipedia.org/wiki/Loi_de_Wirth)
 - [Loi de Koomey](https://fr.wikipedia.org/wiki/Loi_de_Koomey)
 - [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
-
+- [GreenIT.fr - Logiciel : la clé de l’obsolescence programmée du matériel informatique](https://www.greenit.fr/2010/05/24/logiciel-la-cle-de-l-obsolescence-programmee-du-materiel-informatique/)
+- [httparchive.org - Page Weight](https://httparchive.org/reports/page-weight)
 
 ## L'éco conception
 
@@ -107,6 +120,7 @@ Sur l'épuisement des ressources naturelles :
 - [PowerAPI](https://powerapi-ng.github.io/)
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) : [Démo](https://metrics.hubblo.org/)
 - [Liste des outils sur ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/)
+- [Simulateur d'écoindex](https://rachelwe.github.io/Simulateur-ecoindex/)
 
 
 ## Compléments / les 115 bonnes pratiques
@@ -120,9 +134,6 @@ Sur l'épuisement des ressources naturelles :
 - [Le mode sombre est-il intéressant ?](https://greenspector.com/fr/faut-il-changer-son-fond-decran-pour-consommer-moins-de-batterie/)
 
 - [Can I Use ?](https://caniuse.com/)
-
-- [You don't need JQuery](https://github.com/nefe/You-Dont-Need-jQuery)
-- [You don't need](https://github.com/you-dont-need)
 
 - [L'effet rebond](https://fr.wikipedia.org/wiki/Effet_rebond_(%C3%A9conomie))
 - [Règle des 5R](https://fr.wikipedia.org/wiki/R%C3%A8gle_des_5_R)
@@ -143,10 +154,6 @@ Sur l'épuisement des ressources naturelles :
 
 - [EcoloGeek](https://www.ecologeek.fr/)
 - [Dalkia, groupe EDF](https://www.dalkia.fr)
-
-Liste des designers éthiques ([source](https://eco-conception.designersethiques.org/guide/content/7-plus-loin.html)) :
-
-- [La Fabrik' A Vrac - Le drive Nantais ZD](https://www.lafabrikavrac.fr/) - qui est en plus super beau
 - [Kaïros Sailing - Ecurie de course : projets sportifs ou responsables](https://www.kairos-jourdain.com/fr/sailing) - également très beau
 - [GOV.UK](https://www.gov.uk/)
 - [Un Ecrin Vert - Biocoop Montreuil](https://www.biocoopmontreuil.fr/)
@@ -154,10 +161,12 @@ Liste des designers éthiques ([source](https://eco-conception.designersethiques
 - [La Boutique du Partage](https://www.laboutiquedupartage.fr/)
 - [La Coopérative des Internets](https://www.lacooperativedesinternets.fr/)
 - [Le Low-tech Lab partage les solutions et l'esprit low-tech](https://lowtechlab.org/fr)
+- [Grenoble Alpes Métropole](https://www.grenoblealpesmetropole.fr/302-eco-conception.htm)
 
 # Divers
 
 - [ADEME - Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail) 
 - [ADEME - Liste des ressources ADEME sur le numérique responsable](https://ecoresponsable.numerique.gouv.fr/publications/ressources-ademe/)
 - [EcoInfo.cnrs - Référentiel de connaissances pour un numérique éco responsable](https://hal.archives-ouvertes.fr/hal-02954188/document)
+- [Le Monde Afrique - M-Pedigree, un rempart à la consommation de faux médicaments](https://www.lemonde.fr/afrique/article/2015/04/02/m-pedigree-un-rempart-a-la-consommation-de-faux-medicaments_4608585_3212.html)
 
