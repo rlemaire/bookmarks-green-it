@@ -29,3 +29,5 @@
 
 - [Que fait Apple ?](https://www.macg.co/aapl/2021/01/une-pomme-plus-verte-apple-recycle-et-reutilise-mais-peut-elle-reduire-118933)
 
+- [Le numérique est-il un progrès durable ? - Hors de série de pour la science en partenariat avec l'INRIA](https://www.inria.fr/fr/numerique-progres-durable-environnement-pour-la-science)
+
