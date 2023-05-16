@@ -32,6 +32,8 @@
 
 - [Eco-concevoir le site d’une exposition : nous avons relevé le défi !](https://www.greenit.fr/2023/01/10/eco-concevoir-le-site-dune-exposition-nous-avons-releve-le-defi/)
 
+- [This blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
+
 ## Gestion des images
 
 - [Greenspector - Quel format d’image choisir pour réduire sa consommation d’énergie et son impact environnemental ?](https://greenspector.com/fr/quel-format-dimage-choisir-pour-reduire-sa-consommation-denergie-et-son-impact-environnemental/)
