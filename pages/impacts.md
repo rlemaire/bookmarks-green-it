@@ -66,6 +66,8 @@
 
 - [Les émissions de CO2 liées aux smartphones sont largement sous-estimées par les pouvoirs publics](https://www.lemonde.fr/pixels/article/2023/03/10/le-bilan-carbone-des-smartphones-largement-sous-estime_6165009_4408996.html)
 
+- [Fairphone - behind the screens](https://www.fairphone.com/en/behind-the-screens/)
+
 IOT ridicule :
 
 - [Fil dentaire connecté](https://www.kickstarter.com/projects/flosstime/flosstime-worlds-first-smart-floss-dispenser)
