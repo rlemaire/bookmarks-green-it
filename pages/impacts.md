@@ -202,3 +202,5 @@ IOT ridicule :
 - [Les jeux de sensibilisation au Numérique Responsable](https://www.linkedin.com/pulse/les-jeux-de-sensibilisation-au-num%25C3%25A9rique-responsable-h%25C3%25A9lo%25C3%25AFse-dano/?trackingId=VaW6k6DQusmf3gp%2BuHtbGQ%3D%3D)
 
 - ["La guerre de l’eau fait étape en Isère" : un millier de manifestants près de Grenoble contre l’accaparement de l’eau par l’industrie électronique](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/la-guerre-de-l-eau-fait-etape-en-isere-plus-de-500-personnes-manifestent-pres-de-grenoble-contre-l-accaparement-de-l-eau-par-l-industrie-electronique-2744902.html)
+
+- [le Monde - Réchauffement climatique : la face obscure de l’intelligence artificielle](https://www.lemonde.fr/sciences/article/2023/05/01/rechauffement-climatique-la-face-obscure-de-l-intelligence-artificielle_6171688_1650684.html)
