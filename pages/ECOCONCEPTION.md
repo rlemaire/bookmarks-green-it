@@ -34,6 +34,8 @@
 
 - [This blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
 
+- [Offline app architecture: Why you should build offline-first apps](https://www.techaheadcorp.com/blog/offline-app-architecture/)
+
 ## Gestion des images
 
 - [Greenspector - Quel format d’image choisir pour réduire sa consommation d’énergie et son impact environnemental ?](https://greenspector.com/fr/quel-format-dimage-choisir-pour-reduire-sa-consommation-denergie-et-son-impact-environnemental/)
