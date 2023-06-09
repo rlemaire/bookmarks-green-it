@@ -36,6 +36,8 @@
 
 - [Offline app architecture: Why you should build offline-first apps](https://www.techaheadcorp.com/blog/offline-app-architecture/)
 
+-[How to create high-performance CSS animations](https://web.dev/animations-guide/)
+
 ## Gestion des images
 
 - [Greenspector - Quel format d’image choisir pour réduire sa consommation d’énergie et son impact environnemental ?](https://greenspector.com/fr/quel-format-dimage-choisir-pour-reduire-sa-consommation-denergie-et-son-impact-environnemental/)
