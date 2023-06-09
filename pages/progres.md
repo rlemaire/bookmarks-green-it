@@ -1,9 +1,6 @@
 # Progrès technique et recherche
 - [Travail de recherche pour le recyclage des smartphones](https://france3-regions.francetvinfo.fr/grand-est/environnement-et-si-votre-vieux-telephone-donnait-son-c-ur-a-la-science-2161363.html), en lorraine, et avec des déchets agro alimentaires en plus !
-- [IBM research, climate and sustainability](https://research.ibm.com/teams/climate-and-sustainability)
 - [First commercially viable lithium metal solid state battery charges to 80% in just 15 minute](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
-- [Les projets de recherche de Google Deep Mind](https://deepmind.com/blog?filters_and=%7B%22category%22:%5B%22Research%22%5D%7D)
-- [Microsoft AI for earth](https://www.microsoft.com/en-us/ai/ai-for-earth)
 - [Pour la science, « Quel futur pour les batteries ? »](https://www.pourlascience.fr/sd/energie/quel-futur-pour-les-batteries-21651.php)
 - [INRS au Canada, « Un demi-million de dollars pour développer des batteries plus performantes »](https://inrs.ca/actualites/un-demi-million-de-dollars-pour-developper-des-batteries-plus-performantes/)
 - [Nature, « Dynamic spatial progression of isolated lithium during battery operations »](https://www.nature.com/articles/s41586-021-04168-w)
@@ -29,5 +26,13 @@
 
 - [Que fait Apple ?](https://www.macg.co/aapl/2021/01/une-pomme-plus-verte-apple-recycle-et-reutilise-mais-peut-elle-reduire-118933)
 
+
+# IT 4 Green
+
+
 - [Le numérique est-il un progrès durable ? - Hors de série de pour la science en partenariat avec l'INRIA](https://www.inria.fr/fr/numerique-progres-durable-environnement-pour-la-science)
 
+- [IBM research, climate and sustainability](https://research.ibm.com/teams/climate-and-sustainability)
+- [Les projets de recherche de Google Deep Mind](https://deepmind.com/blog?filters_and=%7B%22category%22:%5B%22Research%22%5D%7D)
+- [Microsoft AI for earth](https://www.microsoft.com/en-us/ai/ai-for-earth)
+- [Changements climatiques : une meilleure prédiction des canicules grâce à l’IA](https://www.cnrs.fr/fr/changements-climatiques-une-meilleure-prediction-des-canicules-grace-lia)
