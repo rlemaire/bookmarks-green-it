@@ -41,7 +41,8 @@
 ## Gestion des images
 
 - [Greenspector - Quel format d’image choisir pour réduire sa consommation d’énergie et son impact environnemental ?](https://greenspector.com/fr/quel-format-dimage-choisir-pour-reduire-sa-consommation-denergie-et-son-impact-environnemental/)
-- [Addy Osmani - Using Modern Image Formats: AVIF And WebP](https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/)
+- [Addy Osmani - Using Modern Image Formats: AVIF And WebP](https://www.smashing
+ine.com/2021/09/modern-image-formats-avif-webp/)
 - [Maximally optimizing image loading for the web](https://www.industrialempathy.com/posts/image-optimizations/)
 - [CSS Tricks - A Guide to the Responsive Images Syntax in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
 - [web.dec (Google) - Optimize your images](https://web.dev/fast/#optimize-your-images)
@@ -139,6 +140,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 
 - **[How to Build a Low-tech Website? - LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)** - Exemple de site minimaliste et déployé sur un seul serveur alimenté par un panneau solaire.
   - [LOW←TECH MAGAZINE - How sustainable is a solar powered website ?](https://solar.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website.html) Après avoir produit un site « low tech » alimenté par un panneau solaire le magazine analyse la durabilité de cette méthode.
+  - [Rebuilding a solar website](https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/)
 - [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)
 - [Craigslist](https://paris.craigslist.org/)
 - [Hacker News](https://news.ycombinator.com/)
