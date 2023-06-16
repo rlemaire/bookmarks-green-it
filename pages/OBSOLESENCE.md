@@ -20,6 +20,8 @@
 - [Un processeur vieux de 20 ans suffit à Perseverance pour explorer Mars](https://www.numerama.com/sciences/692822-un-processeur-vieux-de-20-ans-suffit-a-perseverance-pour-explorer-mars.html)
 - [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://blog.jim-nielsen.com/2022/a-web-for-all/)
 - [Google Is Forcing Me to Dump a Perfectly Good Phone](https://www.vice.com/en/article/dypxpx/google-is-forcing-me-to-dump-a-perfectly-good-phone)
+- [This 25 Year Old Commodore 64 is Still Used to Run an Auto Shop](https://web.archive.org/web/20230615193406/https://gamerant.com/commodore-64-auto-shop/)
+- [My 24 year old HP Jornada can do things your modern iPhone still can't do!](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html?utm_source=pocket_saves)
 
 ## Obésité logicielle et compatibilité
 
