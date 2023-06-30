@@ -167,6 +167,8 @@ IOT ridicule :
 - [Mine de cuivre de Geamăna, Roumanie](https://www.google.com/maps/place/Geam%C4%83na+517416,+Roumanie/@46.3307263,23.1713381,12047m/data=!3m1!1e3!4m5!3m4!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!8m2!3d46.3299984!4d23.2042788) avec son village englouti
 - [Mir, mine de diamant en Russie](https://fr.wikipedia.org/wiki/Mine_Mir) [image](https://twitter.com/julian0liver/status/1446741413136412680)
 - [LeMonde.fr - L’approvisionnement en métaux, enjeu critique de la transition énergétique](https://www.lemonde.fr/planete/article/2022/06/10/l-approvisionnement-en-metaux-enjeu-critique-de-la-transition-energetique_6129614_3244.html)
+- [Consommation d'eau de STMicroelectronics à Grenoble](https://www.lemonde.fr/planete/article/2023/06/10/a-grenoble-l-agrandissement-de-stmicroelectronics-relance-la-question-du-partage-de-l-eau_6177027_3244.html)
+- [Infographie de Philippe Bihouix sur les métaux dans un smartphone](https://www.linkedin.com/feed/update/urn:li:activity:7076793298245316608/)
 
 
 ## Impacts sociaux et géopolitiques

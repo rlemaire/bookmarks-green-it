@@ -36,7 +36,11 @@
 
 - [Offline app architecture: Why you should build offline-first apps](https://www.techaheadcorp.com/blog/offline-app-architecture/)
 
--[How to create high-performance CSS animations](https://web.dev/animations-guide/)
+- [How to create high-performance CSS animations](https://web.dev/animations-guide/)
+
+
+- [Les arguments économiques pour des logiciels plus « verts » (en)](https://stateof.greensoftware.foundation/insights/green-software-business-case/)
+- [Boavizta : les modes de calcul des trois principaux fournisseurs de cloud publics pour l’estimation de l’empreinte carbone des services](https://boavizta.org/blog/calculettes-carbone-clouds-providers).
 
 ## Gestion des images
 
