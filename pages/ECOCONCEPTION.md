@@ -159,6 +159,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 - [My stack will outlive yours](https://blog.steren.fr/2020/my-stack-will-outlive-yours/)
 - [Économiser 42Ko pour sauver 50Tb de bande passante](https://welovedevs.com/fr/articles/rex-crispchat-economiser-42ko-pour-sauver-50tb-de-bande-passante/)
 - [50 exemples de sites internet basse consommation ](https://www.linkedin.com/pulse/48-exemples-de-sites-internet-basse-consommation-c%C3%A9dric-liardet/)
+- [Collection de sites minimalistes lowww.directory](https://www.lowww.directory/)
 
 ### Site explicitement écoconçus / appliquant des principes
 
