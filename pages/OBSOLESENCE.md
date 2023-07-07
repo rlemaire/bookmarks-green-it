@@ -2,6 +2,7 @@
 
 - **[Livre Blanc HOP](https://www.halteobsolescence.org/wp-content/uploads/2019/02/Livre-Blanc.pdf)**
 - [HOP - Pour 3 centimes un téléviseur Samsung réparé, un cas d’école?](https://www.halteobsolescence.org/une-tv-samsung-victime-dobsolescence-programmee/)
+- [produitsdurables.fr par HOP](https://www.produitsdurables.fr/)
 
 - [ARCEP - Renouvellement des terminaux mobiles et pratiques commerciales de distribution](https://www.arcep.fr/uploads/tx_gspublication/rapport-renouvellement-terminaux-mobiles-pratiques-commerciales-distribution-juillet2021.pdf)
 
