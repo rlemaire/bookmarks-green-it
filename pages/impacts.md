@@ -141,6 +141,12 @@ IOT ridicule :
 
 - [La Hollande soumise aux pénuries découvre que les DC de Microsoft ont consommé 84 millions de litres d’eau potable](https://datacenter-magazine.fr/la-hollande-soumise-aux-penuries-decouvre-que-les-dc-de-microsoft-ont-consomme-84-millions-de-litres-deau-potable/)
 
+
+Deux histoires de défaillances d’infrastructures à cause de la chaleur :
+- [À Londres, les data centers de Google et Oracle n’ont pas supporté la chaleur (juillet 2022)](https://www.lefigaro.fr/secteur/high-tech/a-londres-les-data-centers-de-google-et-oracle-n-ont-pas-supporte-la-chaleur-20220720)
+- [En chine, une usine de semi conducteurs en Chine arrêtée à cause de la chaleur (aout 2022)  (en anglais)](https://jalopnik.com/extreme-heatwave-in-china-shuts-down-semiconductor-fact-1849425110)
+
+
 ## Epuisement des ressources naturelles et exploitation minière
 
 - **[France Stratégie - La consommation de métaux du numérique](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf)** - Condensé de plusieurs sources sur l'utilisation et l'épuisement des matières premières avec le numérique.
@@ -169,7 +175,8 @@ IOT ridicule :
 - [LeMonde.fr - L’approvisionnement en métaux, enjeu critique de la transition énergétique](https://www.lemonde.fr/planete/article/2022/06/10/l-approvisionnement-en-metaux-enjeu-critique-de-la-transition-energetique_6129614_3244.html)
 - [Consommation d'eau de STMicroelectronics à Grenoble](https://www.lemonde.fr/planete/article/2023/06/10/a-grenoble-l-agrandissement-de-stmicroelectronics-relance-la-question-du-partage-de-l-eau_6177027_3244.html)
 - [Infographie de Philippe Bihouix sur les métaux dans un smartphone](https://www.linkedin.com/feed/update/urn:li:activity:7076793298245316608/)
-
+- [Métaux rares : l’Agence internationale de l’énergie alerte sur les risques d’approvisionnement pour réussir la transition énergétique](https://www.lemonde.fr/planete/article/2023/07/12/metaux-rares-l-agence-internationale-de-l-energie-alerte-sur-les-risques-d-approvisionnement-pour-reussir-la-transition-energetique_6181602_3244.html)
+- Voici [une page décrivant quels matériaux sont utilisés pour l'électronique d'un ordinateur (en anglais)](https://www.engineering.com/story/what-raw-materials-are-used-to-make-hardware-in-computing-devices)
 
 ## Impacts sociaux et géopolitiques
 

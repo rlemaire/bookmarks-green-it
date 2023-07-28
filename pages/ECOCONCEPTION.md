@@ -2,45 +2,37 @@
 
 - **[GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)**
 
+## Réparation et appareils réparables 
+
+- [Nokia a lancé un téléphone Android réparable (en anglais)](https://www.theguardian.com/technology/2023/feb/25/nokia-launches-diy-repairable-budget-android-phone) (février 2023)
+- [produitsdurables.fr](https://www.produitsdurables.fr/) : un site conçu par HOP qui « donne des outils concrets aux consommateurs pour faire durer leurs objets »
+- [Un site pour voir comment se comportent les produits dans le temps (en anglais)](https://www.looria.com/reviews)
+
+
 ## Misc
 
 - [ADEME, Les enjeux de l’écoconception, les bénéfices pour l’entreprise, pour l’économie et l’environnement](https://www.ademe.fr/entreprises-monde-agricole/organiser-demarche-environnementale/dossier/ecoconcevoir-produits/enjeux-lecoconception-benefices-lentreprise-leconomie-lenvironnement)
 - [Pôle écoconception, exemples de produits écoconçus](https://www.eco-conception.fr/static/exemple-de-produit-eco-concu.html)
 - [Pôle écoconception, L'éco-conception pour tous : les quatre niveaux d’ambitions](https://www.eco-conception.fr/static/leco-conception-pour-tous.html)
-
 - [Cast software et standish group - fonctionnalités peu utilisées](https://www.standishgroup.com/sample_research_files/Exceeding%20Value_Layout.pdf) et un post de blog qui explique que ce n'est que sur 4 applications internes : [Are 64% of Features Really Rarely or Never Used?](https://www.mountaingoatsoftware.com/blog/are-64-of-features-really-rarely-or-never-used/comments)
-
 - [Audits d’écoconception - méthodo - Laurent Duvernay](https://ldevernay.github.io/green/2020/05/19/methodo.html)
-
 - [Octo :  Une bonne pratique vers un numérique plus responsable : mesurer le ressenti des internautes.](https://blog.octo.com/une-bonne-pratique-vers-un-numerique-plus-responsable-mesurer-le-ressenti-des-internautes/)
-
 - [Boavizta - Sunny Tech 2022 - L'eco-conception, c'est bien, mais si on parlait un peu du backend ? ](https://www.youtube.com/watch?v=k39JWYVx_cI)
-
 - [Lexique numérique responsable](https://club.greenit.fr/doc/2018-05-ClubGreenIT-lexique-numerique_responsable-v1.8.3.pdf)
 - [The baseline for web development in 2022](https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/)
 - [Build once run everywhere - in C](https://justine.lol/cosmopolitan/index.html)
-
 - [Travailler (développer!) avec son smartphone](https://medium.com/@l4em/il-y-a-un-ordinateur-dans-votre-poche-4fcc0146ff11)
-
 - [BYOD : quelles sont les bonnes pratiques ? - CNIL](https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques)
-
 - [Gauthier Roussilhe - Guide converstion au Low Tech numérique](http://gauthierroussilhe.com/fr/posts/convert-low-tech)
-
 - [Red hat - Writing greener Java applications (Benchmark de pub pour Quarkus)](https://www.redhat.com/rhdc/managed-files/mi-greener-java-applications-detail-f32147pr-202211-en.pdf)
-
 - [Gauthier Roussilhe - Introduction à l'éco-conception numérique](https://gauthierroussilhe.com/book/ademe/INTROECNUM.html)
-
 - [Eco-concevoir le site d’une exposition : nous avons relevé le défi !](https://www.greenit.fr/2023/01/10/eco-concevoir-le-site-dune-exposition-nous-avons-releve-le-defi/)
-
 - [This blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
-
 - [Offline app architecture: Why you should build offline-first apps](https://www.techaheadcorp.com/blog/offline-app-architecture/)
-
 - [How to create high-performance CSS animations](https://web.dev/animations-guide/)
-
-
 - [Les arguments économiques pour des logiciels plus « verts » (en)](https://stateof.greensoftware.foundation/insights/green-software-business-case/)
 - [Boavizta : les modes de calcul des trois principaux fournisseurs de cloud publics pour l’estimation de l’empreinte carbone des services](https://boavizta.org/blog/calculettes-carbone-clouds-providers).
+- Un projet de stack overflow existe pour [rendre disponible le contenu hors ligne (offline first) (en anglais)](https://stackoverflow.blog/2022/10/20/introducing-the-overflow-offline-project/). C'est pour les prisons, mais également pour des équipes de recherche scientifique ou des écoles dans des zones où l’accès à Internet est limité.
 
 ## Gestion des images
 
@@ -160,6 +152,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 - [Économiser 42Ko pour sauver 50Tb de bande passante](https://welovedevs.com/fr/articles/rex-crispchat-economiser-42ko-pour-sauver-50tb-de-bande-passante/)
 - [50 exemples de sites internet basse consommation ](https://www.linkedin.com/pulse/48-exemples-de-sites-internet-basse-consommation-c%C3%A9dric-liardet/)
 - [Collection de sites minimalistes lowww.directory](https://www.lowww.directory/)
+- Une [liste de sites de moins de 10kb (en anglais)](https://10kbclub.com/)
 
 ### Site explicitement écoconçus / appliquant des principes
 

@@ -23,6 +23,13 @@
 - [Google Is Forcing Me to Dump a Perfectly Good Phone](https://www.vice.com/en/article/dypxpx/google-is-forcing-me-to-dump-a-perfectly-good-phone)
 - [This 25 Year Old Commodore 64 is Still Used to Run an Auto Shop](https://web.archive.org/web/20230615193406/https://gamerant.com/commodore-64-auto-shop/)
 - [My 24 year old HP Jornada can do things your modern iPhone still can't do!](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html?utm_source=pocket_saves)
+- [Une usine japonaise conçoit toujours des vêtements sur un ordinateur vieux de 40 ans](https://www.youtube.com/watch?v=zWJZFQHklBg)
+- [Un témoignage d’un des derniers vendeurs de disquettes (72 ans) (en anglais)](https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/)
+- Dans [cette vidéo (en anglais)](https://www.youtube.com/watch?v=QJSnf04K9WI), un sex toy à usage unique est démonté.
+
+Des chromebook de seulement trois ans sont menacés d'obsolescence pour des raisons logicielles :
+- [Un article d'explication (en anglais)](https://www.mercurynews.com/2023/07/24/built-in-software-death-dates-are-sending-thousands-of-schools-chromebooks-to-the-recycling-bin/)
+- [Une lettre des parents et éducateurs demandant à Google d'étendre la vie de ces appareils (en anglais)](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
 
 ## Obésité logicielle et compatibilité
 

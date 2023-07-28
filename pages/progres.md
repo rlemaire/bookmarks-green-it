@@ -26,6 +26,9 @@
 
 - [Que fait Apple ?](https://www.macg.co/aapl/2021/01/une-pomme-plus-verte-apple-recycle-et-reutilise-mais-peut-elle-reduire-118933)
 
+# Législation
+- Un article du monde décrit [le contenu du réglement européen sur les batteries](https://www.lemonde.fr/pixels/article/2023/07/12/reglement-europeen-sur-les-batteries-du-remplacement-facile-au-recyclage-ce-qui-va-reellement-changer_6181585_4408996.html)
+
 
 # IT 4 Green
 
