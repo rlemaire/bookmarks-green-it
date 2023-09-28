@@ -106,7 +106,7 @@ Réactions :
 ## Référentiels
 
 - [Outils du collectif GreenIT](https://collectif.greenit.fr/outils.html)
-- [Les 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
+- [Les 115 bonnes pratiques](https://github.com/cnumr/best-practices)
 - [Ministère de la transition écologique : Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
 - [GR491, Le guide de Référence de Conception Responsable de Services Numériques - INR, 491 pratiques](https://gr491.isit-europe.org)
 - [Référentiel de GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
