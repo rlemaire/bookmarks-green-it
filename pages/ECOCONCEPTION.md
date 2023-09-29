@@ -33,6 +33,7 @@
 - [Les arguments économiques pour des logiciels plus « verts » (en)](https://stateof.greensoftware.foundation/insights/green-software-business-case/)
 - [Boavizta : les modes de calcul des trois principaux fournisseurs de cloud publics pour l’estimation de l’empreinte carbone des services](https://boavizta.org/blog/calculettes-carbone-clouds-providers).
 - Un projet de stack overflow existe pour [rendre disponible le contenu hors ligne (offline first) (en anglais)](https://stackoverflow.blog/2022/10/20/introducing-the-overflow-offline-project/). C'est pour les prisons, mais également pour des équipes de recherche scientifique ou des écoles dans des zones où l’accès à Internet est limité.
+- [Le mode sombre (en)](https://www.nngroup.com/articles/dark-mode-users-issues/) : il n’est pas prouvé que celui-ci est mieux pour les yeux, il est très difficile à bien réaliser.
 
 ## Gestion des images
 
@@ -62,6 +63,7 @@ ine.com/2021/09/modern-image-formats-avif-webp/)
 - [La checklist d’Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/)
 - [Le guide RGPD de la CNIL](https://lincnil.github.io/Guide-RGPD-du-developpeur/)
 - [Le RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
+* Le W3C a sorti [un brouillon de guidelines pour un web écoresponsable (en)](https://w3c.github.io/sustyweb/glance.html#abstract).
 
 ## Outils
 

@@ -19,6 +19,8 @@
 - [The Conversation - De nouvelles technologies pour recycler les déchets électroniques](https://theconversation.com/de-nouvelles-technologies-pour-recycler-les-dechets-electroniques-132530)
 - [Une puce informatique fabriquée à partir de la peau d'un champignon](https://green-it.developpez.com/actu/338496/Une-puce-informatique-fabriquee-a-partir-de-la-peau-d-un-champignon-pourrait-etre-facilement-recyclee-la-base-des-puces-et-des-batteries-est-generalement-constituee-de-plastique-non-recyclable/)
 - [Kombucha electronics? Sure, why not?](https://arstechnica.com/science/2023/02/kombucha-electronics-sure-why-not/)
+- [Des circuits imprimés solubles dans l'eau](https://green-it.developpez.com/actu/346931/Les-circuits-imprimes-solubles-dans-l-eau-aident-a-minimiser-les-dechets-electroniques-et-a-reduire-l-empreinte-carbone-de-60-pourcent-affirme-le-fabricant-de-semi-conducteurs-Infineon/).
+- [Partenariat de Microsoft avec une entreprise pour stocker du carbone dans du calcaire](https://green-it.developpez.com/actu/348223/Microsoft-signe-un-contrat-geant-d-elimination-du-carbone-pour-eponger-le-CO2-a-l-aide-de-calcaire-certains-y-voient-une-operation-de-greenwashing-qui-repose-sur-une-technologie-couteuse/).
 
 - [AC Orgerie - Save Watts in your Grid: Green Strategies for Energy-Aware Framework in Large Scale Distributed Systems](https://perso.ens-lyon.fr/laurent.lefevre/pdf/ICPADS2008_Orgerie_Lefevre_Gelas.pdf)
 - [AC Orgerie - Balancing the use of batteries and opportunistic scheduling policies for maximizing renewable energy consumption in a Cloud data center](https://hal.inria.fr/hal-01432752/document)

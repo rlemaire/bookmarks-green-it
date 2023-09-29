@@ -68,6 +68,8 @@
 
 - [Fairphone - behind the screens](https://www.fairphone.com/en/behind-the-screens/)
 
+* [Un article de iFixIt sur les pièces appariée](https://fr.ifixit.com/News/78830/lappariement-des-pieces-met-la-reparation-electronique-independante-en-danger)
+
 IOT ridicule :
 
 - [Fil dentaire connecté](https://www.kickstarter.com/projects/flosstime/flosstime-worlds-first-smart-floss-dispenser)
@@ -105,6 +107,7 @@ IOT ridicule :
 - [France 24 - en Iran, des pannes de courant monstres révèlent le business des fermes à bitcoins chinoises](https://observers.france24.com/fr/moyen-orient/20210201-enqu%C3%AAte-iran-bitcoins-fermes-pannes-courant)
 - [x200 000 : Bitcoin network average energy consumption per transaction compared to VISA network as of 2020](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
 - [Buying a Bitcoin emits 195x as much CO₂ as buying an iPhone](https://blog.yannev.es/buying-a-bitcoin-emits-195x-as-much-co%E2%82%82-as-buying-an-iphone-5c44ee719757)
+* L’entreprise de cryptomonnaies Riot [a gagné plus d’argent avec des subventions reçues en acceptant de réduire son activité qu’avec les bitcoins](https://green-it.developpez.com/actu/348221/Une-entreprise-crypto-au-Texas-gagne-plus-en-faisant-tourner-ses-plateformes-au-ralenti-qu-en-minant-du-Bitcoin-le-Texas-la-paie-des-millions-de-dollars-pour-reduire-sa-consommation-electrique/) qu’elle a miné.
 
 ## Centres de données et cloud
 
@@ -191,6 +194,7 @@ Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 - [France Info - «  Madagascar : plus de 10 000 enfants employés dans les mines pour extraire le mica », novembre 2019](https://www.francetvinfo.fr/monde/afrique/societe-africaine/madagascar-plus-de-10000-enfants-employes-dans-les-mines-pour-extraire-le-mica_3718113.html)
 
 - [Study on the impact of recent developments in digital advertising on privacy, publishers and advertisers](https://op.europa.eu/fr/publication-detail/-/publication/8b950a43-a141-11ed-b508-01aa75ed71a1)
+* [« iPhones are made in hell » (en)](https://restofworld.org/2023/foxconn-iphone-factory-china/).
 
 ## Fin de vie
 - [Le volume de déchets électroniques explose et leur taux de recyclage reste ridicule](https://theconversation.com/le-volume-de-dechets-electroniques-explose-et-leur-taux-de-recyclage-reste-ridicule-143701)
