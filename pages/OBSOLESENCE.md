@@ -31,6 +31,12 @@ Des chromebook de seulement trois ans sont menacés d'obsolescence pour des rais
 - [Un article d'explication (en anglais)](https://www.mercurynews.com/2023/07/24/built-in-software-death-dates-are-sending-thousands-of-schools-chromebooks-to-the-recycling-bin/)
 - [Une lettre des parents et éducateurs demandant à Google d'étendre la vie de ces appareils (en anglais)](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
 
+* “I will never use this and yet I love that it exists.”* : il existe [un client Mastodon pour Apple II (en)](https://www.colino.net/wordpress/en/mastodon-for-apple-ii/). Encore une fois, on a de la marge dans le numérique avant d’être bloqués dans nos usages.
+* [Quand Orange vous conseille de jeter vos ampoules à la poubelle](https://www.frandroid.com/marques/orange/1830761_quand-orange-vous-conseille-de-jeter-vos-ampoules-a-la-poubelle). Que se passe-t-il quand une entreprise arrête le support des objets connectés qu’elle a créés ? Pour Orange, c’est simple, il faut les jeter ! Tout l’impact environnemental et humain (pensez à l’exploitation minière) de leur fabrication gâché. Pourquoi ne pas au moins rendre open source les logiciels ?
+* [Les premières Apple Watch sont obsolètes](https://www.bfmtv.com/tech/apple/les-premieres-apple-watch-sont-desormais-obsoletes-le-modele-a-18-000-euros-aussi_AV-202310030390.html), même les modèles de luxe.
+* Google [s’engage à mettre à jour ses Pixel Pro pendant 7 ans (en)](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features). Ils s’engagent aussi à [améliorer les performances du système Android](https://www.presse-citron.net/voici-comment-android-va-lutter-contre-lobsolescence-des-smartphones/) pour rendre les appareils plus durables.
+* La NASA a réussi à [mettre à jour un appareil numérique vieux de 46 ans et situé à 24 milliards de km](https://www.huffingtonpost.fr/science/video/la-nasa-envoie-a-la-sonde-voyager-1-une-mise-a-jour-46-ans-apres-son-lancement-et-ca-fonctionne_224826.html)
+
 ## Obésité logicielle et compatibilité
 
 - **[Software disenchantment](http://tonsky.me/blog/disenchantment/)**

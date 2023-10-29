@@ -144,6 +144,7 @@ IOT ridicule :
 
 - [La Hollande soumise aux pénuries découvre que les DC de Microsoft ont consommé 84 millions de litres d’eau potable](https://datacenter-magazine.fr/la-hollande-soumise-aux-penuries-decouvre-que-les-dc-de-microsoft-ont-consomme-84-millions-de-litres-deau-potable/)
 
+* [Un article sur la consommation électrique des IA](https://www.revolution-energetique.com/voici-la-consommation-delectricite-phenomenale-de-lintelligence-artificielle/) : « Nous pouvons donc estimer à près de 206 GWh la consommation annuelle d’électricité de ChatGPT, soit à-peu-près autant que la République Centrafricaine, le Bénin ou le Sierra-Leone. » et encore on ne parle ici que d’électricité à l’usage, donc sans parler de la fabrication et fin de vie de ces appareils et des autres impacts environnementaux (eau, ressources naturelles, …)
 
 Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 - [À Londres, les data centers de Google et Oracle n’ont pas supporté la chaleur (juillet 2022)](https://www.lefigaro.fr/secteur/high-tech/a-londres-les-data-centers-de-google-et-oracle-n-ont-pas-supporte-la-chaleur-20220720)
