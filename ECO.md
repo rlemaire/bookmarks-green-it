@@ -16,7 +16,6 @@ Liste de liens utiles pour la formation éco conception de services numériques.
 ## Etudes de GreenIT.fr et de ses partenaires 
 - [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) [2019] Le rapport récent de GreenIT.fr sur l'empreinte écologique du numérique au niveau mondial. Basé sur une méthodologie d'ACV.
 - [Impacts environnementaux du numérique en France (iNum)](https://www.greenit.fr/2020/06/23/quels-sont-les-impacts-environnementaux-du-numerique-en-france/) [Juin 2020] Suite du rapport précédent, focalisé sur la France.
-- [WE GREEN IT](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf?utm_source=website&utm_campaign=etude%20wegreenit)
 - [Livre blanc Green Concept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des exemples réels d'éco conception de services numériques.
 - [Le numérique en Europe : une approche des impacts environnementaux par l’analyse du cycle de vie (NumEU)](https://www.greenit.fr/le-numerique-en-europe-une-approche-des-impacts-environnementaux-par-lanalyse-du-cycle-de-vie/)
 - [Benchmark GreenIT](https://www.greenit.fr/benchmark-green-it/)
