@@ -13,13 +13,15 @@ Liste de liens utiles pour la formation éco conception de services numériques.
 
 # Etudes citées dans la formation
 
-## Etudes de GreenIT.fr et de ses partenaires 
+## Etudes sue l'impact du numérique 
 - [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) [2019] Le rapport récent de GreenIT.fr sur l'empreinte écologique du numérique au niveau mondial. Basé sur une méthodologie d'ACV.
 - [Impacts environnementaux du numérique en France (iNum)](https://www.greenit.fr/2020/06/23/quels-sont-les-impacts-environnementaux-du-numerique-en-france/) [Juin 2020] Suite du rapport précédent, focalisé sur la France.
 - [Livre blanc Green Concept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf) - Contient des exemples réels d'éco conception de services numériques.
 - [Le numérique en Europe : une approche des impacts environnementaux par l’analyse du cycle de vie (NumEU)](https://www.greenit.fr/le-numerique-en-europe-une-approche-des-impacts-environnementaux-par-lanalyse-du-cycle-de-vie/)
 - [Benchmark GreenIT](https://www.greenit.fr/benchmark-green-it/)
 - [ARCEP - Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
+- [ADEME / ARCEP - Evaluation de l'impact environnemental du numérique en France et analyse prospective](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html)
+- [ADEME / ARCEP : évaluation de l’empreinte environnementale du numérique en France en 2020, 2030 et 2050](https://www.arcep.fr/uploads/tx_gspublication/dossier-presse-Etude-Ademe-Arcep-lot3_mars2023.pdf)
 
 # Autres liens par chapitres
 
