@@ -158,29 +158,17 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 
 ### Site explicitement écoconçus / appliquant des principes
 
-#### Site gouvernemental :
+**- [Déclaration d'écoconception d'après GreenIT.fr](https://declaration.greenit.fr/) avec une liste d'exemples.** 
 
 - [GOV.UK](https://www.gov.uk/)
-
-#### Site institutionnels / vitrines :
 - [Dalkia, groupe EDF](https://www.dalkia.fr)
 - [EcoloGeek](https://www.ecologeek.fr/)
 - [It's on us](https://www.itsonus.fr/)
 - [Pikselkraft](https://www.pikselkraft.com/)
-
-#### Site marchands :
 - [Commown](https://commown.coop/)
 - [Kaïros Sailing - Ecurie de course : projets sportifs ou responsables](https://www.kairos-jourdain.com/fr/sailing) - également très beau
-- [Un Ecrin Vert - Biocoop Montreuil](https://www.biocoopmontreuil.fr/)
-- [AMAP de Chelles](https://amap-chelles.net/)
-- [La Boutique du Partage](https://www.laboutiquedupartage.fr/)
 - [La Coopérative des Internets](https://www.lacooperativedesinternets.fr/)
-
-#### Sites éditoriaux :
-- [Le Low-tech Lab](https://lowtechlab.org/fr)
-
-#### Autres :
 - [The low impact website](https://lowimpact.organicbasics.com/eur)
-- [https://www.exposition-celtique.bzh/](https://www.exposition-celtique.bzh/)
+- [Le Low-tech Lab](https://lowtechlab.org/fr)
 - [https://politiquesdescommuns.cc/](https://politiquesdescommuns.cc/)
 - [Celtique ? L'expo.](https://www.exposition-celtique.bzh/)
