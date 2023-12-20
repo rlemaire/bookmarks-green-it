@@ -8,6 +8,7 @@
 - [Shift Project - Lean ICT : « Pour une sobriété numérique »](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/) [2018] Rapport généraliste du shift project sur l'empreinte du numérique.
 - [Shift Project - Publication du rapport final « Déployer la sobriété numérique »](https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/)
 - **[Shift Project - Impact environnemental du numérique : tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)**
+- Shift Project [rapports intermédiaires sur les réseaux et les mondes virtuels](https://theshiftproject.org/article/mondes-virtuels-reseaux-publication-rapports-intermediaires/) face à la double contrainte carbone.
 
 
 - [France stratégie - Maîtriser la consommation énergétique du numérique : le progrès technologique n’y suffira pas ](https://www.strategie.gouv.fr/publications/maitriser-consommation-energetique-numerique-progres-technologique-ny-suffira)
@@ -30,6 +31,9 @@
 - [Etude sur le numérique en Europe par l'ACV](https://www.greenit.fr/wp-content/uploads/2021/12/EU-Study-ACV-7-DEC-FR.pdf)
 
 - **[ADEME / ARCEP, « évaluation de l’empreinte du numérique en France et analyse prospective »](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html)**
+
+* [Une étude de Greenpeace](https://green-it.developpez.com/actu/351129/Les-grandes-entreprises-technologiques-doivent-reduire-leurs-emissions-de-CO2-plus-rapidement-selon-Greenpeace-alors-que-les-emissions-des-fournisseurs-de-l-industrie-electronique-sont-en-hausse/) sur les émissions des entreprises technologiques met en avant l'absence d'engagement à la hauteur des enjeux écologiques.
+
 
 ## Vie professionnelle
 

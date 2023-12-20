@@ -28,6 +28,11 @@
 
 - [Que fait Apple ?](https://www.macg.co/aapl/2021/01/une-pomme-plus-verte-apple-recycle-et-reutilise-mais-peut-elle-reduire-118933)
 
+* La Chine [construit le premier data-center commercial sous-marin du monde](https://green-it.developpez.com/actu/351254/La-Chine-construit-un-centre-de-donnees-sous-marin-a-usage-commercial-avec-une-performance-egale-a-6-millions-de-PC-visant-a-economiser-122-millions-de-kWh-d-electricite/).
+* [Google lance un nouveau projet de géothermie](https://green-it.developpez.com/actu/351281/Le-nouveau-projet-d-energie-geothermique-de-Google-est-operationnel-un-nouveau-type-de-centrale-geothermique-alimentera-le-reseau-electrique-qui-dessert-deux-datacenters-de-Google-dans-le-Nevada/) 
+* [Le projet WindCORES propose de placer des centres de données dans des éoliennes](https://green-it.developpez.com/actu/351638/Le-projet-WindCORES-vise-a-reduire-les-emissions-de-carbone-et-a-ameliorer-la-qualite-de-l-air-en-placant-des-centres-de-donnees-a-l-interieur-d-eoliennes/)
+
+
 # Législation
 - Un article du monde décrit [le contenu du réglement européen sur les batteries](https://www.lemonde.fr/pixels/article/2023/07/12/reglement-europeen-sur-les-batteries-du-remplacement-facile-au-recyclage-ce-qui-va-reellement-changer_6181585_4408996.html)
 

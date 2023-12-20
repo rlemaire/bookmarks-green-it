@@ -36,6 +36,7 @@ Des chromebook de seulement trois ans sont menacés d'obsolescence pour des rais
 * [Les premières Apple Watch sont obsolètes](https://www.bfmtv.com/tech/apple/les-premieres-apple-watch-sont-desormais-obsoletes-le-modele-a-18-000-euros-aussi_AV-202310030390.html), même les modèles de luxe.
 * Google [s’engage à mettre à jour ses Pixel Pro pendant 7 ans (en)](https://www.theverge.com/2023/10/4/23899900/google-pixel-8-pro-android-updates-7-years-security-features). Ils s’engagent aussi à [améliorer les performances du système Android](https://www.presse-citron.net/voici-comment-android-va-lutter-contre-lobsolescence-des-smartphones/) pour rendre les appareils plus durables.
 * La NASA a réussi à [mettre à jour un appareil numérique vieux de 46 ans et situé à 24 milliards de km](https://www.huffingtonpost.fr/science/video/la-nasa-envoie-a-la-sonde-voyager-1-une-mise-a-jour-46-ans-apres-son-lancement-et-ca-fonctionne_224826.html)
+* Des trains polonais [ont des verrous logiciels empêchant leur réparation en dehors du centre du fabricant (en)](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 
 ## Obésité logicielle et compatibilité
 

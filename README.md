@@ -57,4 +57,4 @@ permet d'estimer l'impact d'une page web et d'analyser un ensemble de points tec
 comme [Lighthouse](https://developers.google.com/web/tools/lighthouse/) sont intéressants. [PowerAPI](https://powerapi-ng.github.io/) 
 et [Scaphandre](https://github.com/hubblo-org/scaphandre) permettent de mesurer l'énergie utilisée par des processus sur une machine physique.
 Il existe des exemples de sites repsectant des pratiques d'écoconception comme celui de [commown](https://commown.coop/)
-ou [le site du gouvernement anglais](https://www.gov.uk/). 
+ou [le site du gouvernement anglais](https://www.gov.uk/).
