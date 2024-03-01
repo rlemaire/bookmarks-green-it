@@ -111,7 +111,10 @@ IOT ridicule :
 - [France 24 - en Iran, des pannes de courant monstres révèlent le business des fermes à bitcoins chinoises](https://observers.france24.com/fr/moyen-orient/20210201-enqu%C3%AAte-iran-bitcoins-fermes-pannes-courant)
 - [x200 000 : Bitcoin network average energy consumption per transaction compared to VISA network as of 2020](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
 - [Buying a Bitcoin emits 195x as much CO₂ as buying an iPhone](https://blog.yannev.es/buying-a-bitcoin-emits-195x-as-much-co%E2%82%82-as-buying-an-iphone-5c44ee719757)
-* L’entreprise de cryptomonnaies Riot [a gagné plus d’argent avec des subventions reçues en acceptant de réduire son activité qu’avec les bitcoins](https://green-it.developpez.com/actu/348221/Une-entreprise-crypto-au-Texas-gagne-plus-en-faisant-tourner-ses-plateformes-au-ralenti-qu-en-minant-du-Bitcoin-le-Texas-la-paie-des-millions-de-dollars-pour-reduire-sa-consommation-electrique/) qu’elle a miné.
+- L’entreprise de cryptomonnaies Riot [a gagné plus d’argent avec des subventions reçues en acceptant de réduire son activité qu’avec les bitcoins](https://green-it.developpez.com/actu/348221/Une-entreprise-crypto-au-Texas-gagne-plus-en-faisant-tourner-ses-plateformes-au-ralenti-qu-en-minant-du-Bitcoin-le-Texas-la-paie-des-millions-de-dollars-pour-reduire-sa-consommation-electrique/) qu’elle a miné.
+- [Les mineurs de cryptomonnaies doivent désormais déclarer leur consommation d'énergie](https://green-it.developpez.com/actu/353888/Les-grands-mineurs-de-cryptomonnaies-au-USA-doivent-desormais-declarer-leur-consommation-d-energie-au-gouvernement-la-consommation-electrique-mondiale-varie-de-67-TWh-a-240-TWh-en-2023/)
+- [2% de la production d'électricité des USA pour le bitcoin ](https://green-it.developpez.com/actu/353783/Plus-de-2-pourcent-de-la-production-d-electricite-aux-Etats-Unis-est-destinee-au-bitcoin-la-quete-de-richesse-s-accompagne-d-un-lourd-tribut-ecologique/)
+
 
 ## Centres de données et cloud
 

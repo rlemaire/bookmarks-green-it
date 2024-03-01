@@ -40,7 +40,7 @@ Des chromebook de seulement trois ans sont menacés d'obsolescence pour des rais
 
 ## Obésité logicielle et compatibilité
 
-- **[Software disenchantment](http://tonsky.me/blog/disenchantment/)**
+- **[Software disenchantment](http://tonsky.me/blog/disenchantment/)** et [JS Bloat](https://tonsky.me/blog/js-bloat/)
 - [Le monde du logiciel est en train de se détruire... Manifeste pour un développement plus durable](https://greenspector.com/fr/le-monde-du-logiciel-est-en-train-de-se-detruire-manifeste-pour-un-developpement-plus-durable/)
 - [Poids du jeu démineur sur windows au fil du temps](https://pbs.twimg.com/media/EfJQlYOUEAMjUGG?format=png&name=small)
 
@@ -63,4 +63,5 @@ La publicité :
 
 - [Carte de la compatibilité entre versions d'iOS et modèles d'iPhones](https://www.statista.com/chart/5824/ios-iphone-compatibility/)
 - Parts de marché des navigateurs [Récap sur wikipédia](https://fr.wikipedia.org/wiki/Parts_de_march%C3%A9_des_navigateurs_web), [statista](https://www.statista.com/statistics/544400/market-share-of-internet-browsers-desktop/), [w3 counter](https://www.w3counter.com/globalstats.php), [stat counter world](https://gs.statcounter.com/browser-market-share), [stat counter France](https://gs.statcounter.com/browser-market-share/all/france)
+
 

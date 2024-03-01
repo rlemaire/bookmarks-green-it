@@ -34,6 +34,8 @@
 - [Boavizta : les modes de calcul des trois principaux fournisseurs de cloud publics pour l’estimation de l’empreinte carbone des services](https://boavizta.org/blog/calculettes-carbone-clouds-providers).
 - Un projet de stack overflow existe pour [rendre disponible le contenu hors ligne (offline first) (en anglais)](https://stackoverflow.blog/2022/10/20/introducing-the-overflow-offline-project/). C'est pour les prisons, mais également pour des équipes de recherche scientifique ou des écoles dans des zones où l’accès à Internet est limité.
 - [Le mode sombre (en)](https://www.nngroup.com/articles/dark-mode-users-issues/) : il n’est pas prouvé que celui-ci est mieux pour les yeux, il est très difficile à bien réaliser.
+-Performance Web : [un article sur la psychologie et la performance perçue (en)](https://www.speedcurve.com/blog/psychology-site-speed/)
+-Une [présentation du profiler de firefox (en)](https://fosdem.org/2024/schedule/event/fosdem-2024-2716-firefox-power-profiling-a-powerful-visualization-of-web-sustainability/), avec des exemples.
 
 ## Gestion des images
 
