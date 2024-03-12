@@ -5,6 +5,8 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 # Sommaire et liens vers les pages détaillées
 
+Il y a **beaucoup** de liens, un peu en vrac, dans ces pages : 
+
 - [1 - Acteurs du GreenIT](./pages/ACTEURS.md)
 - [2 - Les impact du numériques](./pages/impacts.md)
 - [3 - L'obsolescence](./pages/OBSOLESENCE.md)
