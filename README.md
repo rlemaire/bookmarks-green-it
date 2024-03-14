@@ -11,9 +11,10 @@ Il y a **beaucoup** de liens, un peu en vrac, dans ces pages :
 - [2 - Les impact du numériques](./pages/impacts.md)
 - [3 - L'obsolescence](./pages/OBSOLESENCE.md)
 - [4 - L'éco-conception](./pages/ECOCONCEPTION.md)
-- [5 - L'ACV](./pages/ACV.md)
-- [6 - La législation](./pages/LEGISLATION.md)
-- [7 - Les progrès techniques et la recherche](./pages/progres.md)
+- [5 - Les outils](./pages/outils.md)
+- [6 - L'ACV](./pages/ACV.md)
+- [7 - La législation](./pages/LEGISLATION.md)
+- [8 - Les progrès techniques et la recherche](./pages/progres.md)
 
 
 # L'essentiel : 
@@ -53,10 +54,3 @@ Il existe plusieurs référentiels ou listes de pratiques et de questionnements 
 [les 115 bonnes pratiques du collectif numérique responsable](https://collectif.greenit.fr/ecoconception-web/), le [GR491 de l'INR](https://gr491.isit-europe.org)
 et le [Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) de la MinNumEco.
 Les designers éthiques ont également produit [un guide](https://eco-conception.designersethiques.org/guide/).
-
-Au niveau des outils, GreenIT analysis, extension pour [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr) et [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/)
-permet d'estimer l'impact d'une page web et d'analyser un ensemble de points techhniques. Sur le web, les outils d'analyse de performance
-comme [Lighthouse](https://developers.google.com/web/tools/lighthouse/) sont intéressants. [PowerAPI](https://powerapi-ng.github.io/) 
-et [Scaphandre](https://github.com/hubblo-org/scaphandre) permettent de mesurer l'énergie utilisée par des processus sur une machine physique.
-Il existe des exemples de sites repsectant des pratiques d'écoconception comme celui de [commown](https://commown.coop/)
-ou [le site du gouvernement anglais](https://www.gov.uk/).

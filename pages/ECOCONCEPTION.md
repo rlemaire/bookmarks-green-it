@@ -72,39 +72,17 @@ ine.com/2021/09/modern-image-formats-avif-webp/)
 - [Outils du collectif GreenIT](https://collectif.greenit.fr/outils.html)
 - [Boite à outils numérique écoresponsable du gouvernement français](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/)
 - [Boite à outils de l’INR](https://institutnr.org/outils-ecoconception-accessibilite)
-
-### Outils "green"
-- [Ecoindex](http://www.ecoindex.fr)
-  - [Explication approfondie de l'éco index sur le blog d'Octo](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
-  - [L’analyse d’Octo de la métrique EcoIndex](https://blog.octo.com/sous-le-capot-de-la-mesure-ecoindex/)
-  - [Simulateur d'EcoIndex par Rachel Pellin](https://rachelwe.github.io/Simulateur-ecoindex/)
-- [Ecometer](http://ecometer.org/)
-- **GreenIT analysis [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad?hl=fr), [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/)**
-- [The Green Web Foundation](https://www.thegreenwebfoundation.org/directory/) évaluation de l'hébergement
-- [Surfgreen](https://www.surfgreen.dev/) Analyse de métriques front-end d’un site à partir de son URL : speed index, cpu, … donne des conseils de bonnes pratiques.
-- [web site carbon](https://www.websitecarbon.com/) Donne une évaluation de l'impact de GES d'une URL, et in classement relatif
-- [Ecograder](https://www.ecograder.com/) Agrégateur. Donne plusieurs métriques front à partir d'une URL, sans détailler. uriise des données d'autres calcultateurs.
-- [ML CO2 Impact](https://mlco2.github.io/impact/) Calcul de l’impact carbone uniquement, pour le cas d’utilisation particulier du machine learning.
-- **[PowerAPI](https://powerapi-ng.github.io/)**
-- **[Scaphandre](https://github.com/hubblo-org/scaphandre)**
-- [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) outil de thoughworks, basé sur des estimations en fonction de la quantité de cloud consommé et de l'impact global du fournisseur.
-- [Google fournit l'impact carbone des services hébergés sur son cloud](https://www.youtube.com/watch?v=78cGDCGdajE) - [détail de la méthodo](https://cloud.google.com/carbon-footprint/docs/methodology)
 - [Liste des outils sur ecoresponsable.numerique.gouv.fr](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/)
 - [Vincent Vatelot - D'autres outils ecoindex, pour d'autres besoins](https://www.linkedin.com/pulse/dautres-outils-ecoindex-pour-besoins-vincent-vatelot/?originalSubdomain=fr)
-- [L’outil EcoDiag du CNRS](https://ecoinfo.cnrs.fr/ecodiag-calcul/)
-- [Le site officiel de l’outil GreenFrame](https://greenframe.io/)
 - [Le repository github du collectif conception numérique responsable](https://github.com/orgs/cnumr/repositories?type=all)
-- [Page présentation l’extension Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/)
-- [Site officiel de Greespector](https://greenspector.com/fr/accueil/)
-- [Site du plugin sonar EcoCode.io](https://www.ecocode.io/)
-- [CodeCarbon](https://codecarbon.io/)
 - [API Boavizta: évaluation automatisée des impacts environnementaux des services et équipements numériques](https://boavizta.org/blog/boavizta-api-automated-evaluation-of-ict-impacts-on-the-environment)
+- [Liste d'outils et de ressources de l'INR (en)](https://sustainableit-tools.isit-europe.org/) (référentiel très large qui touche plein de sujets)
 
-- [Liste d'outils et de ressources de l'INR](https://sustainableit-tools.isit-europe.org/) (référentiel très large qui touche plein de sujets)
-- [Calculateur d'impact carbone d'un algorithme](http://calculator.green-algorithms.org/) Avec des inputs type nombre d'heures, de CPU, pays, ...
+### Outils "green"
+
+Voir le fichier [outils](./outils.md)
 
 ### Outils de perfs web et d'accessiblité
-- [Muchas Glacias](https://muchas-glacias.com/)
 - **[L’extension Chrome Google Lightouse](https://developers.google.com/web/tools/lighthouse/)**
 - [sitespeed.io](https://www.sitespeed.io/)
 - [Addy Osmani's 18-Point Web Performance Checklist ](https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1)
