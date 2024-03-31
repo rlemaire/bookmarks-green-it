@@ -34,6 +34,8 @@
 
 * [Une étude de Greenpeace](https://green-it.developpez.com/actu/351129/Les-grandes-entreprises-technologiques-doivent-reduire-leurs-emissions-de-CO2-plus-rapidement-selon-Greenpeace-alors-que-les-emissions-des-fournisseurs-de-l-industrie-electronique-sont-en-hausse/) sur les émissions des entreprises technologiques met en avant l'absence d'engagement à la hauteur des enjeux écologiques.
 
+* [Enquête pour un numérique soutenable de l'ARCEP (2024)](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-210324.html)
+
 
 ## Vie professionnelle
 
