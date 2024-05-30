@@ -33,9 +33,9 @@
 - **[ADEME / ARCEP, « évaluation de l’empreinte du numérique en France et analyse prospective »](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html)**
 
 * [Une étude de Greenpeace](https://green-it.developpez.com/actu/351129/Les-grandes-entreprises-technologiques-doivent-reduire-leurs-emissions-de-CO2-plus-rapidement-selon-Greenpeace-alors-que-les-emissions-des-fournisseurs-de-l-industrie-electronique-sont-en-hausse/) sur les émissions des entreprises technologiques met en avant l'absence d'engagement à la hauteur des enjeux écologiques.
-
 * [Enquête pour un numérique soutenable de l'ARCEP (2024)](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-210324.html)
 
+* [Shift Project : Rapports finaux « Mondes virtuels & Réseaux face à la double contrainte carbone »]
 
 ## Vie professionnelle
 
@@ -153,12 +153,20 @@ IOT ridicule :
 
 - [La Hollande soumise aux pénuries découvre que les DC de Microsoft ont consommé 84 millions de litres d’eau potable](https://datacenter-magazine.fr/la-hollande-soumise-aux-penuries-decouvre-que-les-dc-de-microsoft-ont-consomme-84-millions-de-litres-deau-potable/)
 
-* [Un article sur la consommation électrique des IA](https://www.revolution-energetique.com/voici-la-consommation-delectricite-phenomenale-de-lintelligence-artificielle/) : « Nous pouvons donc estimer à près de 206 GWh la consommation annuelle d’électricité de ChatGPT, soit à-peu-près autant que la République Centrafricaine, le Bénin ou le Sierra-Leone. » et encore on ne parle ici que d’électricité à l’usage, donc sans parler de la fabrication et fin de vie de ces appareils et des autres impacts environnementaux (eau, ressources naturelles, …)
+* [Un article sur la consommation électrique des IA](https://www.revolution-energetique.com/voici-la-consommation-delectricite-phenomenale-de-lintelligence-artificielle/).
+* Boavizta [étude d’évaluation de l'empreinte environnementale du cloud public](https://boavizta.org/blog/evaluation-empreinte-environnementale-cloud-public).
+* [Meta Reality Labs a perdu 3.85 milliards de dollars au premier trimestre 2024](https://www.cnbc.com/2024/04/24/metas-reality-labs-posts-3point85-billion-loss-in-first-quarter.html) et 45 milliards depuis 2020.
+
 
 Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 - [À Londres, les data centers de Google et Oracle n’ont pas supporté la chaleur (juillet 2022)](https://www.lefigaro.fr/secteur/high-tech/a-londres-les-data-centers-de-google-et-oracle-n-ont-pas-supporte-la-chaleur-20220720)
 - [En chine, une usine de semi conducteurs en Chine arrêtée à cause de la chaleur (aout 2022)  (en anglais)](https://jalopnik.com/extreme-heatwave-in-china-shuts-down-semiconductor-fact-1849425110)
 
+## IA générative
+
+* [Un article sur la consommation électrique des IA](https://www.revolution-energetique.com/voici-la-consommation-delectricite-phenomenale-de-lintelligence-artificielle/) : « Nous pouvons donc estimer à près de 206 GWh la consommation annuelle d’électricité de ChatGPT, soit à-peu-près autant que la République Centrafricaine, le Bénin ou le Sierra-Leone. » et encore on ne parle ici que d’électricité à l’usage, donc sans parler de la fabrication et fin de vie de ces appareils et des autres impacts environnementaux (eau, ressources naturelles, …)
+* [L’engagement de Microsoft de devenir « négatif en carbone » est mis à mal par l’augmentation de 30% de leurs émissions](https://microsoft.developpez.com/actu/357928/Les-emissions-de-Microsoft-augmentent-de-29-pourcent-en-raison-de-son-obsession-pour-l-IA-qui-engloutit-les-ressources-et-stimule-l-expansion-des-centres-de-donnees-a-forte-intensite-de-carbone/) à cause de leurs dépenses pour l’IA générative.
+* Une étude estime que [52% des réponses de ChatGPT pour des questions de programmations sont fausses (en)](https://futurism.com/the-byte/study-chatgpt-answers-wrong.)
 
 ## Epuisement des ressources naturelles et exploitation minière
 
@@ -217,6 +225,7 @@ Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 - [EcoInfo : le recyclage des métaux](https://ecoinfo.cnrs.fr/2014/09/03/3-le-recyclage-des-metaux)
 - [L’Obs « La Malaisie renvoie 150 conteneurs de déchets vers plusieurs pays dont la France », janvier 2020](https://www.nouvelobs.com/planete/20200120.OBS23688/la-malaisie-renvoie-150-conteneurs-de-dechets-vers-plusieurs-pays-dont-la-france.html)
 
+* [Global E Waste Monitor 2024](https://www.itu.int/en/ITU-D/Environment/Pages/Publications/The-Global-E-waste-Monitor-2024.aspx), [globalewaste.org](https://globalewaste.org/)
 
 ## Autres
 

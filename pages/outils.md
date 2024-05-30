@@ -65,3 +65,4 @@
 |           Tracarbon           |                                Florian Valeye                                 |                                 https://github.com/fvaleye/tracarbon                                  |
 |         WebSiteCarbon         |                              Wholegrain Digital                               |                                    https://www.websitecarbon.com/                                     |
 |        WeDeex - Chrome        |                                  CSN Energy                                   |           https://chrome.google.com/webstore/detail/wedeex/ojlagggckhpedblhemgjhecbggnibale           |
+|          E-Footprint          |                         Boavizta et Publicis Sapient                          |                         https://github.com/publicissapient-france/e-footprint                         |

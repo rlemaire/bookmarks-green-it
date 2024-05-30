@@ -38,6 +38,9 @@ Des chromebook de seulement trois ans sont menacés d'obsolescence pour des rais
 * La NASA a réussi à [mettre à jour un appareil numérique vieux de 46 ans et situé à 24 milliards de km](https://www.huffingtonpost.fr/science/video/la-nasa-envoie-a-la-sonde-voyager-1-une-mise-a-jour-46-ans-apres-son-lancement-et-ca-fonctionne_224826.html)
 * Des trains polonais [ont des verrous logiciels empêchant leur réparation en dehors du centre du fabricant (en)](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 
+* Developpez.com : [Les AirPods d'Apple sont conçus pour mourir, leurs batteries sont de très courte durée, et leur indice de réparabilité est de 0 sur 10](https://hardware.developpez.com/actu/356844/Les-AirPods-d-Apple-sont-concus-pour-mourir-leurs-batteries-sont-de-tres-courte-duree-et-leur-indice-de-reparabilite-est-de-0-sur-10-c-est-une-honte-environnementale-d-apres-Lucas-Gutterman/)
+* [Arrêt de la 2G et 3G : la mise à mort de millions d’objets](https://reporterre.net/Arret-de-la-2G-et-3G-la-mise-a-mort-de-millions-d-objets).
+
 ## Obésité logicielle et compatibilité
 
 - **[Software disenchantment](http://tonsky.me/blog/disenchantment/)** et [JS Bloat](https://tonsky.me/blog/js-bloat/)
