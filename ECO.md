@@ -84,6 +84,7 @@ Réactions :
 ### Obsolescence
 - [Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
 - [Renouvellement des terminaux mobiles et pratiques commerciales de distribution](https://www.arcep.fr/uploads/tx_gspublication/rapport-renouvellement-terminaux-mobiles-pratiques-commerciales-distribution-juillet2021.pdf?utm_source=pocket_mylist)
+- [Mise en perspective - impactco2.fr](https://impactco2.fr/usagenumerique)
 
 ### Obésité logicielle
 
@@ -111,6 +112,7 @@ Réactions :
 - [Ministère de la transition écologique : Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
 - [GR491, Le guide de Référence de Conception Responsable de Services Numériques - INR, 491 pratiques](https://gr491.isit-europe.org)
 - [Référentiel de GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
+- [RGESN - ARCEP](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html)
 
 
 ## Outils
