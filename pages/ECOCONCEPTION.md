@@ -155,3 +155,4 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 - [https://politiquesdescommuns.cc/](https://politiquesdescommuns.cc/)
 - [Celtique ? L'expo.](https://www.exposition-celtique.bzh/)
 - [Telecoop](https://telecoop.fr/blog/ecoconception-de-notre-site-web).
+- E-Commerce : [boutique natali](https://www.boutique-natali.com/)
