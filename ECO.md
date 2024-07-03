@@ -154,17 +154,40 @@ Réactions :
 
 
 ### Site explicitement écoconçus
+**- [Déclaration d'écoconception d'après GreenIT.fr](https://declaration.greenit.fr/) avec une liste d'exemples.**
 
-- [EcoloGeek](https://www.ecologeek.fr/)
-- [Dalkia, groupe EDF](https://www.dalkia.fr)
-- [Kaïros Sailing - Ecurie de course : projets sportifs ou responsables](https://www.kairos-jourdain.com/fr/sailing) - également très beau
+## Versions light de site connus
+
+
+- [Facebook](https://mbasic.facebook.com/)
+- [CNN](http://lite.cnn.com/en)
+- [Reddit](https://old.reddit.com/)
+
+## Sites minimalistes
+
+Exemples de web frugal : ces sites qui ont toujours été minimalistes et efficaces.
+
 - [GOV.UK](https://www.gov.uk/)
-- [Un Ecrin Vert - Biocoop Montreuil](https://www.biocoopmontreuil.fr/)
-- [AMAP de Chelles](https://amap-chelles.net/)
-- [La Boutique du Partage](https://www.laboutiquedupartage.fr/)
-- [La Coopérative des Internets](https://www.lacooperativedesinternets.fr/)
-- [Le Low-tech Lab partage les solutions et l'esprit low-tech](https://lowtechlab.org/fr)
-- [Grenoble Alpes Métropole](https://www.grenoblealpesmetropole.fr/302-eco-conception.htm)
+- **[How to Build a Low-tech Website? - LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)** - Exemple de site minimaliste et déployé sur un seul serveur alimenté par un panneau solaire.
+  - [LOW←TECH MAGAZINE - How sustainable is a solar powered website ?](https://solar.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website.html) Après avoir produit un site « low tech » alimenté par un panneau solaire le magazine analyse la durabilité de cette méthode.
+  - [Rebuilding a solar website](https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/)
+- [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)
+- [Craigslist](https://paris.craigslist.org/)
+
+- [50 exemples de sites internet basse consommation ](https://www.linkedin.com/pulse/48-exemples-de-sites-internet-basse-consommation-c%C3%A9dric-liardet/)
+
+## Site explicitement écoconçus / appliquant des principes
+
+
+- [Dalkia, groupe EDF](https://www.dalkia.fr)
+- [EcoloGeek](https://www.ecologeek.fr/)
+- [Commown](https://commown.coop/)
+- [Kaïros Sailing - Ecurie de course : projets sportifs ou responsables](https://www.kairos-jourdain.com/fr/sailing) - également très beau
+- [Le Low-tech Lab](https://lowtechlab.org/fr)
+- [Celtique ? L'expo.](https://www.exposition-celtique.bzh/)
+- [Telecoop](https://telecoop.fr/blog/ecoconception-de-notre-site-web).
+- E-Commerce : [boutique natali](https://www.boutique-natali.com/)
+- Vitrine de restaurant : [Le vaisseau](https://www.restaurant-vaisseau.com/)
 
 # Divers
 
