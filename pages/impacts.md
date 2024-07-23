@@ -76,6 +76,8 @@
 
 * [Un article de iFixIt sur les pièces appariée](https://fr.ifixit.com/News/78830/lappariement-des-pieces-met-la-reparation-electronique-independante-en-danger)
 
+- [Détail des métaux d'un smartphone par SysExt](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/7)
+ 
 IOT ridicule :
 
 - [Fil dentaire connecté](https://www.kickstarter.com/projects/flosstime/flosstime-worlds-first-smart-floss-dispenser)
