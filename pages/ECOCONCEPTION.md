@@ -53,21 +53,24 @@ ine.com/2021/09/modern-image-formats-avif-webp/)
 
 - **[Les 115 bonnes pratiques du collectif numérique responsable](https://collectif.greenit.fr/ecoconception-web/)**
 - **[GR491, Le guide de Référence de Conception Responsable de Services Numériques - INR, 491 pratiques](https://gr491.isit-europe.org)**
-- **[ecoresponsable.numerique.gouv.fr : Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)**
+- [ecoresponsable.numerique.gouv.fr : Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
 - [ecoresponsable.numerique.gouv.fr : Guide de bonnes pratiques numérique responsable pour les organisations](https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/)
 - [Référentiel de GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
 - [Référentiel des 65 bonnes pratiques de l’INR](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf)
 - [ADEME - Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/dechets-economie-circulaire/4739-guide-de-questionnement-pour-le-developpement-de-services-numeriques.html)
 - [club.greenit.fr - 74 bonnes pratiques clés pour un numérique plus responsable](https://club.greenit.fr/doc/2022-06-GREENIT-Referentiel_maturite-v3.pdf)
 - [AFNOR SPEC 2201 - Ecoconception des services numériques](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2201/ecoconception-des-services-numeriques/fa203506/323315)
-- **[Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/)**
+- [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/)
 - [Guidelines d’Apple pour la gestion de la mémoire dans les applications iOS](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html)
 - [Guidelines de Google pour la gestion de la mémoire dans les applications Android](https://developer.android.com/training/connectivity)
 - [Catalogue des patterns de gestion de l’énergie pour les applications mobiles de « The Quasar Research Group »](https://tqrg.github.io/energy-patterns/#/)
 - [La checklist d’Opquast](https://checklists.opquast.com/fr/assurance-qualite-web/)
 - [Le guide RGPD de la CNIL](https://lincnil.github.io/Guide-RGPD-du-developpeur/)
 - [Le RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
-* Le W3C a sorti [un brouillon de guidelines pour un web écoresponsable (en)](https://w3c.github.io/sustyweb/glance.html#abstract).
+- [un brouillon de guidelines pour un web écoresponsable (en)](https://w3c.github.io/sustyweb/glance.html#abstract) par le w3c.
+- **[Le RGESN de l'ARCEP](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html)**
+- [« référentiel général pour l'IA frugale » de l'AFNOR](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2314/referentiel-general-pour-lia-frugale-mesurer-et-reduire-limpact-environneme/fa208976/421140)
+
 
 ## Outils (listes)
 

@@ -32,10 +32,12 @@
 
 - **[ADEME / ARCEP, « évaluation de l’empreinte du numérique en France et analyse prospective »](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html)**
 
-* [Une étude de Greenpeace](https://green-it.developpez.com/actu/351129/Les-grandes-entreprises-technologiques-doivent-reduire-leurs-emissions-de-CO2-plus-rapidement-selon-Greenpeace-alors-que-les-emissions-des-fournisseurs-de-l-industrie-electronique-sont-en-hausse/) sur les émissions des entreprises technologiques met en avant l'absence d'engagement à la hauteur des enjeux écologiques.
-* [Enquête pour un numérique soutenable de l'ARCEP (2024)](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-210324.html)
+- [Une étude de Greenpeace](https://green-it.developpez.com/actu/351129/Les-grandes-entreprises-technologiques-doivent-reduire-leurs-emissions-de-CO2-plus-rapidement-selon-Greenpeace-alors-que-les-emissions-des-fournisseurs-de-l-industrie-electronique-sont-en-hausse/) sur les émissions des entreprises technologiques met en avant l'absence d'engagement à la hauteur des enjeux écologiques.
+- **[Enquête pour un numérique soutenable de l'ARCEP (2024)](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-210324.html)**
 
-* [Shift Project : Rapports finaux « Mondes virtuels & Réseaux face à la double contrainte carbone »]
+- [Shift Project : Rapports finaux « Mondes virtuels & Réseaux face à la double contrainte carbone »](https://theshiftproject.org/article/mondes-virtuels-reseaux-publication-des-rapports-finaux/)
+
+- France Stratégie : [note d'analyse sur la contribution du numérique à la décarbonation](https://www.strategie.gouv.fr/publications/contribution-numerique-decarbonation).
 
 ## Vie professionnelle
 
@@ -59,25 +61,18 @@
 ## Terminaux et matériel
 - [Gauthier Roussilhe - Impacts des terminaux](https://www.gauthierroussilhe.com/fr/posts/smartphones-4g5g)
 - [Gauthier Roussilhe « Eau et puces électroniques : l’avenir climatique et industriel de Taiwan », avril 2021](https://gauthierroussilhe.com/post/chip-water-taiwan.html)
--
 - [ADEME - Évaluation de l'impact environnemental d'un ensemble de produits reconditionnés](https://librairie.ademe.fr/consommer-autrement/5690-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html)
-
 - [ADEME - Infographie - Ces objets qui pèsentlourd dans notre quotidien](http://multimedia.ademe.fr/infographies/infographie-poids-carbone/)
 - [Sciences et Avenir - De quoi est fait votre iPhone ?](https://www.sciencesetavenir.fr/high-tech/chimie-de-quoi-est-fait-votre-iphone_35674)
-
 - [Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
 - [Renouvellement des terminaux mobiles et pratiques commerciales de distribution](https://www.arcep.fr/uploads/tx_gspublication/rapport-renouvellement-terminaux-mobiles-pratiques-commerciales-distribution-juillet2021.pdf)
-
 - [Number of smartphones sold to end users worldwide from 2007 to 2021](https://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/)
-
 - [Les émissions de CO2 liées aux smartphones sont largement sous-estimées par les pouvoirs publics](https://www.lemonde.fr/pixels/article/2023/03/10/le-bilan-carbone-des-smartphones-largement-sous-estime_6165009_4408996.html)
-
 - [Fairphone - behind the screens](https://www.fairphone.com/en/behind-the-screens/)
-
 * [Un article de iFixIt sur les pièces appariée](https://fr.ifixit.com/News/78830/lappariement-des-pieces-met-la-reparation-electronique-independante-en-danger)
-
 - [Détail des métaux d'un smartphone par SysExt](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/7)
- 
+- [Anatomie d’un smartphone : quels sont les composants les plus polluants dans un téléphone ?](https://www.lesnumeriques.com/telephone-portable/anatomie-d-un-smartphone-quels-sont-les-composants-les-plus-polluants-dans-un-telephone-a223400.html)
+
 IOT ridicule :
 
 - [Fil dentaire connecté](https://www.kickstarter.com/projects/flosstime/flosstime-worlds-first-smart-floss-dispenser)
@@ -85,6 +80,7 @@ IOT ridicule :
 - [Slip Connecté](https://www.olybop.fr/concept-i-slip-le-slip-connecte-et-son-app-mobile/)
 - [Les risques associés à l'IOT](https://repo.revision.io/repository/)
 - [Robot qui détecte les détritus, mais ne nettoie pas](https://www.wbur.org/bostonomix/2019/03/22/marty-robot-stop-and-shop)
+- [Corde à sauter connectée à 200$, avec un abonnement à 12$ par mois](https://www.theverge.com/24134172/crossrope-amp-jump-rope-set-review).
 
 ## Usages (transfert de données, vidéo, ...)
 
