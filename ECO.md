@@ -103,7 +103,8 @@ Réactions :
 
 - [Présentation sur le low tech web)](https://www.youtube.com/watch?v=w6BmIX564gk)
 - [Site de la Deutsche Bahn normal](https://www.bahn.de/) et [minimaliste](https://reiseauskunft.bahn.de/bin/query.exe/el)
-
+- [Site du designer pour la mise en perspective](https://ichimnetz.com/)
+- [1.2.Train](https://www.12train.com/)
 
 ## Référentiels
 
