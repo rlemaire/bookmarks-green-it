@@ -189,6 +189,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 - [Telecoop](https://telecoop.fr/blog/ecoconception-de-notre-site-web).
 - E-Commerce : [boutique natali](https://www.boutique-natali.com/)
 - Vitrine de restaurant : [Le vaisseau](https://www.restaurant-vaisseau.com/)
+- [Déclaratation d'écoconception sur le site de GreenIT, avec une liste d'exemples](https://declaration.greenit.fr/)
 
 # Divers
 
