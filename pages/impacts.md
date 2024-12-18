@@ -1,4 +1,4 @@
-# Impact du numérique
+~~# Impact du numérique
 
 ## Etudes et articles généralistes
 
@@ -38,6 +38,12 @@
 - [Shift Project : Rapports finaux « Mondes virtuels & Réseaux face à la double contrainte carbone »](https://theshiftproject.org/article/mondes-virtuels-reseaux-publication-des-rapports-finaux/)
 
 - France Stratégie : [note d'analyse sur la contribution du numérique à la décarbonation](https://www.strategie.gouv.fr/publications/contribution-numerique-decarbonation).
+
+- L’Arcom, l’Arcep et l’ADEME publient [une étude sur l’impact environnemental des usages audiovisuels en France en 2022 et à l’horizon 2030](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-071024.html).
+- L'ARCEP a une page d'[observatoire des impacts environnementaux du numérique](https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/observatoire-impacts-environnementaux-numerique-arcep-ademe.html).
+
+- [Dernière édition du Benchmark GreenIT](https://www.greenit.fr/2024/09/23/numerique-au-bureau-jusqua-60-de-notre-budget-annuel-soutenable/).
+
 
 ## Vie professionnelle
 
@@ -160,11 +166,16 @@ Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 - [À Londres, les data centers de Google et Oracle n’ont pas supporté la chaleur (juillet 2022)](https://www.lefigaro.fr/secteur/high-tech/a-londres-les-data-centers-de-google-et-oracle-n-ont-pas-supporte-la-chaleur-20220720)
 - [En chine, une usine de semi conducteurs en Chine arrêtée à cause de la chaleur (aout 2022)  (en anglais)](https://jalopnik.com/extreme-heatwave-in-china-shuts-down-semiconductor-fact-1849425110)
 
+
+* Carbone 4 a sorti un super [article sur les émissions des fournisseurs de Cloud](https://www.carbone4.com/article-numerique-cloud-emissions-cachees).
+
 ## IA générative
 
 * [Un article sur la consommation électrique des IA](https://www.revolution-energetique.com/voici-la-consommation-delectricite-phenomenale-de-lintelligence-artificielle/) : « Nous pouvons donc estimer à près de 206 GWh la consommation annuelle d’électricité de ChatGPT, soit à-peu-près autant que la République Centrafricaine, le Bénin ou le Sierra-Leone. » et encore on ne parle ici que d’électricité à l’usage, donc sans parler de la fabrication et fin de vie de ces appareils et des autres impacts environnementaux (eau, ressources naturelles, …)
 * [L’engagement de Microsoft de devenir « négatif en carbone » est mis à mal par l’augmentation de 30% de leurs émissions](https://microsoft.developpez.com/actu/357928/Les-emissions-de-Microsoft-augmentent-de-29-pourcent-en-raison-de-son-obsession-pour-l-IA-qui-engloutit-les-ressources-et-stimule-l-expansion-des-centres-de-donnees-a-forte-intensite-de-carbone/) à cause de leurs dépenses pour l’IA générative.
 * Une étude estime que [52% des réponses de ChatGPT pour des questions de programmations sont fausses (en)](https://futurism.com/the-byte/study-chatgpt-answers-wrong.)
+* Frédéric Bordage a réalisé et partagé [un calcul sur les impacts environnementaux de l'IA](https://www.greenit.fr/2024/08/15/quels-sont-les-impacts-environnementaux-de-lia/).
+*IA dont la mention dans le marketing d'un produit [rebute fortement les consommateurs](https://intelligence-artificielle.developpez.com/actu/360963/L-utilisation-des-mots-intelligence-artificielle-dans-le-marketing-d-un-produit-rebute-fortement-les-consommateurs-les-entreprises-qui-tentent-d-integrer-l-IA-dans-leur-produit-commettent-une-grave-erreur/).
 
 ## Epuisement des ressources naturelles et exploitation minière
 
@@ -237,3 +248,7 @@ Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 - [le Monde - Réchauffement climatique : la face obscure de l’intelligence artificielle](https://www.lemonde.fr/sciences/article/2023/05/01/rechauffement-climatique-la-face-obscure-de-l-intelligence-artificielle_6171688_1650684.html)
 
 - [Carte des réseaux mobiles de l'ARCEP](https://monreseaumobile.arcep.fr/)
+
+
+
+

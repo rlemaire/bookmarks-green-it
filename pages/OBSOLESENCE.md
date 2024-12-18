@@ -41,6 +41,13 @@ Des chromebook de seulement trois ans sont menacés d'obsolescence pour des rais
 * Developpez.com : [Les AirPods d'Apple sont conçus pour mourir, leurs batteries sont de très courte durée, et leur indice de réparabilité est de 0 sur 10](https://hardware.developpez.com/actu/356844/Les-AirPods-d-Apple-sont-concus-pour-mourir-leurs-batteries-sont-de-tres-courte-duree-et-leur-indice-de-reparabilite-est-de-0-sur-10-c-est-une-honte-environnementale-d-apres-Lucas-Gutterman/)
 * [Arrêt de la 2G et 3G : la mise à mort de millions d’objets](https://reporterre.net/Arret-de-la-2G-et-3G-la-mise-a-mort-de-millions-d-objets).
 
+* Les bandes magnétiques, [une option durable, dans tous les sens du terme, pour le stockage (en)](https://www.intelligentdatacentres.com/2022/12/29/tape-the-sustainable-option-for-modern-data-storage-and-archiving-needs/)
+* Il est possible de [faire tourner le jeu Doom sur un test de grossesse](https://x.com/Foone/status/1302820468819288066)
+* Bonne nouvelle : [Microsoft autorise finalement l'installation de Windows 11 sur les anciens ordinateurs](https://les-enovateurs.com/breves/microsoft-retropedale-autorise-windows-11-anciens-ordinateurs).
+* [Les disques durs de l’industrie musicale des années 90 deviennent illisibles (en)](https://www.wired.com/story/music-industry-hard-drive-storage-archives/).
+* [A cette adresse (en)](http://lc.daveki.ng:4080/) vous trouverez une page servie par un 486 et lue depuis une disquette 5.25" 💾
+
+
 ## Obésité logicielle et compatibilité
 
 - **[Software disenchantment](http://tonsky.me/blog/disenchantment/)** et [JS Bloat](https://tonsky.me/blog/js-bloat/)

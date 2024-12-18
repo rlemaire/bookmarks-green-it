@@ -12,3 +12,5 @@
 - [Point de MIR](http://www.point-de-mir.com/)
 - [Commown](https://commown.coop/)
 - [Panorama des acteurs Numérique Responsable par une ESN](https://aelan.fr/posts/panorama-des-acteurs-numerique-responsable-1ere-edition)
+
+* [Une carte mondiale des acteurs du numérique responsable (en)](https://drsmap.alliancegreenit.org/map-of-actors).

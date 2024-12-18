@@ -140,6 +140,7 @@ Exemples de web frugal : ces sites qui ont toujours été minimalistes et effica
 - [50 exemples de sites internet basse consommation ](https://www.linkedin.com/pulse/48-exemples-de-sites-internet-basse-consommation-c%C3%A9dric-liardet/)
 - [Collection de sites minimalistes lowww.directory](https://www.lowww.directory/)
 - Une [liste de sites de moins de 10kb (en anglais)](https://10kbclub.com/)
+- [1.2.train](https://www.12train.com/), une alternative à SNCF Connect extrêmement sobre, maintenue par une seule personne. Voici [un post LInkedIn où il en parle](https://www.linkedin.com/posts/jeanbaptistemarie_voici-les-r%C3%A9ponses-aux-9-questions-indiscr%C3%A8tes-activity-7231643461781721089-DtPg/) 🚂
 
 ### Site explicitement écoconçus / appliquant des principes
 
