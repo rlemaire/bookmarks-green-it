@@ -47,6 +47,9 @@ Des chromebook de seulement trois ans sont menacés d'obsolescence pour des rais
 * [Les disques durs de l’industrie musicale des années 90 deviennent illisibles (en)](https://www.wired.com/story/music-industry-hard-drive-storage-archives/).
 * [A cette adresse (en)](http://lc.daveki.ng:4080/) vous trouverez une page servie par un 486 et lue depuis une disquette 5.25" 💾
 
+* Bonne nouvelle : [Microsoft autorise finalement l'installation de Windows 11 sur les anciens ordinateurs](https://les-enovateurs.com/breves/microsoft-retropedale-autorise-windows-11-anciens-ordinateurs).
+* [Un ordinateur 8 bit reconstruit avec des composants des années 50 (en)](https://www.thetubecomputer.com/), « qui brille et chauffe toute une pièce »
+
 
 ## Obésité logicielle et compatibilité
 

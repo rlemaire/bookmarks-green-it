@@ -14,3 +14,5 @@
 - [Panorama des acteurs Numérique Responsable par une ESN](https://aelan.fr/posts/panorama-des-acteurs-numerique-responsable-1ere-edition)
 
 * [Une carte mondiale des acteurs du numérique responsable (en)](https://drsmap.alliancegreenit.org/map-of-actors).
+
+- L'ARCEP a une page d'[observatoire des impacts environnementaux du numérique](https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/observatoire-impacts-environnementaux-numerique-arcep-ademe.html) réunissant pas mal d'études sorties ces dernières années et qui sera tenue à jour.

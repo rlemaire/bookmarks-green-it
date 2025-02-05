@@ -44,6 +44,8 @@
 
 - [Dernière édition du Benchmark GreenIT](https://www.greenit.fr/2024/09/23/numerique-au-bureau-jusqua-60-de-notre-budget-annuel-soutenable/).
 
+-[Let's bend the curve (en)](https://www.letsbendthecurve.com/) une page assez bien faite sur l'impact du numérique et les actions possibles, avec le point de vue de la Green Software Foundation.
+
 
 ## Vie professionnelle
 

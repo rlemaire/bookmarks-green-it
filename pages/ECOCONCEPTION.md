@@ -37,7 +37,8 @@
 - Performance Web : [un article sur la psychologie et la performance perçue (en)](https://www.speedcurve.com/blog/psychology-site-speed/)
 - Une [présentation du profiler de firefox (en)](https://fosdem.org/2024/schedule/event/fosdem-2024-2716-firefox-power-profiling-a-powerful-visualization-of-web-sustainability/), avec des exemples.
 - Une [enquête sur le GreenOps (en)](https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/), par le fonds ClimateAction (à base de sondages avec 2 680 répondants) confirme que se focaliser sur les aspects "durables" permet de faire des économies.
-
+- Sur le blog Zenika : [Sondage: Comment l’écoconception de services numériques est-elle déployée chez nos clients ?](https://blog.zenika.com/2024/12/03/sondage-comment-lecoconception-de-services-numeriques-est-elle-deployee-chez-nos-clients/)
+- Sur le blog Zenika : [Quels gains chiffrés attendre de l’écoconception ?](https://blog.zenika.com/2024/12/03/quels-gains-chiffres-attendre-de-lecoconception/).
 
 ## Gestion des images
 

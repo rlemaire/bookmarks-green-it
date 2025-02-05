@@ -28,21 +28,12 @@
 
 - [Que fait Apple ?](https://www.macg.co/aapl/2021/01/une-pomme-plus-verte-apple-recycle-et-reutilise-mais-peut-elle-reduire-118933)
 
-* La Chine [construit le premier data-center commercial sous-marin du monde](https://green-it.developpez.com/actu/351254/La-Chine-construit-un-centre-de-donnees-sous-marin-a-usage-commercial-avec-une-performance-egale-a-6-millions-de-PC-visant-a-economiser-122-millions-de-kWh-d-electricite/).
-* [Google lance un nouveau projet de géothermie](https://green-it.developpez.com/actu/351281/Le-nouveau-projet-d-energie-geothermique-de-Google-est-operationnel-un-nouveau-type-de-centrale-geothermique-alimentera-le-reseau-electrique-qui-dessert-deux-datacenters-de-Google-dans-le-Nevada/) 
-* [Le projet WindCORES propose de placer des centres de données dans des éoliennes](https://green-it.developpez.com/actu/351638/Le-projet-WindCORES-vise-a-reduire-les-emissions-de-carbone-et-a-ameliorer-la-qualite-de-l-air-en-placant-des-centres-de-donnees-a-l-interieur-d-eoliennes/)
+- La Chine [construit le premier data-center commercial sous-marin du monde](https://green-it.developpez.com/actu/351254/La-Chine-construit-un-centre-de-donnees-sous-marin-a-usage-commercial-avec-une-performance-egale-a-6-millions-de-PC-visant-a-economiser-122-millions-de-kWh-d-electricite/).
+- [Google lance un nouveau projet de géothermie](https://green-it.developpez.com/actu/351281/Le-nouveau-projet-d-energie-geothermique-de-Google-est-operationnel-un-nouveau-type-de-centrale-geothermique-alimentera-le-reseau-electrique-qui-dessert-deux-datacenters-de-Google-dans-le-Nevada/)
+- [Le projet WindCORES propose de placer des centres de données dans des éoliennes](https://green-it.developpez.com/actu/351638/Le-projet-WindCORES-vise-a-reduire-les-emissions-de-carbone-et-a-ameliorer-la-qualite-de-l-air-en-placant-des-centres-de-donnees-a-l-interieur-d-eoliennes/)
 
+- [Le premier satellite en bois envoyé dans l’espace](https://www.dw.com/en/worlds-first-wooden-satellite-launched-into-space/a-70691359). Eh oui le bois est léger et il ne pourrit pas dans l’espace en l’absence d’humidité, de plus c’est moins polluant à la rentrée dans l’atmosphère en fin de vie.
+- Un concept de batterie [à base de diamant de carbone 14 (!) (en)](https://interestingengineering.com/energy/worlds-first-carbon-14-diamond-battery) qui pourrait durer des milliers d'années.
 
 # Législation
 - Un article du monde décrit [le contenu du réglement européen sur les batteries](https://www.lemonde.fr/pixels/article/2023/07/12/reglement-europeen-sur-les-batteries-du-remplacement-facile-au-recyclage-ce-qui-va-reellement-changer_6181585_4408996.html)
-
-
-# IT 4 Green
-
-
-- [Le numérique est-il un progrès durable ? - Hors de série de pour la science en partenariat avec l'INRIA](https://www.inria.fr/fr/numerique-progres-durable-environnement-pour-la-science)
-
-- [IBM research, climate and sustainability](https://research.ibm.com/teams/climate-and-sustainability)
-- [Les projets de recherche de Google Deep Mind](https://deepmind.com/blog?filters_and=%7B%22category%22:%5B%22Research%22%5D%7D)
-- [Microsoft AI for earth](https://www.microsoft.com/en-us/ai/ai-for-earth)
-- [Changements climatiques : une meilleure prédiction des canicules grâce à l’IA](https://www.cnrs.fr/fr/changements-climatiques-une-meilleure-prediction-des-canicules-grace-lia)
