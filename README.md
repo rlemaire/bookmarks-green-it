@@ -15,6 +15,7 @@ Il y a **beaucoup** de liens, un peu en vrac, dans ces pages :
 - [6 - L'ACV](./pages/ACV.md)
 - [7 - La législation](./pages/LEGISLATION.md)
 - [8 - Les progrès techniques et la recherche](./pages/progres.md)
+- [9 - IT 4 Green](./pages/it4green.md)
 
 
 # Morceaux choisis : 
