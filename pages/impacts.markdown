@@ -1,4 +1,7 @@
-~~# Impact du numérique
+---
+layout: page
+---
+# Impact du numérique
 
 ## Etudes et articles généralistes
 

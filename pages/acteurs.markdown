@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Acteurs
 
 - **[EcoInfo - CNRS](https://ecoinfo.cnrs.fr/)**

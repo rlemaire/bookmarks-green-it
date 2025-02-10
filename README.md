@@ -7,16 +7,16 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 Il y a **beaucoup** de liens, un peu en vrac, dans ces pages : 
 
-- [1 - Acteurs du GreenIT](./pages/ACTEURS.md)
-- [2 - Les impact du numériques](./pages/impacts.md)
-- [3 - L'obsolescence](./pages/OBSOLESENCE.md)
-- [4 - L'éco-conception](./pages/ECOCONCEPTION.md)
-- [5 - Les outils](./pages/outils.md)
-- [6 - L'ACV](./pages/ACV.md)
-- [7 - La législation](./pages/LEGISLATION.md)
-- [8 - Les progrès techniques et la recherche](./pages/progres.md)
-- [9 - IT 4 Green](./pages/it4green.md)
-- [10 - IA / IA générative](./pages/ia.md)
+- [1 - Acteurs du GreenIT](./pages/ACTEURS)
+- [2 - Les impact du numériques](./pages/impacts)
+- [3 - L'obsolescence](./pages/obsolescence)
+- [4 - L'éco-conception](./pages/ecoconception)
+- [5 - Les outils](./pages/outils)
+- [6 - L'ACV](./pages/acv)
+- [7 - La législation](./pages/legislation)
+- [8 - Les progrès techniques et la recherche](./pages/progres)
+- [9 - IT 4 Green](./pages/it4green)
+- [10 - IA / IA générative](./pages/ia)
 
 
 # Morceaux choisis : 

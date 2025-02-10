@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # IA et IA générative
 
  * [AFNOR SPEC 2314](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2314/referentiel-general-pour-lia-frugale-mesurer-et-reduire-limpact-environneme/fa208976/421140) - Référentiel général pour l'IA frugale - Mesurer et réduire l'impact environnemental de l'IA

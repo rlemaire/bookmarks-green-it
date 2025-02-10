@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Législation
 
 - [Topo sur la loi REEN](https://www.vie-publique.fr/loi/278056-loi-15-novembre2021-reen-reduire-empreinte-environnementale-du-numerique)

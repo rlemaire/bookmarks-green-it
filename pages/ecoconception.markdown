@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Solutions : EcoConception, amélioration des entreprises et SI
 
 - **[GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)**
@@ -86,7 +89,7 @@ ine.com/2021/09/modern-image-formats-avif-webp/)
 
 ### Outils "green"
 
-Voir le fichier [outils](./outils.md)
+Voir le fichier [outils](./outils)
 
 ### Outils de perfs web et d'accessiblité
 - **[L’extension Chrome Google Lightouse](https://developers.google.com/web/tools/lighthouse/)**

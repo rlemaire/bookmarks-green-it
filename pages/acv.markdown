@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # ACV
 
 - [Guide Methodologique de l'ACV des Logiciels](https://greenspector.com/wp-content/uploads/2020/01/GREENSPECTOR_Guide_Methodologique_ACV_des_Logiciels.pdf) par Greenspector.

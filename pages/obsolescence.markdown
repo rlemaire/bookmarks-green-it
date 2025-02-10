@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Obsolescence
 
 - **[Livre Blanc HOP](https://www.halteobsolescence.org/wp-content/uploads/2019/02/Livre-Blanc.pdf)**

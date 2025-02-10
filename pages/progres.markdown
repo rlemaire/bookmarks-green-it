@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Progrès technique et recherche
 - [Travail de recherche pour le recyclage des smartphones](https://france3-regions.francetvinfo.fr/grand-est/environnement-et-si-votre-vieux-telephone-donnait-son-c-ur-a-la-science-2161363.html), en lorraine, et avec des déchets agro alimentaires en plus !
 - [First commercially viable lithium metal solid state battery charges to 80% in just 15 minute](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
