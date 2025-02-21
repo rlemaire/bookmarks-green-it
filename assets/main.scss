@@ -2,4 +2,91 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minima";
+$bleu:               #568DC8;
+$vert-fonce:         #537602;
+$vert-clair:         #C3DE02;
+$main-text-color:    #333;
+$gris-fonce: #666;
+$hightlight-color:   #EEF;
+
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: $main-text-color;
+  background-color: white;
+  text-align: left;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: $bleu;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: $gris-fonce;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.wrapper {
+  max-width: 45rem;
+  margin: auto;
+  overflow: hidden;
+}
+
+
+h1, h2, h3, h4, h5, .post-title {
+  font-weight: bold;
+  font-family: "Georgia", serif;
+  letter-spacing: .05rem;
+  color: $vert-fonce;
+}
+
+h1, .post-content h1 {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+h2, .post-content h2 {
+  font-size: 140%;
+}
+
+h3, .post-content h3 {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 1em;
+  list-style-type: circle;
+}
+
+.site-header {
+  background-color:  $bleu;
+  margin: 0;
+  padding: 0.5em 0 0.5em 0;
+}
+
+.site-header a {
+  color: white;
+  font-size: larger;
+}
+
+.site-footer {
+  border: 0;
+  padding: 1rem 0 .2rem 0;
+  font-size: smaller;
+  font-style: italic;
+  text-align: center;
+  color: $gris-fonce;
+  margin-top: auto;
+}

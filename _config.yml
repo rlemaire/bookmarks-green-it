@@ -20,10 +20,6 @@
 
 title: Collection de liens sur le Green IT et l'écoconception de services numériques.
 email: lemaire.raphael@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Ce site est une collectin de liens sur le Green IT et l'écoconception de services numériques. Il comprend des 
-  sections sur les impacts du numérique, les acteurs, l'IT 4 Green, l'écoconception, la législation, les outils, 
-  les progrès techniques, l'IA générative, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rlemaire
