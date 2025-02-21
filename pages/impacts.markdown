@@ -112,7 +112,7 @@ Autres
 
 - Carbone 4 - [Empreinte carbone du cloud : Amazon, Microsoft et Google ont-ils la tête dans les nuages ?](https://www.carbone4.com/analyse-empreinte-carbone-du-cloud)
 
-- Boavizta - [Les réductions d'émissions de CO2 promises par les Cloud providers sont elles réalistes?](https://boavizta.org/blog/les-reductions-d-emissions-de-co2-promises-par-les-cloud-providers-sont-elles-realistes?utm_source=pocket_saves)
+- Boavizta - [Les réductions d'émissions de CO2 promises par les Cloud providers sont elles réalistes?](https://boavizta.org/blog/les-reductions-d-emissions-de-co2-promises-par-les-cloud-providers-sont-elles-realistes)
 - Boavizta - [Comprendre les résultats des calculettes carbone des clouds providers](https://boavizta.org/blog/calculettes-carbone-clouds-providers)
 
 - [La Hollande soumise aux pénuries découvre que les DC de Microsoft ont consommé 84 millions de litres d’eau potable](https://datacenter-magazine.fr/la-hollande-soumise-aux-penuries-decouvre-que-les-dc-de-microsoft-ont-consomme-84-millions-de-litres-deau-potable/)
