@@ -14,3 +14,4 @@ layout: page
 - [Projet de jumeau numérique des sols](https://www.actuia.com/actualite/agriculture-connectee-et-durable-systemx-lance-le-projet-jumeau-numerique-des-sols-jns/).
 - [L’IA pourrait bouleverser la mise au point d’antivenins](https://www.lemonde.fr/sciences/article/2025/01/21/l-ia-pourrait-bouleverser-la-mise-au-point-d-antivenins_6509034_1650684.html)
 - Un chatbot spécialisé pour mieux comprendre le climat : [http://www.climateqa.com/](http://www.climateqa.com/).
+- [Détection de filets de pêche dérivants (en)](https://www.wwf.mg/en/food/?17053441/With-AI-against-Ghost-Nets-Mission-GhostNetZero)
