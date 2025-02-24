@@ -3,14 +3,11 @@ layout: page
 ---
 # IA et IA générative
 
-* [AFNOR SPEC 2314](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2314/referentiel-general-pour-lia-frugale-mesurer-et-reduire-limpact-environneme/fa208976/421140) - Référentiel général pour l'IA frugale - Mesurer et réduire l'impact environnemental de l'IA
-* Numeum : [guide de mise en oeuvre de l'IA Act](https://numeum.fr/actu-informatique/guide-de-mise-en-oeuvre-de-lai-act)
 
-* Remy Marone a créé [un site recensant des liens sur le sujet de l’IA frugale](https://ia-frugale.org/), sur lesquels il donne son avis.
-* Près de trois quarts des salariés français [jugent nécessaire de réguler le développement de l’IA](https://www.actuia.com/actualite/barometre-impact-ai-pres-de-trois-quarts-des-salaries-francais-jugent-necessaire-de-reguler-le-developpement-de-lia/).
+Le sujet est à la mode et donc incontournable : l'IA, et en particulier l'IA générative.
 
-* Sur le blog Zenika[IA – Risques : Ethics, Green, Sociaux et Sécurité](https://blog.zenika.com/2024/09/19/ia-risques-ethics-green-sociaux-et-securite/)
 
+## Impacts environnementaux : 
 * GreenIT.fr : [Quels sont les impacts environnementaux de l’IA ?](https://www.greenit.fr/2024/08/15/quels-sont-les-impacts-environnementaux-de-lia/)
 * Data For Good - [Livre blanc IA générative](https://dataforgood.fr/iagenerative/)
 * [Comparateur des impacts des IA génératives](https://huggingface.co/spaces/genai-impact/ecologits-calculator) par hugging face 
@@ -28,24 +25,33 @@ layout: page
 
 * Les data centers eux même ne sont pas adaptés pour refroidir ces équipements et [pourraient devenir obsolètes](https://www.jll.fr/fr/etudes-recherche/marches/why-data-centers-could-hit-obsolescence-sooner-than-you-think).
 
-* Une startup chinoise, DeepSeek, [a créé un modèle qui affiche des performances similaires à celles d’Open AI pour un coût bien moindre](https://www.lemonde.fr/economie/article/2025/01/27/deepseek-la-chine-seme-la-confusion-dans-l-intelligence-artificielle_6518026_3234.html), en étant de plus Open Source.
-
 * [L’engagement de Microsoft de devenir « négatif en carbone » est mis à mal par l’augmentation de 30% de leurs émissions](https://microsoft.developpez.com/actu/357928/Les-emissions-de-Microsoft-augmentent-de-29-pourcent-en-raison-de-son-obsession-pour-l-IA-qui-engloutit-les-ressources-et-stimule-l-expansion-des-centres-de-donnees-a-forte-intensite-de-carbone/) à cause de leurs dépenses pour l’IA générative.
-* Une étude estime que [52% des réponses de ChatGPT pour des questions de programmations sont fausses (en)](https://futurism.com/the-byte/study-chatgpt-answers-wrong.)
-* La mention de l'IA dans le marketing d'un produit [rebute fortement les consommateurs](https://intelligence-artificielle.developpez.com/actu/360963/L-utilisation-des-mots-intelligence-artificielle-dans-le-marketing-d-un-produit-rebute-fortement-les-consommateurs-les-entreprises-qui-tentent-d-integrer-l-IA-dans-leur-produit-commettent-une-grave-erreur/).
+
+
+
+## IA Frugale : référentiels, arguments et pistes
+
+* Remy Marone a créé [un site recensant des liens sur le sujet de l’IA frugale](https://ia-frugale.org/), sur lesquels il donne son avis.
+
+* Sur le blog Zenika : [IA – Risques : Ethics, Green, Sociaux et Sécurité](https://blog.zenika.com/2024/09/19/ia-risques-ethics-green-sociaux-et-securite/)
+
+* [AFNOR SPEC 2314](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2314/referentiel-general-pour-lia-frugale-mesurer-et-reduire-limpact-environneme/fa208976/421140) - Référentiel général pour l'IA frugale - Mesurer et réduire l'impact environnemental de l'IA
 
 - Les IA spécialisées [sont beaucoup plus efficaces](https://www.lemonde.fr/pixels/article/2024/03/25/intelligence-artificielle-le-bilan-carbone-de-la-generation-d-images-de-textes-ou-de-sous-titres_6224138_4408996.html) (jusqu'à x30) que les IA génératives.
 
-## Jeux de données open source
-- Jeux de données de Kaggle : https://www.kaggle.com/datasets
-- Portail open data de l’ADEME : https://data.ademe.fr/
-- Jeux de données de Hugging Face : https://huggingface.co/docs/datasets/index
-- Tensor Flow en fournit également : https://www.tensorflow.org/resources/models-datasets
+* La mention de l'IA dans le marketing d'un produit [rebute fortement les consommateurs](https://intelligence-artificielle.developpez.com/actu/360963/L-utilisation-des-mots-intelligence-artificielle-dans-le-marketing-d-un-produit-rebute-fortement-les-consommateurs-les-entreprises-qui-tentent-d-integrer-l-IA-dans-leur-produit-commettent-une-grave-erreur/).
 
-## Modèles open sources
-- Modèles de Kaggle : https://www.kaggle.com/models
-- Modèles de Hugging Face :  https://huggingface.co/models
-- Tensor Flow en fournit également : https://www.tensorflow.org/resources/models-datasets   
+
+### Jeux de données open source
+- Jeux de données de Kaggle : [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
+- Portail open data de l’ADEME : [https://data.ademe.fr/](https://data.ademe.fr/)
+- Jeux de données de Hugging Face : [https://huggingface.co/docs/datasets/index](https://huggingface.co/docs/datasets/index)
+- Tensor Flow en fournit également : [https://www.tensorflow.org/resources/models-datasets](https://www.tensorflow.org/resources/models-datasets)
+
+##3 Modèles open sources
+- Modèles de Kaggle : [https://www.kaggle.com/models](https://www.kaggle.com/models)
+- Modèles de Hugging Face :  [https://huggingface.co/models](https://huggingface.co/models)
+- Tensor Flow en fournit également : [https://www.tensorflow.org/resources/models-datasets](https://www.tensorflow.org/resources/models-datasets)
 
 
 

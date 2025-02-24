@@ -3,6 +3,9 @@ layout: page
 ---
 
 # Progrès technique et recherche
+
+Voici quelques liens sur le progrès technique permettant potentiellement des gains sur les impacts du numérique.
+
 - [First commercially viable lithium metal solid state battery charges to 80% in just 15 minute](https://www.thebrighterside.news/post/first-commercially-viable-lithium-metal-solid-state-battery-charges-to-80-in-just-15-minute)
 - [Pour la science, « Quel futur pour les batteries ? »](https://www.pourlascience.fr/sd/energie/quel-futur-pour-les-batteries-21651.php)
 - [INRS au Canada, « Un demi-million de dollars pour développer des batteries plus performantes »](https://inrs.ca/actualites/un-demi-million-de-dollars-pour-developper-des-batteries-plus-performantes/)

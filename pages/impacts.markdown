@@ -5,7 +5,9 @@ layout: page
 
 ## Etudes et articles généralistes
 
-Association GreenIT / GreenIT.fr
+Liens vers les études sur les impacts du numérique des principaux acteurs.
+
+Association GreenIT / GreenIT.fr :
 - [Impacts environnementaux du numérique dans le monde 2025](https://greenit.eco/nos-etudes-et-essais/impacts-environnementaux-du-numerique-dans-le-monde-2025/) [Février 2025] Impacts du numérique mondial en 2023.
 - [Quels sont les impacts environnementaux du numérique en France ?](https://www.greenit.fr/2020/06/23/quels-sont-les-impacts-environnementaux-du-numerique-en-france/) [Juin 2020] Impacts du numérique en France.
 - [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) [2019] Impacts du numérique mondial en 2020. [Version en anglais](https://www.greenit.fr/wp-content/uploads/2019/11/GREENIT_EENM_etude_EN_accessible.pdf).
@@ -14,7 +16,7 @@ Association GreenIT / GreenIT.fr
 - [Benchmark GreenIT 2022](https://club.greenit.fr/doc/2022-09-Benchmark_Green_IT-2022-rapport.0.5_FR.pdf)
 - [Benchmark GreenIT 2023](https://www.greenit.fr/2024/09/23/numerique-au-bureau-jusqua-60-de-notre-budget-annuel-soutenable/).
 
-ADEME et ARCEP
+ADEME et ARCEP :
 - [Guide pratique : la face cachée du numérique](https://librairie.ademe.fr/cadic/2351/guide-pratique-face-cachee-numerique.pdf?modal=false) Résumé graphique et grand public des constats et actions.
 - [Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
 - [Evaluation de l'impact environnemental du numérique en France et analyse prospective](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html) [2022]
@@ -24,24 +26,24 @@ ADEME et ARCEP
 - [Evaluation de l'impact environnemental de la digitalisation des services culturels](https://librairie.ademe.fr/dechets-economie-circulaire/5942-evaluation-de-l-impact-environnemental-de-la-digitalisation-des-services-culturels.html) [2022]
 - [Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail)
 
-France Stratégie
+France Stratégie :
 - [La consommation de métaux du numérique](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf) - Condensé de plusieurs sources sur l'utilisation et l'épuisement des matières premières avec le numérique. Très bon document.
 - [Maîtriser la consommation énergétique du numérique : le progrès technologique n’y suffira pas ](https://www.strategie.gouv.fr/publications/maitriser-consommation-energetique-numerique-progres-technologique-ny-suffira)
 - [IOT - Le monde de l’Internet des objets : des dynamiques à maîtriser](https://ecoresponsable.numerique.gouv.fr/posts/rapport-france-strategie-iot/)
 - [Note d'analyse sur la contribution du numérique à la décarbonation](https://www.strategie.gouv.fr/publications/contribution-numerique-decarbonation).
 
-Shift Project
+Shift Project :
 - [Lean ICT : « Pour une sobriété numérique »](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/) [2018] Rapport généraliste du shift project sur l'empreinte du numérique.
 - [« Déployer la sobriété numérique »](https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/)
 - [Impact environnemental du numérique : tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)
 - [« Mondes virtuels & Réseaux face à la double contrainte carbone »](https://theshiftproject.org/article/mondes-virtuels-reseaux-publication-des-rapports-finaux/)
 
-Gauthier Roussilhe
+Gauthier Roussilhe :
 - [Situer le numérique](https://situer-le-numerique.netlify.app/)
 - [Explications sur l'empreinte environnementale du secteur numérique](https://gauthierroussilhe.com/post/explication-empreinte.html)
 - [Les effets environnementaux indirects de la numérisation](https://gauthierroussilhe.com/articles/comprendre-et-estimer-les-effets-indirects-de-la-numerisation)
 
-Autres 
+Autres :
 - Pour la science - [Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
 - Le Figaro - [« Santé: faut-il avoir peur des ondes électromagnétiques? », novembre 2018](https://sante.lefigaro.fr/article/sante-faut-il-avoir-peur-des-ondes-electromagnetiques-/)
 
@@ -50,16 +52,14 @@ Autres
 
 ## Epuisement des ressources naturelles, exploitation minière, consomation d'eau
 
+
 - EcoInfo CNRS - [« L’épuisement des ressources naturelles », mars 2014](https://ecoinfo.cnrs.fr/2014/03/11/1-epuisement-des-ressources-naturelles/)
 - ADEME - [Epuisement des métaux et minéraux : faut-il s&#39;inquiéter ?](https://www.ademe.fr/epuisement-metaux-mineraux-faut-sinquieter)
-
-- [The Hidden Water in Everyday Products - Water Footprint Calculator](https://www.watercalculator.org/water-use/the-hidden-water-in-everyday-products/)
-
 
 - Aurore Stephant - [Under the hood of Sustainable IT - Promesses de dématérialisation et matérialité minérale - Youtube](https://www.youtube.com/watch?v=QW9udH0vwlE)
 - Aurore Stephant - [Ruée minière au XXIè siècle : jusqu'où les limites seront-elles repoussées ?](https://www.youtube.com/watch?v=i8RMX8ODWQs)
 
-- [Tesla expects global shortage of electric vehicle battery minerals -sources](https://www.reuters.com/article/usa-lithium-electric-tesla-exclusive-int/exclusive-tesla-expects-global-shortage-of-electric-vehicle-battery-minerals-sources-idUSKCN1S81QI)
+- [Tesla expects global shortage of electric vehicle battery minerals sources](https://www.reuters.com/article/usa-lithium-electric-tesla-exclusive-int/exclusive-tesla-expects-global-shortage-of-electric-vehicle-battery-minerals-sources-idUSKCN1S81QI)
 
 - [La Roue des métaux](https://www.researchgate.net/figure/La-Roue-des-metaux-illustre-la-dependance-de-nombreux-metaux-accessoires-notamment-les_fig3_270105075) : dépendance entre les productions.
 
@@ -77,16 +77,14 @@ Autres
 
 ## Terminaux et matériel
 
-
 - ADEME - [Évaluation de l'impact environnemental d'un ensemble de produits reconditionnés](https://librairie.ademe.fr/consommer-autrement/5690-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html)
--  ADEME - [Infographie - Ces objets qui pèsent lourd dans notre quotidien](http://multimedia.ademe.fr/infographies/infographie-poids-carbone/)
+- ADEME - [Infographie - Ces objets qui pèsent lourd dans notre quotidien](http://multimedia.ademe.fr/infographies/infographie-poids-carbone/)
 
 - ARCEP - [Renouvellement des terminaux mobiles et pratiques commerciales de distribution](https://www.arcep.fr/uploads/tx_gspublication/rapport-renouvellement-terminaux-mobiles-pratiques-commerciales-distribution-juillet2021.pdf)
 
 - Sciences et Avenir - [Infographie - De quoi est fait votre iPhone ?](https://www.sciencesetavenir.fr/high-tech/chimie-de-quoi-est-fait-votre-iphone_35674)
 - SysExt - [Infographie - Détail des métaux d'un smartphone](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/7)
 - Les numériques - [Anatomie d’un smartphone : quels sont les composants les plus polluants dans un téléphone ?](https://www.lesnumeriques.com/telephone-portable/anatomie-d-un-smartphone-quels-sont-les-composants-les-plus-polluants-dans-un-telephone-a223400.html)
-
 
 - Fairphone - [Behind the screens](https://www.fairphone.com/en/behind-the-screens/)
 - iFixIt - [Un article sur les pièces appariée](https://fr.ifixit.com/News/78830/lappariement-des-pieces-met-la-reparation-electronique-independante-en-danger)
@@ -97,9 +95,8 @@ Autres
 
 - Anne Cécile Orgerie - [Demystifying Energy Consumption in Grids and Clouds](http://csis.pace.edu/~marchese/SE765/Paper/Green3.pdf)
 
-- [Visite du data center DC5 de Scaleway](https://lafibre.info/scaleway/dc5/) - Présentation du datacenter DC5 de Scalway ) refroidissement adiabatique, avec de nombreuses photos.
-- [Amazon, Google, Microsoft: Here&#39;s Who Has the Greenest Cloud - WIRED](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/)
-- [30% of servers are comatose](https://www.anthesisgroup.com/wp-content/uploads/2019/11/Case-Study_DataSupports30PercentComatoseEstimate-FINAL_06032015.pdf)
+- [Visite du data center DC5 de Scaleway](https://lafibre.info/scaleway/dc5/) - Présentation du datacenter DC5 de Scalewaye, avec de nombreuses photos.
+- [30% of servers are comatose](https://www.anthesisgroup.com/wp-content/uploads/2019/11/Case-Study_DataSupports30PercentComatoseEstimate-FINAL_06032015.pdf) : étude de Kooomey et al.
 
 - [Empreinte carbone d'une heure de calcul](https://gricad.univ-grenoble-alpes.fr/documents/GES-h-coeur-GRICAD-2020.pdf) - Exemple de cas d'usage où l'utilisation dépasse la fabrication (mais seulement pour les émissions de GES dans des pays avec un mix électrique carboné).
 - [Energy Efficiency across Programming Languages](http://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) - Le papier abondamment cité sur l'efficience des langages de programmation.
@@ -126,7 +123,6 @@ Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 - [En chine, une usine de semi conducteurs en Chine arrêtée à cause de la chaleur (aout 2022)  (en anglais)](https://jalopnik.com/extreme-heatwave-in-china-shuts-down-semiconductor-fact-1849425110)
 
 
-
 ## Impacts sociaux et géopolitiques
 
 - France Info - [Madagascar - plus de 10 000 enfants employés dans les mines pour extraire le mica](https://mobile.francetvinfo.fr/monde/afrique/societe-africaine/madagascar-plus-de-10000-enfants-employes-dans-les-mines-pour-extraire-le-mica_3718113.html?fbclid=IwAR28VmpQ3QoxaasWlFBrdfsZYE9hAr_8j9xIdEaQ_HAlL-e9jIAuW-9didA#xtref=https://m.facebook.com/)
@@ -140,11 +136,10 @@ Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 - [« iPhones are made in hell » (en)](https://restofworld.org/2023/foxconn-iphone-factory-china/).
 
 ## Fin de vie
-- [Le volume de déchets électroniques explose et leur taux de recyclage reste ridicule](https://theconversation.com/le-volume-de-dechets-electroniques-explose-et-leur-taux-de-recyclage-reste-ridicule-143701)
+- The conversation - [Le volume de déchets électroniques explose et leur taux de recyclage reste ridicule](https://theconversation.com/le-volume-de-dechets-electroniques-explose-et-leur-taux-de-recyclage-reste-ridicule-143701)
 - Le Monde - [Les déchets électroniques intoxiquent le Ghana](https://www.lemonde.fr/planete/article/2013/12/27/les-dechets-electroniques-intoxiquent-le-ghana_4340635_3244.html)
 - Libération - [« Au Ghana, avec les damnés du «Sodome et Ghomorre» électronique », janvier 2019](https://www.liberation.fr/planete/2019/01/09/au-ghana-avec-les-damnes-du-sodome-et-ghomorre-electronique_1701925/)
-- [Raport de l'ONU sur les DEEE](https://www.grida.no/publications/166)
-- [Photos de DEEE sur Wired](https://www.wired.com/story/international-electronic-waste-photographs/)
+- Wired - [Photos de DEEE ](https://www.wired.com/story/international-electronic-waste-photographs/)
 
 - EcoInfo : [le recyclage des métaux](https://ecoinfo.cnrs.fr/2014/09/03/3-le-recyclage-des-metaux)
 
@@ -166,6 +161,7 @@ Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 
 ### La vidéo en ligne
 
+Le sujet afait beaucoup déjà il y a quelques années, voici une liste de liens permettant de s'y retrouver.
 
 - Shift Project - [« Climat : l'insoutenable usage de la vidéo en ligne »](https://theshiftproject.org/article/climat-insoutenable-usage-video/) [2019] Suite du rapport précédent avec un focus sur la vidéo.
   - Carbon Brief - [Factcheck: What is the carbon footprint of streaming video on Netflix?](https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix)

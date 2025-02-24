@@ -11,7 +11,6 @@ layout: home
 - [Les impact du numérique](./pages/impacts)
 - [L'obsolescence](./pages/obsolescence)
 - [L'éco-conception](./pages/ecoconception)
-- [Les outils](./pages/outils)
 - [L'ACV](./pages/acv)
 - [Les progrès techniques et la recherche](./pages/progres)
 - [IT 4 Green](./pages/it4green)

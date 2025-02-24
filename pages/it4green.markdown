@@ -4,6 +4,8 @@ layout: page
 
 # IT 4 Green
 
+Voici quelques liens vers des projets numériques bons pour l'environnement ou les personnes.
+
 - [Le numérique est-il un progrès durable ? - Hors de série de pour la science en partenariat avec l'INRIA](https://www.inria.fr/fr/numerique-progres-durable-environnement-pour-la-science)
 
 - [IBM research, climate and sustainability](https://research.ibm.com/teams/climate-and-sustainability)

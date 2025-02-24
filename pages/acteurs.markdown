@@ -3,10 +3,14 @@ layout: page
 ---
 # Acteurs
 
+De nombreux acteurs participe au GreenIT en France et dans le monde : cabinets de conseils, gestionnaires de matériel, reconditionneurs, recycleurs, éditeurs d'outils, grand compte incluant cette dimension dans leur politique, etc.
+
+Il existe des références où un grand nombre sont listés : 
+
 - Sur [cette page (en)](https://drsmap.alliancegreenit.org/map-of-actors), on peut trouver une carte mondiale des acteurs du numérique responsable.
 - L'ESN Aelan a également produit un [panorama des acteurs Numérique Responsable](https://aelan.fr/posts/panorama-des-acteurs-numerique-responsable-1ere-edition).
 
-Quelques acteurs remarquables : 
+Quelques acteurs remarquables associatifs et gouvernementaux : 
 
 - [Association Green IT](https://greenit.eco/) : créée en mars 2022 à partir du collectif GreenIT.fr, acteur central du sujet depuis 2004.
 - [ADEME](https://www.ademe.fr/) : agence française de la transition écologique, qui travaille, entre autres, sur le numérique, notamment avec l'[ARCEP](https://www.arcep.fr/) qui a une page d'[observatoire des impacts environnementaux du numérique](https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/observatoire-impacts-environnementaux-numerique-arcep-ademe.html).

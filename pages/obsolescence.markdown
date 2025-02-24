@@ -12,6 +12,8 @@ layout: page
 
 ## Anecdotes
 
+Liste d'anecdotes sur l'obsolescence, ou non, de produits numériques : 
+
 - [ICE/ISEE-3 to return to an Earth no longer capable of speaking to it](http://www.planetary.org/blogs/emily-lakdawalla/2014/02070836-isee-3.html) - On ne peut plus parler à cette sonde spatiale faute de matériel adéquat.
 - [Apollo 11 vs USB-C Chargers](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html) - Les ports USB sont plus puissants que l'ordinateur d'Apollo 11.
 - [Les tests de grossesse électroniques sont plus puissant que les premiers IBM PC](https://twitter.com/foone/status/1301707401024827392)
@@ -45,33 +47,4 @@ Des chromebook de seulement trois ans sont menacés d'obsolescence pour des rais
 * [Les disques durs de l’industrie musicale des années 90 deviennent illisibles (en)](https://www.wired.com/story/music-industry-hard-drive-storage-archives/).
 * [A cette adresse (en)](http://lc.daveki.ng:4080/) vous trouverez une page servie par un 486 et lue depuis une disquette 5.25".
 
-* [Un ordinateur 8 bit reconstruit avec des composants des années 50 (en)](https://www.thetubecomputer.com/), « qui brille et chauffe toute une pièce »
-
-
-## Obésité logicielle et compatibilité
-
-- [Software disenchantment](http://tonsky.me/blog/disenchantment/) et [JS Bloat](https://tonsky.me/blog/js-bloat/)
-- [Le monde du logiciel est en train de se détruire... Manifeste pour un développement plus durable](https://greenspector.com/fr/le-monde-du-logiciel-est-en-train-de-se-detruire-manifeste-pour-un-developpement-plus-durable/)
-- [Poids du jeu démineur sur windows au fil du temps](https://pbs.twimg.com/media/EfJQlYOUEAMjUGG?format=png&name=small)
-
-Le web :
-- [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
-- [The Website Obesity Crisis – HTeuMeuLeu](https://www.hteumeuleu.fr/the-website-obesity-crisis/)
-- [Things That Turbo Pascal is Smaller Than](https://prog21.dadgum.com/116.html?0) - Tout turbo pascal (compilateur, éditeur, etc...) était plus léger que jquery.
-- [The cost of JavaScript in 2018 - Addy Osmani](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
-- [The cost of JavaScript in 2019 - Addy Osmani](https://v8.dev/blog/cost-of-javascript-2019)
-- [Your web app is bloated](https://github.com/dominictarr/your-web-app-is-bloated) - Mesure de l'empreinte mémoire de nombreuses applications web.
-- [The Ethics of Web Performance](https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/)
-- [The web is Doom](https://mobiforge.com/research-analysis/the-web-is-doom) - Les pages web sont en moyenne plus grosses que le jeu Doom depuis 2016.
-- [httparchive - Page Weight](https://httparchive.org/reports/page-weight#bytesTotal).
-
-La publicité :
-- [Adblock Plus - % trafic by ads](http://www.sfu.ca/content/dam/sfu/snfchs/pdfs/Adblock.Plus.Study.pdf) - Etude d'ad block plus qui indique que la publicité représente 25% du trafic.
-- [Google chrome va bloquer les publicités qui consomment trop de batterie](https://www.pcmag.com/news/googles-chrome-browser-to-block-battery-draining-data-guzzling-ads).
-- [Le train pollue inutilement à cause de la pub des e-billets](https://medium.com/@matti_sg_fr/bilan-carbone-billet-electronique-train-fba4f215d471) - Un blogueur calcule l'empreinte écologique de la publicité sur son billet de train, qui peut être supérieure à celle du trajet.
-- [Sites médias : 70% de l'empreinte carbone vient des pubs et des stats](https://marmelab.com/blog/2021/12/20/mesurons-lempreinte-carbone-des-plus-gros-sites-medias.html).
-
-- [Carte de la compatibilité entre versions d'iOS et modèles d'iPhones](https://www.statista.com/chart/5824/ios-iphone-compatibility/).
-- Parts de marché des navigateurs [Récap sur wikipédia](https://fr.wikipedia.org/wiki/Parts_de_march%C3%A9_des_navigateurs_web), [statista](https://www.statista.com/statistics/544400/market-share-of-internet-browsers-desktop/), [w3 counter](https://www.w3counter.com/globalstats.php), [stat counter world](https://gs.statcounter.com/browser-market-share), [stat counter France](https://gs.statcounter.com/browser-market-share/all/france).
-
-
+* [Un ordinateur 8 bit reconstruit avec des composants des années 50 (en)](https://www.thetubecomputer.com/), « qui brille et chauffe toute une pièce »
