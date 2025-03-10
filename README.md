@@ -7,44 +7,34 @@ de mes recherches sur le numérique responsable, de façon organisée.
 
 Il y a **beaucoup** de liens, un peu en vrac, dans ces pages : 
 
-- [1 - Acteurs du GreenIT](./pages/ACTEURS)
-- [2 - Les impact du numériques](./pages/impacts)
-- [3 - L'obsolescence](./pages/obsolescence)
-- [4 - L'éco-conception](./pages/ecoconception)
-- [5 - Les outils](./pages/outils)
-- [6 - L'ACV](./pages/acv)
-- [7 - La législation](./pages/legislation)
-- [8 - Les progrès techniques et la recherche](./pages/progres)
-- [9 - IT 4 Green](./pages/it4green)
-- [10 - IA / IA générative](./pages/ia)
+- [Acteurs du GreenIT](./pages/ACTEURS.markdown)
+- [Les impact du numériques](./pages/impacts.markdown)
+- [L'obsolescence](./pages/obsolescence.markdown)
+- [L'éco-conception](./pages/ecoconception.markdown)
+- [Les outils](./pages/outils.markdown)
+- [L'ACV](./pages/acv.markdown)
+- [Les progrès techniques et la recherche](./pages/progres.markdown)
+- [IT 4 Green](./pages/it4green.markdown)
+- [IA / IA générative](./pages/ia.markdown)
 
 
 # Morceaux choisis : 
 
-Les études de GreenIT.fr sur [l'empreinte du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/)
-et [les impacts du numérique en France] ainsi que le [dernier rapport du Shift Project sur le numérique](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)
+Les études de GreenIT.fr sur [l'empreinte du numérique mondial](https://greenit.eco/nos-etudes-et-essais/impacts-environnementaux-du-numerique-dans-le-monde-2025/)
+ainsi que l'[enquête pour un numérique soutenable de l'ARCEP](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-210324.html)
 permettent d'avoir une idée globale du sujet. Il est possible d'approfondir et de relativiser avec des articles de Gauthier Roussilhe sur
 [l'empreinte environnementale du secteur numérique](https://gauthierroussilhe.com/post/explication-empreinte.html)
 et [les effets environnementaux indirects de la numérisation](https://gauthierroussilhe.com/articles/comprendre-et-estimer-les-effets-indirects-de-la-numerisation). L'étude ADEME / ARCEP [« évaluation de l’empreinte du numérique en France et analyse prospective »](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html) donne une image détaillée des impacts du numérique en France avec les dernières données issues du projet NegaOctet.
 
-Pour le périmètre français les études ADEME / ARCEP, [« évaluation de l’empreinte du numérique en France et analyse prospective »](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html) et [Enquête pour un numérique soutenable (2024)](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-210324.html), sont une référence.
-
-
-Sur les **usages**, comme le streaming de vidéo, l'échange de livres ou de podcasts, la dernière référence est le rapport de 
-l'ADEME, [évaluation de l'impact environnemental de la digitalisation des services culturels](https://librairie.ademe.fr/dechets-economie-circulaire/5942-evaluation-de-l-impact-environnemental-de-la-digitalisation-des-services-culturels.html),
-là aussi, [un article](https://gauthierroussilhe.com/post/explication-streaming.html) de Gauthier Roussilhe sera un complément intéressant. 
-Le rapport de l'ADEME : [caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail),
-répond à des questions souvent posées sur l'impact des usages numériques ajoutés.
-
-Toujours via l'ADEME, l'application Web [« Découvrez l'impact sur le climat des usages numériques »](https://impactco2.fr/usagenumerique)
+L'application Web [« Découvrez l'impact sur le climat des usages numériques »](https://impactco2.fr/usagenumerique)
 permet de visualiser rapidement et avec des équivalences, l'impact en émissions de gaz à effet de serre du numérique.
 
-Le note d'analyse de France Stratégie [sur la contribution du numérique à la décarbonation](https://www.strategie.gouv.fr/publications/contribution-numerique-decarbonation) montre les limites du numérique pour optimiser les autres secteurs avec pour exemples le télétravail, les compteurs intelligents ou encore les smart grids.
+La note d'analyse de France Stratégie [sur la contribution du numérique à la décarbonation](https://www.strategie.gouv.fr/publications/contribution-numerique-decarbonation) montre les limites du numérique pour optimiser les autres secteurs avec pour exemples le télétravail, les compteurs intelligents ou encore les smart grids.
 
-Sur **l'épuisement des ressources naturelles et l'exploitation minière**, l'excellent rapport de France Stratégie sur 
+Sur l'épuisement des ressources naturelles et l'exploitation minière, l'excellent rapport de France Stratégie sur 
 [la consommation de métaux du numérique](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2020-dt-consommation-metaux-du-numerique-juin.pdf)
 est incontournable. [Un article de 2014 d'EcoInfo](https://ecoinfo.cnrs.fr/2014/03/11/1-epuisement-des-ressources-naturelles/) 
-donne quelque donnée supplémentaires intéressantes. [Les présentations d'Aurore Stephant de SystExt](https://www.youtube.com/watch?v=QW9udH0vwlE) sur l'impact de l'exploitation
+donne quelques données supplémentaires intéressantes. [Les présentations d'Aurore Stephant de SystExt](https://www.youtube.com/watch?v=QW9udH0vwlE) sur l'impact de l'exploitation
 minières sont très percutantes et bien documentées.
 
 Sur l'obsolescence, lire [le livre blanc de HOP](https://www.halteobsolescence.org/wp-content/uploads/2019/02/Livre-Blanc.pdf) 

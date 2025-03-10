@@ -48,7 +48,7 @@ Le sujet est à la mode et donc incontournable : l'IA, et en particulier l'IA g�
 - Jeux de données de Hugging Face : [https://huggingface.co/docs/datasets/index](https://huggingface.co/docs/datasets/index)
 - Tensor Flow en fournit également : [https://www.tensorflow.org/resources/models-datasets](https://www.tensorflow.org/resources/models-datasets)
 
-##3 Modèles open sources
+### Modèles open sources
 - Modèles de Kaggle : [https://www.kaggle.com/models](https://www.kaggle.com/models)
 - Modèles de Hugging Face :  [https://huggingface.co/models](https://huggingface.co/models)
 - Tensor Flow en fournit également : [https://www.tensorflow.org/resources/models-datasets](https://www.tensorflow.org/resources/models-datasets)
