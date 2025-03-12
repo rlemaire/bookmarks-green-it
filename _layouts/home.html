@@ -1,15 +1,28 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "fr" }}">
 
-<div class="home">
-  {%- if page.title -%}
+{%- include head.html -%}
+
+<body>
+
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    <span>Accueil</span>
+  </div>
+</header>
+
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+
+
+    {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+    {%- endif -%}
 
-  {{ content }}
+    {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+    {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
@@ -22,13 +35,21 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+        {{ post.excerpt }}
         {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
+    {%- endif -%}
 
-</div>
+  </div>
+
+</main>
+
+{%- include footer.html -%}
+
+</body>
+
+</html>

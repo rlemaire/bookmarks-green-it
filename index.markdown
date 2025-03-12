@@ -8,7 +8,7 @@ layout: home
 
 
 - [Acteurs du GreenIT](./pages/ACTEURS)
-- [Les impact du numérique](./pages/impacts)
+- [Les impacts du numérique](./pages/impacts)
 - [L'obsolescence](./pages/obsolescence)
 - [L'éco-conception](./pages/ecoconception)
 - [L'ACV](./pages/acv)

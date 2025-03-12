@@ -12,7 +12,7 @@ Le sujet est à la mode et donc incontournable : l'IA, et en particulier l'IA g�
 * Data For Good - [Livre blanc IA générative](https://dataforgood.fr/iagenerative/)
 * [Comparateur des impacts des IA génératives](https://huggingface.co/spaces/genai-impact/ecologits-calculator) par hugging face 
 
-* [Retardement de la fermeture des centrales à charbon](https://intelligence-artificielle.developpez.com/actu/354253/L-IA-a-besoin-de-tellement-d-energie-que-les-vieilles-centrales-au-charbon-sont-maintenues-en-service-alors-que-la-demande-en-energie-des-centres-de-donnees-devrait-tripler-d-ici-2030/. 
+* [Retardement de la fermeture des centrales à charbon](https://intelligence-artificielle.developpez.com/actu/354253/L-IA-a-besoin-de-tellement-d-energie-que-les-vieilles-centrales-au-charbon-sont-maintenues-en-service-alors-que-la-demande-en-energie-des-centres-de-donnees-devrait-tripler-d-ici-2030/). 
 * Microsoft a annoncé [investir pour être près de la mine de Hambach](https://synthmedia.fr/2025/01/politiques/environnement/ia-generative-vampire-energetique/).
 
 * [Investissements dans les SMR](https://www.lemondeinformatique.fr/actualites/lire-des-mini-reacteurs-nucleaires-pour-alimenter-les-datacenters-de-microsoft-91710.html)

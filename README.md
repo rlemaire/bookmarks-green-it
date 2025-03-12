@@ -8,7 +8,7 @@ de mes recherches sur le numérique responsable, de façon organisée.
 Il y a **beaucoup** de liens, un peu en vrac, dans ces pages : 
 
 - [Acteurs du GreenIT](./pages/ACTEURS.markdown)
-- [Les impact du numériques](./pages/impacts.markdown)
+- [Les impacts du numériques](./pages/impacts.markdown)
 - [L'obsolescence](./pages/obsolescence.markdown)
 - [L'éco-conception](./pages/ecoconception.markdown)
 - [Les outils](./pages/outils.markdown)
