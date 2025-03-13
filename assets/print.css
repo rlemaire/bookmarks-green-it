@@ -1,0 +1,20 @@
+@media print {
+    body {
+        font-family: "Century Gothic", sans-serif;
+        padding: 2em;
+        font-size: 0.8rem;
+        line-height: 1rem;
+    }
+
+    .post-title, h1, h2, h3, .post-title, .post-content h1, .post-content h2, h3, h4, h5, .post-content h3, .site-header, .site-footer, .side, .hr, a, a:visited {
+        color: #333;
+    }
+
+    .site-header, .page-content .side, .site-footer {
+        display: none;
+    }
+
+    .wrapper {
+        max-width: 100%;
+    }
+}
