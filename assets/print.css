@@ -2,15 +2,16 @@
     body {
         font-family: "Century Gothic", sans-serif;
         padding: 2em;
-        font-size: 0.8rem;
+        font-size: 12px;
         line-height: 1rem;
+        color: black;
     }
 
-    .post-title, h1, h2, h3, .post-title, .post-content h1, .post-content h2, h3, h4, h5, .post-content h3, .site-header, .site-footer, .side, .hr, a, a:visited {
-        color: #333;
+    h1, h2, h3, h4, h5, a, a:visited {
+        color: black;
     }
 
-    .site-header, .page-content .side, .site-footer {
+    .site-header, .site-footer {
         display: none;
     }
 
