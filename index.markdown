@@ -11,7 +11,7 @@ Le but de ce site est de réunir un ensemble des liens sur le numérique respons
 
 N'hésitez donc pas à explorer les pages par catégories : 
 
-- [Acteurs du GreenIT](./pages/ACTEURS)
+- [Acteurs du GreenIT](./pages/acteurs)
 - [Les impacts du numérique](./pages/impacts) : liens vers des études généralistes, focus sur les terminaux, les data centers, l'exploitation minière, les usages, l'IOT.
 - [L'obsolescence](./pages/obsolescence) : références et anecdotes.
 - [L'éco-conception](./pages/ecoconception) : référentiels, outils, exemples, arguments, anecdotes.
