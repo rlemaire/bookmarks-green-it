@@ -38,3 +38,6 @@ Voici quelques liens sur le progrès technique permettant potentiellement des ga
 
 - [Le premier satellite en bois envoyé dans l’espace](https://www.dw.com/en/worlds-first-wooden-satellite-launched-into-space/a-70691359).
 - Un concept de batterie [à base de diamant de carbone 14 (!) (en)](https://interestingengineering.com/energy/worlds-first-carbon-14-diamond-battery) qui pourrait durer des milliers d'années.
+
+* Une [nouvelle méthode de recyclage (en)](https://www.independent.co.uk/tech/battery-recycle-lithium-ion-environment-b2713723.html) permettrait d'extraire presque tout le lithium des batteries.
+* [Un data center apparemment exemplaire de InfoManiak](https://green-it.developpez.com/actu/370456/Un-data-center-revolutionnaire-qui-revalorise-100-pourcent-de-son-energie-pour-chauffer-6000-logements-une-avancee-majeure-ecoresponsable-de-l-hebergeur-Web-et-Cloud-Infomaniak/) réutilise la chaleur fatale et utilise un circuit clos d'eau et de pompe à chaleur pour se refroidir.

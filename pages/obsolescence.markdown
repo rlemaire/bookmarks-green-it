@@ -48,3 +48,6 @@ Des chromebook de seulement trois ans sont menacés d'obsolescence pour des rais
 * [A cette adresse (en)](http://lc.daveki.ng:4080/) vous trouverez une page servie par un 486 et lue depuis une disquette 5.25".
 
 * [Un ordinateur 8 bit reconstruit avec des composants des années 50 (en)](https://www.thetubecomputer.com/), « qui brille et chauffe toute une pièce »
+
+
+* [Sondage sur l'obsolescence des smartphones](https://limitesnumeriques.fr/travaux-productions/sondage-obsolescence-smartphones) de Limites numériques.

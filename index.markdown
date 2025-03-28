@@ -19,3 +19,7 @@ N'hésitez donc pas à explorer les pages par catégories :
 - [Les progrès techniques et la recherche](./pages/progres) : liens positifs sur des projets pour un meilleur futur.
 - [IT 4 Green](./pages/it4green) : liens positifs sur des utilisations vertueuses du numérique.
 - [IA / IA générative](./pages/ia) : focus sur le sujet à la mode (impacts, référentiels).
+
+
+
+

@@ -15,7 +15,7 @@ Il existe de nombreux référentiels de bonnes pratiques et/ou de critères auto
 - [RMOB (association Green IT) - Mobile-specific Best Practices (en anglais)](https://github.com/cnumr/best-practices-mobile)
 - [Le RGESN de l'ARCEP](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html) : commandé par la loi REEN, créé par des agences gouvernemantales et donc une référence.
 - [GR491, Le guide de Référence de Conception Responsable de Services Numériques - INR, 491 pratiques](https://gr491.isit-europe.org)
-- [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/)
+- [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/), également [disponible en anglais](https://designersethiques.org/en/thematiques/ecoconception/guide-d-ecoconception).
 - [AFNOR SPEC 2201 - Ecoconception des services numériques](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2201/ecoconception-des-services-numeriques/fa203506/323315)
 - [AFNOR SPEC 2314 - Référentiel général pour l'IA frugale](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2314/referentiel-general-pour-lia-frugale-mesurer-et-reduire-limpact-environneme/fa208976/421140)
 - [Un brouillon de guidelines pour un web écoresponsable (en)](https://w3c.github.io/sustyweb/glance.html#abstract) par le w3c.
