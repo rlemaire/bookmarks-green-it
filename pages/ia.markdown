@@ -27,20 +27,17 @@ Le sujet est à la mode et donc incontournable : l'IA, et en particulier l'IA g�
 
 * [L’engagement de Microsoft de devenir « négatif en carbone » est mis à mal par l’augmentation de 30% de leurs émissions](https://microsoft.developpez.com/actu/357928/Les-emissions-de-Microsoft-augmentent-de-29-pourcent-en-raison-de-son-obsession-pour-l-IA-qui-engloutit-les-ressources-et-stimule-l-expansion-des-centres-de-donnees-a-forte-intensite-de-carbone/) à cause de leurs dépenses pour l’IA générative.
 
+* [Les impacts physiques de l'IA](https://www.youtube.com/watch?v=iVtF5F7k2mE) par Benoit Petit. Complétée par [les images du photographe Stephen Voss du data center Stargate d'OpenAI](https://bsky.app/profile/bpetit.bsky.social/post/3lp4nsl7syc2v), à Abilene, au Texas.
 
 
 ## IA Frugale : référentiels, arguments et pistes
 
 * Remy Marone a créé [un site recensant des liens sur le sujet de l’IA frugale](https://ia-frugale.org/), sur lesquels il donne son avis.
-
 * Sur le blog Zenika : [IA – Risques : Ethics, Green, Sociaux et Sécurité](https://blog.zenika.com/2024/09/19/ia-risques-ethics-green-sociaux-et-securite/)
-
 * [AFNOR SPEC 2314](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2314/referentiel-general-pour-lia-frugale-mesurer-et-reduire-limpact-environneme/fa208976/421140) - Référentiel général pour l'IA frugale - Mesurer et réduire l'impact environnemental de l'IA
-
 - Les IA spécialisées [sont beaucoup plus efficaces](https://www.lemonde.fr/pixels/article/2024/03/25/intelligence-artificielle-le-bilan-carbone-de-la-generation-d-images-de-textes-ou-de-sous-titres_6224138_4408996.html) (jusqu'à x30) que les IA génératives.
-
 * La mention de l'IA dans le marketing d'un produit [rebute fortement les consommateurs](https://intelligence-artificielle.developpez.com/actu/360963/L-utilisation-des-mots-intelligence-artificielle-dans-le-marketing-d-un-produit-rebute-fortement-les-consommateurs-les-entreprises-qui-tentent-d-integrer-l-IA-dans-leur-produit-commettent-une-grave-erreur/).
-
+* Papier sur le [« green prompting » (en)](https://arxiv.org/pdf/2503.10666) où les auteurs analysent la consommation des modèles en fonction des prompts.
 
 ### Jeux de données open source
 - Jeux de données de Kaggle : [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)

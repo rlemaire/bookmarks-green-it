@@ -19,6 +19,7 @@ Association GreenIT / GreenIT.fr :
 ADEME et ARCEP :
 - [Guide pratique : la face cachée du numérique](https://librairie.ademe.fr/cadic/2351/guide-pratique-face-cachee-numerique.pdf?modal=false) Résumé graphique et grand public des constats et actions.
 - [Baromètre du numérique Edition 2021 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française ](https://www.arcep.fr/uploads/tx_gspublication/rapport-barometre-numerique-edition-2021.pdf)
+- [Baromètre du numérique Edition 2025](https://www.arcep.fr/uploads/tx_gspublication/barometre-du-numerique_edition_2025_INFOGRAPHIE_mars2025.pdf).
 
 - [Evaluation de l'impact environnemental du numérique en France et analyse prospective](https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html) [2022]
 - [Enquête pour un numérique soutenable de l'ARCEP](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-210324.html) [2024]
@@ -43,6 +44,7 @@ Gauthier Roussilhe :
 - [Situer le numérique](https://situer-le-numerique.netlify.app/)
 - [Explications sur l'empreinte environnementale du secteur numérique](https://gauthierroussilhe.com/post/explication-empreinte.html)
 - [Les effets environnementaux indirects de la numérisation](https://gauthierroussilhe.com/articles/comprendre-et-estimer-les-effets-indirects-de-la-numerisation)
+* [Gauthier Rousilhe chez bon pote(2025)](https://bonpote.com/ia-generatives-5g-satellites-quelle-est-la-vraie-empreinte-environnementale-du-numerique/).
 
 Autres :
 - Pour la science - [Le vrai coût énergétique du numérique](https://www.pourlascience.fr/sd/environnement/le-vrai-cout-energetique-du-numerique-20490.php)
@@ -123,6 +125,9 @@ Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 - [À Londres, les data centers de Google et Oracle n’ont pas supporté la chaleur (juillet 2022)](https://www.lefigaro.fr/secteur/high-tech/a-londres-les-data-centers-de-google-et-oracle-n-ont-pas-supporte-la-chaleur-20220720)
 - [En chine, une usine de semi conducteurs en Chine arrêtée à cause de la chaleur (aout 2022)  (en anglais)](https://jalopnik.com/extreme-heatwave-in-china-shuts-down-semiconductor-fact-1849425110)
 
+* Estimations pour [la consommation des Data Center dans le futur](https://www.lemonde.fr/economie/article/2025/04/10/dopee-par-l-ia-la-demande-d-electricite-pour-les-centres-de-donnees-devrait-plus-que-doubler-d-ici-2030-selon-l-aie_6593594_3234.html) par l'IEA (2025).
+
+* La chaleur produite par les Data Centers pourrait être mieux utilisée, mais est [majoritairement gaspillée actuellement](https://reporterre.net/Comment-les-data-centers-pourraient-chauffer-nos-villes). Il y a en effet des réseaux de chaleurs urbains auxquels ils pourraient être raccordés.
 
 ## Impacts sociaux et géopolitiques
 

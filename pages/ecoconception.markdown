@@ -123,6 +123,9 @@ Ces sites qui ont toujours été minimalistes et efficaces.
 - [Celtique ? L'expo.](https://www.exposition-celtique.bzh/) avec [cette page](https://www.greenit.fr/2023/01/10/eco-concevoir-le-site-dune-exposition-nous-avons-releve-le-defi/) qui raconte la genèse.
 - [Telecoop](https://telecoop.fr/blog/ecoconception-de-notre-site-web).
 
+* Article de Remy Parmentier sur [l’utilisation du dithering des images pour faire « écoconcu »](https://www.hteumeuleu.fr/eco-conception-et-dithering/).
+
+
 ## Méthodologie et pratiques
 
 - Pôle écoconception, L'éco-conception pour tous : [les quatre niveaux d’ambition](https://www.eco-conception.fr/static/leco-conception-pour-tous.html)
