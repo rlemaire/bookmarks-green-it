@@ -10,9 +10,10 @@ layout: page
 
 Il existe de nombreux référentiels de bonnes pratiques et/ou de critères autour de l'écoconception. En voici la liste :
 
-- [RWEB (association Green IT) - Les 115 bonnes pratiques d'écoconception web](https://github.com/cnumr/best-practices). Le plus ancien, le plus connu et le plus utilisé.
-- [RWP (association Green IT) - Les bonnes pratiques d'écoconception pour WordPress](https://github.com/cnumr/best-practices-wordpress)
-- [RMOB (association Green IT) - Mobile-specific Best Practices (en anglais)](https://github.com/cnumr/best-practices-mobile)
+- [RWEB (CNumR / association Green IT) - Les 115 bonnes pratiques d'écoconception web](https://github.com/cnumr/best-practices). Le plus ancien, le plus connu et le plus utilisé.
+- [RWP (CNumR / association Green IT) - Les bonnes pratiques d'écoconception pour WordPress](https://github.com/cnumr/best-practices-wordpress)
+- [RMOB (CNumR / association Green IT) - Mobile-specific Best Practices (en anglais)](https://github.com/cnumr/best-practices-mobile)
+- [REIPRO (CNumR / association Green IT) - Référentiels de bonnes pratiques pour l'intégration de progiciels](https://github.com/cnumr/best-practices-mobile)
 - [Le RGESN de l'ARCEP](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html) : commandé par la loi REEN, créé par des agences gouvernemantales et donc une référence.
 - [GR491, Le guide de Référence de Conception Responsable de Services Numériques - INR, 491 pratiques](https://gr491.isit-europe.org)
 - [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/), également [disponible en anglais](https://designersethiques.org/en/thematiques/ecoconception/guide-d-ecoconception).
@@ -20,6 +21,7 @@ Il existe de nombreux référentiels de bonnes pratiques et/ou de critères auto
 - [AFNOR SPEC 2314 - Référentiel général pour l'IA frugale](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2314/referentiel-general-pour-lia-frugale-mesurer-et-reduire-limpact-environneme/fa208976/421140)
 - [Un brouillon de guidelines pour un web écoresponsable (en)](https://w3c.github.io/sustyweb/glance.html#abstract) par le w3c.
 - [Les Green Software Patterns (en)](https://patterns.greensoftware.foundation/) de la Green Software foundation.
+- [Référentiel IA responsable par l'INR](https://ref-ia.isit-europe.org/).
 
 Il est possible d'ajouter à ces documents des listes orientées performance : 
 - [Guidelines d’Apple pour la gestion de la mémoire dans les applications iOS](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html)
