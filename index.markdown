@@ -11,14 +11,16 @@ Le but de ce site est de réunir un ensemble des liens sur le numérique respons
 
 N'hésitez donc pas à explorer les pages par catégories : 
 
-- [Acteurs du GreenIT](./pages/acteurs)
+- [Les études sur les impacts du numérique](./pages/etudes) : liens vers des études sur les impacts du numérique.
+- [Impact du numérique](./pages/impacts) : Articles anecdotes et présentations sur les impacts du numérique.
+- [IOT ridicule](./pages/iot) : liste d'exemples d'IOT ridicule.
 - [Les impacts du numérique](./pages/impacts) : liens vers des études généralistes, focus sur les terminaux, les data centers, l'exploitation minière, les usages, l'IOT.
 - [L'obsolescence](./pages/obsolescence) : références et anecdotes.
-- [L'éco-conception](./pages/ecoconception) : référentiels, outils, exemples, arguments, anecdotes.
-- [L'ACV](./pages/acv) : définition et exemples.
+- [Référentiels d'écoconception](./pages/referentiels-eco) : documents rassemblant des critères, pratiques et questions d'écoconception de services numériques.
+- [Outils d'écoconception / Green IT](./pages/ereferentiels-eco) : plus exactement, liste de listes d'outils.
+- [Exemples de minimalisme et d'écoconception](./pages/exemples-eco) : anecdotes, sites et applications minimalistes ou explicitement écoconçus.
 - [Les progrès techniques et la recherche](./pages/progres) : liens positifs sur des projets pour un meilleur futur.
 - [IT 4 Green](./pages/it4green) : liens positifs sur des utilisations vertueuses du numérique.
-- [IA / IA générative](./pages/ia) : focus sur le sujet à la mode (impacts, référentiels).
 
 
 
