@@ -13,8 +13,8 @@ Association GreenIT / GreenIT.fr :
 - [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) [2019] Impacts du numérique mondial en 2020. [Version en anglais](https://www.greenit.fr/wp-content/uploads/2019/11/GREENIT_EENM_etude_EN_accessible.pdf).
 - [Etude sur le numérique en Europe](https://www.greenit.fr/wp-content/uploads/2021/12/EU-Study-ACV-7-DEC-FR.pdf) [2021]
 - [GreenIT.fr & WWF - WE GREEN IT](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf) [2018]
-- [Benchmark GreenIT 2022](https://club.greenit.fr/doc/2022-09-Benchmark_Green_IT-2022-rapport.0.5_FR.pdf)
-- [Benchmark GreenIT 2023](https://www.greenit.fr/2024/09/23/numerique-au-bureau-jusqua-60-de-notre-budget-annuel-soutenable/).
+- Benchmark GreenIT [2024](https://www.greenit.fr/2024/09/23/numerique-au-bureau-jusqua-60-de-notre-budget-annuel-soutenable/), [2025](https://www.greenit.fr/2025/10/03/numerique-au-bureau-quelle-evolution-depuis-10-ans/).
+
 
 ADEME et ARCEP :
 - [Guide pratique : la face cachée du numérique](https://librairie.ademe.fr/cadic/2351/guide-pratique-face-cachee-numerique.pdf?modal=false) Résumé graphique et grand public des constats et actions.
@@ -161,6 +161,9 @@ Deux histoires de défaillances d’infrastructures à cause de la chaleur :
 - [Les risques associés à l'IOT](https://repo.revision.io/repository/)
 - [Robot qui détecte les détritus, mais ne nettoie pas](https://www.wbur.org/bostonomix/2019/03/22/marty-robot-stop-and-shop)
 - [Corde à sauter connectée à 200$, avec un abonnement à 12$ par mois](https://www.theverge.com/24134172/crossrope-amp-jump-rope-set-review).
+* Les vapoteuses jetables (jetables!) ont de l'électronique [assez puissante pour héberger un site web](https://bogdanthegeek.github.io/blog/projects/vapeserver/). Imaginez le langage des citoyens du 22e siècle quand ils penseront aux ressources que nous avons gaspillées.
+* Samsung [affiche des pubs sur les frigos connectés](https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges).
+
 
 ## Usages (transfert de données, vidéo, ...)
 

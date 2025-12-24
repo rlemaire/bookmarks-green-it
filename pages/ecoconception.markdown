@@ -10,12 +10,14 @@ layout: page
 
 Il existe de nombreux référentiels de bonnes pratiques et/ou de critères autour de l'écoconception. En voici la liste :
 
-- [RWEB (CNumR / association Green IT) - Les 115 bonnes pratiques d'écoconception web](https://github.com/cnumr/best-practices). Le plus ancien, le plus connu et le plus utilisé.
-- [RWP (CNumR / association Green IT) - Les bonnes pratiques d'écoconception pour WordPress](https://github.com/cnumr/best-practices-wordpress)
+- [Le RGESN de l'ARCEP](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html) : commandé par la loi REEN, créé par des agences gouvernementales et donc une référence.
+- [RWEB (CNumR / association Green IT) - Les 115 bonnes pratiques d'écoconception web](https://rweb.greenit.fr/). Le plus ancien, le plus connu et le plus utilisé.
+- [RWP (CNumR / association Green IT) - Les bonnes pratiques d'écoconception pour WordPress](https://ref.greenit.fr/rwp/)
 - [RMOB (CNumR / association Green IT) - Mobile-specific Best Practices (en anglais)](https://github.com/cnumr/best-practices-mobile)
 - [REIPRO (CNumR / association Green IT) - Référentiels de bonnes pratiques pour l'intégration de progiciels](https://github.com/cnumr/best-practices-mobile)
-- [Le RGESN de l'ARCEP](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html) : commandé par la loi REEN, créé par des agences gouvernemantales et donc une référence.
+- [RIA (CNumR / association Green IT) - bonnes pratiques pour l'IA générative, par le consortium DECENZ](https://github.com/cnumr/best-practices-ai)
 - [GR491, Le guide de Référence de Conception Responsable de Services Numériques - INR, 491 pratiques](https://gr491.isit-europe.org)
+- [Référentiel IA responsable rédigé par l'INR](https://ref-ia.isit-europe.org/).
 - [Designers éthiques : Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/), également [disponible en anglais](https://designersethiques.org/en/thematiques/ecoconception/guide-d-ecoconception).
 - [AFNOR SPEC 2201 - Ecoconception des services numériques](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2201/ecoconception-des-services-numeriques/fa203506/323315)
 - [AFNOR SPEC 2314 - Référentiel général pour l'IA frugale](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2314/referentiel-general-pour-lia-frugale-mesurer-et-reduire-limpact-environneme/fa208976/421140)
@@ -38,6 +40,12 @@ Quelques listes de critères sont disponibles au niveau SI :
 - [Référentiel des 65 bonnes pratiques de l’INR](https://institutnr.org/wp-content/uploads/2020/06/2020-v3-65-bonnes-pratiques-greenit.pdf)
 - [club.greenit.fr - 74 bonnes pratiques clés pour un numérique plus responsable](https://club.greenit.fr/doc/2022-06-GREENIT-Referentiel_maturite-v3.pdf)
 
+Positionnée en amont des référentiels de bonnes pratiques, le framework eroom permet de trouver des pistes d'optimisation : 
+- Voir [la page EROOM sur le site de Boavizta](https://boavizta.org/eroom) et [le document en version 1.0](https://docs.google.com/spreadsheets/d/1zvEHf7fQ-51wh2j0l1Yzr_v_9b65fn6D2v0LtJPGunE/edit?usp=drive_web&ouid=102007248675813661900).
+
+* [Liste de déclarations environnementales de Green IT](https://declaration.greenit.fr/).
+* [Liste de déclarations RGESN](https://ldevernay.github.io/green/2024/09/02/rgesn.html).
+* [Générateur de Déclaration d'Écoconception RGESN](https://github.com/timothegratuze/generateur-declaration-eco-conception-RGESN), un script python auquel on donne le fichier excel prérempli.
 
 ## Listes d'outils
 
@@ -138,7 +146,7 @@ Ces sites qui ont toujours été minimalistes et efficaces.
 
 
 - Greenspector - [Quel format d’image choisir pour réduire sa consommation d’énergie et son impact environnemental ?](https://greenspector.com/fr/quel-format-dimage-choisir-pour-reduire-sa-consommation-denergie-et-son-impact-environnemental/)
-- Addy Osmani - U[sing Modern Image Formats: AVIF And WebP](https://www.smashingine.com/2021/09/modern-image-formats-avif-webp/)
+- Addy Osmani - [Using Modern Image Formats: AVIF And WebP](https://www.smashingine.com/2021/09/modern-image-formats-avif-webp/)
 - [Maximally optimizing image loading for the web](https://www.industrialempathy.com/posts/image-optimizations/)
 - CSS Tricks - [A Guide to the Responsive Images Syntax in HTML](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
 - [web.dec (Google) - Optimize your images](https://web.dev/fast/#optimize-your-images)
@@ -151,6 +159,9 @@ Ces sites qui ont toujours été minimalistes et efficaces.
 - [Software disenchantment](http://tonsky.me/blog/disenchantment/) et [JS Bloat](https://tonsky.me/blog/js-bloat/)
 - [Le monde du logiciel est en train de se détruire... Manifeste pour un développement plus durable](https://greenspector.com/fr/le-monde-du-logiciel-est-en-train-de-se-detruire-manifeste-pour-un-developpement-plus-durable/)
 - [Poids du jeu démineur sur windows au fil du temps](https://pbs.twimg.com/media/EfJQlYOUEAMjUGG?format=png&name=small)
+
+
+* [80% des fonctionnalités des logiciels sont peu ou pas utilisées (en)](https://www.pendo.io/resources/the-2019-feature-adoption-report/).
 
 Le web :
 - [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
@@ -187,3 +198,4 @@ Le web :
 - [Build once run everywhere - in C](https://justine.lol/cosmopolitan/index.html)
 - [This blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
 - [Offline app architecture: Why you should build offline-first apps](https://www.techaheadcorp.com/blog/offline-app-architecture/)
+- Une [migration de Java vers Swift (en)](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/) a permis à Apple d’améliorer grandement les performances (40%).
